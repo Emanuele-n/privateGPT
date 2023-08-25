@@ -1,0 +1,478 @@
+Hello, and welcome to this episode of the Surgibots podcast. In this episode, we sit
+down with Lucien Blondel, co-founder and CTO of Quantum Surgical. Quantum are a really
+cool little company defining a new area of robotics in the interventional oncology market.
+In the episode, we talk about everything from building a brand, starting a company, current
+market challenges, and everything in between. So, enjoy the episode.
+Hello, Lucien, and welcome to the Surgibots podcast. It's a pleasure to host you here.
+Thank you for having me in.
+No problem. You're pretty famous on LinkedIn in this space, but for those of you who don't
+know, who are you?
+Wow, that's a big question. I'm an engineer by background. Currently, I'm a co-founder
+and CTO of Quantum Surgical, a startup in robotics for interventional oncology. And
+I've been working in robotics and imaging for over 20 years. So, I started in the early
+2000s. I worked on introducing robotics for various specialties. Actually, I started in
+laparoscopy, then orthopedics, neurosurgery, cranial neurosurgery, spine surgery, then
+I moved to interventional radiology and now interventional oncology. So, I work both in
+the startup environment and big corporates, Zimmer Biomet and GE Healthcare.
+Cool. So, how did you get into the space?
+Well, it's since the very beginning, actually. So, I was in engineering school. I was not
+very much attracted to heavy industries, such as automotive or railway or any kind of heavy
+industry that requires automation. And so, I picked an internship that was a nine-month
+internship in a research lab that was developing a surgical robot for laparoscopy. At the time,
+it was aiming to compete with the computer motion system and intuitive surgical DaVinci.
+It was a very big research project and that's where I discovered pretty much the medical
+field and surgical robotics field. It was the very beginnings of this field. So, I researched
+all what was happening in this field and worked on this project. And then I took a gap year,
+traveled the world with my twin brother and sister. And then when I came back,
+I applied for a position in a startup that was called MedTech and that was
+in the south of France. And that's where we started our journey in surgical robotics.
+Brilliant. So, what attracted you to the medical space and surgical robots?
+Yeah, I think it's the purpose. I mean, it's the meaning of what you do. What's the benefit? Who
+do you provide benefit to? So, for me, it was a strong passion for designing products that can
+improve people's lives through technology. I was not much attracted to improving the speed of a
+vehicle or the less, I don't know, money to spend on some technology. So, I think it's what
+is the same common purpose for all people in the MedTech industry, that is to contribute to some
+way. And whatever department you're working on, it can be product development, but it can be a
+regulatory, it can be HR, finance. We are all contributing to putting devices on the market
+and we hope to have physicians using those devices to help people live a better life or
+have a better quality of life. Cool. So, talk me through that
+MedTech essay story then. So, start, you applied for an engineering position. Talk me through what
+happened for you. Yeah. So, when we started, we were just four people in the startup and we
+started developing a robot in orthopedics. So, the robot name was called Bridget. And we designed,
+first it was a teleoperative device that was milling the bone for preparing the implant
+position in the femur and on the tibia. And then we switched to what we call a collaborative
+robotics approach where the robot is more of an assistant that helps do the cuts at the proper
+position and the proper angle based on a pre-surgical plan that is done on the software.
+That's where we started the MedTech essay journey. And in 2000, that's quite a long ago, 2005,
+Zimmer at the time was looking at some kind of new emerging technologies. They got interested.
+We started discussing, do kind of a labs and they acquired the technology in 2006.
+And they decided to take over the technology and take the project on their own.
+And for some other reasons, the project didn't go until the market. So, we started again
+with the same people and we chose neurosurgery because cranial neurosurgery is a field where
+there is already a lot of pre-surgical planning, navigation technologies. And so, it was a kind of
+a sweet spot to introduce robotics, especially when it comes to what we call functional neurosurgery,
+when you have to implant electrode deep into the brain. And the robotics is especially suited for
+this kind of operation when you have to implant 10, 15 electrode deep into the brain. And that
+is kind of a tricky procedure to do freehand actually. So, the robotics can help you do that
+much faster and with a very reproducible way. So, that's where we actually started
+commercializing the robot. And we expanded then with a new program to the spine surgery application
+that was in early 2010, so 2013, 14. And then Zimmer that in the meantime had both acquired
+Biomed, so that was the Zimmer Biomed group, came back and was looking for a technology to
+add robotics to their actual portfolio of hip and knees, mostly business. And they acquired
+the company in 2016. So, that's a bit of, I mean, shortly the bit of my journey at MedTechSA.
+In 2009, I just left the company. I took a gap year travel around Asia and I worked a couple
+of years also at the GDL scale in international imaging systems to bring robotics to the hybrid
+operating room. Okay, cool. So, after the Zimmer acquisition, Zimmer Biomed acquisition, that
+brings us to Quantum Surgical. So, tell me, what is Quantum Surgical? Yeah, so Quantum Surgical,
+we are obviously a French startup based in Montpellier, South of France, great weather,
+great quality of life. And we target the international oncology market. So,
+international oncology is the fourth pillar of modern cancer care. So, there is obviously drugs,
+medicine, there is surgery, but not all patients are eligible to surgery. And there is radiotherapy,
+but not all organs are suitable for radiotherapy. So, international oncology is
+minimally invasive by definition field that enables through the vessels or through percutaneous access
+to basically biopsy or destroy a tumor. And that's where we wanted to introduce robotics. So,
+we have been founded in 2017. And now we grew to over 100 employees with a subsidiary in the US
+and a joint venture in China. And we market the Epion robotic device that helps physician
+perform percutaneous ablation with the pre-surgical planning software,
+navigated robotics and ablation confirmation. So, that's really the range of what we do. And
+currently, the product is CE-marked and FTA cleared. We have a couple of systems in France.
+We also announced recently the first installation in the US in Baptist, South Florida, in Miami.
+And we are starting the clinical adoption of the product in both Europe and the US.
+Great. So, what challenge is this company there to solve? What challenges are you
+solving through the Epion system? Actually, many challenges because
+right now this is 99% of the time, this is done freehand. And this is quite complex
+to place a needle into less than two centimeter tumor into the abdomen where everything is
+mobile and deformable and moves with the patient, moves with the breathing. And you have to place
+the needle precisely because you want to destroy the tumor through either heat or cold. And you
+have to get five millimeter or 10 millimeter margin around the tumor to avoid local tumor
+recurrence. So, it's quite complex. It's what we call image guided. So, they look at images
+from the CT scan. So, it's in a CT internal shuttle suit. But the gesture in itself, it's
+fully manual. So, it's freehand. And some tumors are very difficult to reach. And when you have
+to place several needles, it's even more complex because you have to place the needles in a certain
+geometrical configuration with parallelism and spacing that have to be respected. And that's
+very challenging. So, basically when you do this, there are four challenges. The one is you need to
+see the tumor in the images. Sometimes you don't see the tumor very well. So, we bring image fusion
+software so you can combine CT, MR, and you will be able to see the tumor by merging those two
+modalities. The second is you need to anticipate how much of the tumor you will burn. And that's
+right now in the mental space of the physician. So, what we do is we simulate the ablation zone
+on the images so he can check if he will get the adequate margins. Then, obviously, you have to
+place the needle at the right position and angulation. That's where all the technologies
+to locate the patient, monitor the patient's respiration, and robotic guidance play a critical
+role. And then the last part, once you have the needle in place, you perform your ablation
+and you need to review the images to verify how much you actually destroyed the tumor and did you
+get the 5 millimeter or 10 millimeter margin. And this is very difficult to see in the
+image and to quantify when you just have your eyes. And what we do is with image fusion, image
+processing algorithm, we quantify this information to confirm whether or not the tumor has been fully
+covered and the 5 or 10 millimeter margin has been done. So, how is this better for the patient?
+How is it better for the surgeon? And how is it better for the health system?
+You know, it's actually the percutaneous ablation is a great technique because it's
+minimally invasive, it can be done on an outpatient basis sometimes, and it has a curative
+intent for a very early stage and early stage cancer patient. So, the technique in itself is
+great when it's done properly, but the challenge is it requires quite a learning curve
+and quite some equipment. So, you know, the benefit, what we aim, what our purpose is
+is to standardize this technique that has been clinically proven. And for some indication,
+it's as effective as a surgery. So, it can be a first-line treatment, but not that many people
+are capable of doing that technique with the skills that is required. So, what we want to do
+is to standardize this technique and bring robotics to enable more physicians
+to provide this kind of program and so treat more patients with this kind of technology.
+What we've seen, what we've researched is that there are approximately, let's say,
+for liver 3 million people, for the full abdomen 4 million people that have early stage cancer
+that are eligible to percutaneous ablation, but only roughly 20% of them benefit from this
+technique. So, what we want to do is to increase this percentage to enable more patients benefit
+from this great technique. And we believe that through advanced planning software,
+robotics and confirmation, we can increase this percentage.
+Okay, great stuff. So, what's the vision for this business then? So,
+what's the vision for Quantum? Where is it going to go in the future?
+Actually, we started, so right now we are in the very beginning of the commercial phase. We were
+in what we call a limited customer release. We know by experience that it takes time to introduce
+robotics. This is not neurosurgery, this is not orthopedics, this is not laparoscopic surgery,
+where robotics has been introduced one or two decades ago. This is just the beginning of
+robotics. This is just the beginning of pre-planning and navigation. So, it will take
+time to educate the market, to educate the community to use those technologies.
+So, we take a step-by-step approach. We started with the liver.
+So, we targeted the liver ablation indication, then we expanded to the full abdomen,
+which is basically liver, kidney and other organs. We are actually in an ongoing trial
+on the lung performed at Gustave-Roussy Cancer Center in France. So, we will soon
+be able to expand the capability of the Epion robot to lung ablation as well.
+And the next step will be to also design the product so that it can help international
+radiologists perform percutaneous bone ablation. So, there is a huge number of metastases that
+appear in the bones, mostly pelvis and spine. And there is a really a fast-growing number of
+ablation procedures that are performed to improve the quality of life of patients that have
+these pathologies. So, the goal for us is really to leverage the technology that we've designed
+for liver to all the other organs that are targeted by this percutaneous ablation technique.
+So, what's the feedback been when you're implementing this technology? What's the
+surging community thinking of this? We've got actually excellent feedback
+from the first customer in the US. That's a key market for us because it's the main
+market for medical devices and that's where people are looking at how much the technology is,
+how fast is the technology adopted. The feedback is it helps me do a complex procedure. It makes
+complex procedure easy. So, especially when you do procedures with multiple needles. So,
+there are some what we call ablation modalities like irreversible electroporation where you have
+to place two, three, four, five, six needles into the tumor and they have to remain parallel and
+they have to be spaced 15 to 20 millimeters. This is extremely difficult to do freehand and
+for a robot this is quite easy because it's just a geometrical command that is sent to the
+robot to position one needle and the other relative to the coordinate system. So, that's where
+basically everything that is difficult to do freehand can be made much easier with the robot.
+When you have to do very angulated steep double oblique trajectories that is difficult to do
+freehand. When you have to place several needles that is difficult to do freehand. And when you
+want to really assess how much you have covered the tumor and avoid local recurrence that is
+difficult to assess in the images. So, that's where software also helps you do that much more
+efficiently. So, benefits have been evolving because we are starting to show clinical evidence,
+clinical usage of the product. So, since we are introducing robotics, the first question is how
+real is this? How does it work? How much it impacts my workflow? And now we are seeing much
+more people digging into how it can help and impact their clinical practice.
+Great. So, what do you think are going to be some of the biggest objections
+and biggest barriers to implementing the EPIO?
+It's always the same in robotics. Some people are good at what they do and it's a challenge
+for them to switch from manual expertise to robotics. Because, yes, it requires to learn
+the technology and to change a little bit the workflow and to train the team to set up the system
+and to prepare the patient according to the technology. So, introducing a new technology
+into the operating room or international suite and into the workflow, it always requires some
+effort. So, this is where we need early adopters. We need innovators that are convinced by the
+benefit of robotics and that will go through this step to show the clinical benefits for
+the patients and for their practice of this kind of robotic technology. Then, you know,
+it's always the same. It's the price, it's the cost, it's the size, it's all these things that
+are visible from a surgical robot and that can counterbalance the benefit on the clinical side.
+So, what stage is the business at right now? What are the next milestones for Quantum Surgical and
+what are you working towards at the moment?
+So, as I said, we are in a limited customer release. So, we target selected reference
+centers in Europe and in the US to help us refine the technology and build clinical evidence.
+So, the next milestone will be a wider launch of the product in those two markets. We are also
+working on getting approval in China through the NMPA process and then we will expand to
+other countries, other regions. But right now, the main focus is building the commercial teams,
+getting systems installed and getting clinical adoption of the technology so that we can
+build and show the clinical evidence for this technology.
+And historically, what have been some of the biggest challenges that you've had to overcome
+and how did you get over them?
+It's a road full of challenges. Well, I think, you know, to start with, the challenge is money
+and people. When you start a company, when we started the company in 2017, we had just the idea
+of building a surgical robotics company. So, you need to find the ID, you need to find the market
+and then you need to find money and people to develop the product. So, those are the two,
+I would say, first challenges. Then all the challenges that automatic companies are facing
+that are around product development, technology development, iteration of different technologies
+to find the right one, really understanding what's the unmet need and how you build this
+technology to answer this need. You know that the regulatory pathways are more and more difficult,
+they're more and more demanding. There is a lot of scrutiny of the FDA on clinical studies,
+on usability studies, on cyber security. So, those are areas you need to invest more than
+now than in the past. And yeah, I mean, there is all these challenges that
+are required to overcome to bring a surgical robot to the market. And for us,
+the challenge on this specific journey that is quantum surgical is to adapting what we know from
+more, I would say, hard tissue robots to soft tissue, which obviously we cannot be as invasive
+as we are in neurosurgery, spine surgery or orthopedics. So, we need to monitor the patient
+respiration but be non-invasive when it's all moving and deformable. So, that's not the same
+challenges. So, take me back to the start. I want to understand the early days of quantum when you
+get the co-founders together and you're trying to define the product. Talk me through how you
+actually bring all those pieces together and start working towards building a robot.
+Yeah, well, you know, actually, so we started the company with Bertin Naoum, who is the CEO.
+Right now, Fernand Badenoff, who is the general manager, and Sophie Roca, who is the
+assistant exec of Bertin. So, we've been working together for 15 to 20 years in those several
+specialties. And so, we know each other quite well. We are kind of a complementary team in terms of
+skill sets and mindset. And so, we had agreed on the idea of building a company. And then we took
+months really to scout the market, look at all the indication in the surgical and
+international space, and try to find the right equation where robotics would actually bring value
+to a surgical or international technique. So, the idea was not to build another robot in neurosurgery
+or spine surgery or orthopedics, but to find another area where there is a proven curative
+technique that is done freehand and that is quite difficult to perform. So, only, you know,
+not that many centers are capable of providing this technique. But when it's done properly,
+it has very good results and it really improves the patient outcome. So, it took us some time,
+but we found this in liver cancer. And then, you know, you start discussing with physicians. So,
+we discussed with a lot of physicians in this space and they all share the same challenges
+they have. And now that robotics is quite introduced in several specialties, they all
+envision that there is a need, there is a potential benefit of robotics in that space.
+So, that took us maybe six months to find this market segment, I would say.
+So, how many market segments were you really looking at at the time?
+Well, I've been looking at all the market segments. I cannot say, yeah, I mean, I've been
+following the surgical robotics industry for 20 years. So, I've been looking at pretty much
+everything. Maybe not, you know, we haven't looked in detail into ophthalmology or dental
+surgery. We've kept into a more traditional surgical and interventional space. But
+we've looked at everything. And we've also looked at what, who, where were the main players,
+were there any robotics already introduced on the market? How was the system positioned
+on the market? So, we tried also to find a space where there were a room for a newcomer,
+but also not an empty space where, you know, nobody has ever tried to bring robotics.
+So, I want to bring the conversation to your personal branding journey. As I said at the start,
+you're a bit of an influencer in surgical robotics, but why did you start building a
+brand? And why did you start sharing your knowledge with the community?
+Yeah, I mean, that's a good question. I think that's something I've been doing
+since the beginning. It's just, I just scaled it to another dimension through internet and
+social media. Basically, I think I really, I started on LinkedIn maybe in 2011, but I never
+had any plan. It was more, you know, when this all started, you put your experience, your background,
+and then you post something once in a while and you connect to people and that was it. But
+I think it was during the COVID maybe to 2021. I figured that there was, and we were in pre,
+we were in a pre-market situation. So, I figured a couple of things and one was we,
+I could share what I already shared internally to more people so that it could benefit to the
+whole community and help, you know, surgical robotics technology as a whole to go faster or
+be better or be more relevant to products that will actually bring benefits for the patients
+and also get awareness on what we were going to commercialize in the coming years and also
+bringing awareness outside of the US, I would say, to early stage startups that,
+you know, sometimes lack of awareness in this field. And I know there are a lot of people,
+a lot of teams doing great things and putting a lot of effort into building those medtech and
+surgical robot products and they deserve some awareness.
+Great. And has it created any opportunities for you at all?
+Yeah. I mean, that's the side effect of sharing is that there is a lot of
+people coming back to you, asking for questions, sometimes asking for advices or just
+bringing opportunities. So, I think everybody's, you know, saying that is that when you network
+properly, then you are in a position where opportunities comes to you and you don't have
+much more to go find the opportunity. So, it's more you have to select what opportunities you
+want to pursue rather than the rest. So, yes, of course, I've been contacted by many people,
+got a lot of opportunities, but I remain focused on building the quantum surgical startup.
+Yeah. So, should more people be doing it in this space, do you think?
+Yeah. I think, you know, it's, on the other hand, it, you know, it's not easy. It's not easy.
+It requires some exposure and some effort because you need to bring, basically, bring value
+to the community. And so, to bring value, it's not something that you just do in five minutes.
+So, you have to be thoughtful of what you do. You have to have some kind of north star that
+drives your content creation strategy to be consistent and to be relevant. And so, there is
+an investment. There is an investment to be done, but obviously, the investment is paying off. So,
+anybody, I would recommend to anybody to at least do some level of sharing and networking
+because we see that, especially since the COVID situation, we've changed from,
+you know, it's a more global world. So, opportunities, you can do, you can work
+remote for companies in the US or in China or in other countries in Europe. But these people,
+they need to know who you are, what you do, where is your value, and that will come if you share
+and connect. So, what advice would you give to anyone who wants to start doing this and
+building their following and building their brand? Yeah, just start. I mean, yeah, I think it's,
+do not overcomplicate things. I think you can build a long time. Your strategy, you can think,
+you can change, you can iterate, you can adapt. What you need to have is a clear purpose. Why
+are you doing that? Because it's going to cost you effort. So, if it's just to get something
+in return, that will not work. You need to have something that really drives you to do this. And
+once you are clear on what is your North Star, then you just have to take the first step and
+then you will learn along the way and adjust and connect to people. So, I would say just start,
+try something, iterate, and connect to people, follow people that do the same.
+The good thing about social media is that there are already a lot of people doing that.
+Probably a lot of people doing that in your field. Probably some people doing that in your field and
+you really like the way they do it or the content they share. And so, they already laid out the
+playbook for how to do it. So, sometimes it's just a matter of finding inspiration and find your own
+way. And your brand is built really around sharing your knowledge of surgical robotics and tracking
+trends and sharing information about that. So, what trends are you currently tracking in the industry?
+Yeah, aside from robotics, right now, I'm quite interested in AI and augmented reality,
+virtual reality. I think, you know, 10 years ago, the robot was the main technology we were talking
+about. And now, we can see that it's not enough. There is instrumentation, there is technology, how
+you prepare your surgery, how you train for using a surgical robot, how you use the data, where you
+get the data, what insight you can get from the data that the robot is providing or the camera or
+anything else that is used during the surgical procedure. So, I'm looking at all those, I would
+So, I'm looking at all those, I would say, peripheral technologies to the robot,
+and how they can actually and effectively be used in some kind of computer-assisted
+surgical procedure. So, AI for, you know, surgical video management, surgical video analysis,
+but also other topics. So, that's more for laparoscopy procedures, but also in like in
+spine surgery, there can be very complex planning phase and AI can, you know, leverage all the data
+from previous procedures to help you plan faster or plan better. So, that's all the AI components.
+And I'm interested into how will be the interface to operate this device in the future.
+And augmented reality is something that we see having a growing interest in a surgical procedure
+to basically avoid, you know, the surgeon to turn the neck, look at one screen, turn the neck the
+other side, look at the video or look at the instrument or his hands or the patient and
+having this kind of wearables will probably help the ergonomics of the situation.
+And then virtual reality, I think we've seen, I think yesterday, there was a new
+FDA clearance from Avatar Medical, they get the FDA clearance for their pre-surgical planning
+solution that leverage virtual reality and advanced 3D rendering to prepare the case.
+So, virtual reality, there are a lot of use cases to train or to prepare the case or
+interoperatively to get information. So, all those technologies, I keep an eye on and I'm
+looking at how they, where are the use case, where they benefit the most.
+Okay. So, what do you think the operating room of the future looks like then? So,
+10 years down the line, what kind of technologies are we seeing and what is going to be in these ORs?
+Yeah, you know, I'm quite humble in that sense that we can dream of a lot of technologies,
+but I know it takes a lot of time to come to the OR, to get through approvals,
+to get a clinical adoption, to get people to really acknowledge that there is a benefit of
+those technologies. So, I don't think in 10 years time, that will evolve a lot. But basically, I
+think we can, you know, there is a lot of data, there is a lot of devices that were not really
+interoperable until today. So, I think the operating room in 10 years should be more integrated
+in the way that the device talk together, share data, share the same user interface. And the data
+that is produced during the case should also be more used, exploited, analyzed, and to provide
+insights during the case or after the case to the surgeon while moving to something more integrated
+and using more the data that is produced because there are a lot of data that is produced during
+the case. So, that's overall what I'm looking at, more integrated suite and more insights.
+So, what do you think are the biggest challenges that we're facing as an industry right now
+in surgical robots?
+Well, everybody's facing the kind of crisis that is right now in the medtech space. We've seen
+the layoffs in the tech industry first, then in the medtech industry, and especially in
+surgical robotics. And every geography is different. But in the US, you know, the hospitals, they
+suffer from the COVID situation. They don't have that much money to invest on capital intensive
+equipment. So, the business model is evolving towards a different model to enable those
+hospitals to not acquire upfront the technology, but being able to use the technology and like
+pay Berkeley or a subscription model or all that kind of different alternatives that enable to
+use a technology without having to pay too much upfront. So, there is this economic situation
+that is challenging for every company that is trying to sell a very innovative
+technology, medical technology. And at the same time, it's an opportunity also for a small startup
+that can go fast to, you know, to do better on a specific niche or specific market segment.
+Because the big strategics, they sometimes go away from some markets and because they figure
+out that this is not economically beneficial for them, but that leaves some space for smaller
+companies, I guess.
+Okay. So, what companies are you excited about? So, have you got anyone that you're
+tracking on your radar that you think have got a really cool product or a great market opportunity?
+Yeah, everyone is on my radar. But I'm very curious about what's happening in China,
+not because of the innovation and the technology, because I think they are kind of
+delivering the first generation of robots in surgery, but they do this at a speed that
+we do not experience here in Europe and the US. And so, it's moving a lot. I mean,
+Asia market is changing a lot and there is so many companies developing what we could call
+the high-end premium products for their market specifically. And at some point, they could come
+to Europe and to the US once they've established their position in their home country. So,
+China, Asia is something I'm looking at. And then I'm quite curious about all the
+very specific and different indications that are being developed. For instance, I'm looking at
+ophthalmic surgery right now. So, two French medtech startups, AcuSurgical, Caranova, they're
+working in this field. This is something that has not been called surgical robots for decades. And
+that's kind of the first introduction of robotics in this packet. So, I'm quite a curious guy. So,
+I'm looking at pretty much everything. Yeah, great. So, let's talk more about the
+China market then. So, why do you think it's experienced such a rapid, rapid growth of robots
+in China? Yeah, I'm not in China. So, I don't have that much information, but I think it was
+basically a very strong political, strategical choice to develop their own in-house production
+and design of surgical robots. So, that's a choice they've made. I think it was, yeah,
+close to 10 years ago. So, it was in 2015, this Made in China for China plan, where the medical
+technology and surgical robots were identified as one of the areas they should build and support
+their local industry to have big players offering the same level of technology as what outside
+companies, foreign companies were doing to avoid importing surgical robots. So,
+there were very strong incentives. And I also think that the technology is more accessible
+right now. Maybe 5, 10, 15 years ago, it was quite a challenge to assemble a team of engineers,
+scientists, quality regulatory, all the skillset, because it's quite complex to do a surgical
+robot. You need very different skillsets. And with time, all these competencies, all this
+experience have been built in the world. And so, it's more accessible for these kind of companies
+to attract talent, attract people, attract people with experience to build these kind of devices.
+It's more a matter of money and regulatory clearances. And so, if you get some help
+on this side from your government, that definitely is a great help.
+Yeah. And you guys are looking to enter the China market. With all of that complexity and
+difficulty to enter, why are you going after China as a core market?
+You know, we are humble on this situation. We will see how the China market... Basically,
+we've been away from the China market for quite some time due to the COVID situation.
+So now, it just starts to open again. It's not the same situation as in 2010. And so,
+we will look at how that will work, how we can bring this kind of technology to the China market.
+And we will adapt because we don't know what it's going to be like in 2, 3, 5 years' time.
+So, the goal is to see how that will unroll.
+Cool. So, bringing it back to a regional conversation,
+France is a bit of a hotbed for surgical robots. Outside the US and outside of China,
+it's got a large number of surgical robotics startups and also a couple of mature organizations.
+So, talk to me, why do you think France is that become kind of a leader in surgical robots?
+Yeah, I think it's different reasons. One, I think we have kind of a relatively cheap,
+very good engineers compared to the US. So, if you want to... I mean,
+building a surgical robot is capital intensive and you need to get highly qualified engineers
+to do the software, to do the hardware, to do the instrumentation and all these skillsets. So,
+France is a country where we have very good engineers that have been trained on various
+specialties. And so, you can find the people that have the skills to develop your product.
+In France also, there is also a strong incentive from the government to do innovation. So,
+there is what we call the Crédit d'impôt Recherche, that's basically the company gets
+reimbursed a fraction of what they spend in R&D. So, it's a good situation for the company to,
+when you're early stage and you develop an innovative product, you get a non-dilutive
+funding this way. And also, I think there is a strong surgical medical community and history
+around innovation. So, that's historically a country that has provided innovation in surgery.
+And so, you have good research laboratory in robotics, you have engineers and you have surgeons
+that are used to drive innovation. And when you can combine all these and have non-dilutive
+funding to make your project move forward, that makes a great ecosystem to start a medical startup
+in surgical robotics. The challenge then for France is that we do not have the same
+one at the same size in terms of funding than the US. And so, bringing a company from
+an early stage, early commercial company to a big player, that's where the challenge is for France.
+Yeah, great stuff. And so, with that funding conversation continuing, how has Quantum
+been funded so far and what's the plan to fund the business into the future?
+Yeah. So far, we've raised a total of 50 million euros since the company was incorporated in 2017,
+both in equity and non-dilutive funding. And we are looking at a new round, fundraising round
+next year that will bring that to 100 million euros. So, in the startup world, you are always
+looking for money. It's just a matter of when you will raise that money.
+Yeah. So, how do you go about raising those sorts of money? How do you
+go about searching for that and what activities are you doing to raise that kind of finance?
+Well, for the first round, it's a bit specific because we created the company on our own money
+for the first year and then we raised in 2018 with the ABG, Adebridge Group, one of the investors of
+the last round of CMR Surgical. And this investor was already a part of the MedTech story. So,
+the previous adventure before the company was acquired by Zimmer Biomed. So, that was something
+we knew, who trusted the management team and who trusted the vision. So, the
+first fundraising story was a bit different than a first-time entrepreneur or a classical
+search for this kind of money. And now, we are back to a more traditional approach
+to fundraising. And basically, it's meeting investors, doing calls,
+going to conferences and getting some support from people who are specialised in this kind of
+activity. It's a lot of presenting the presentation of the company, of the
+latest achievements and building the equity story and the future of the company.
+And how do you decide on an investor? So, you speak to a lot of people, I'm sure you have
+multiple offers from different places. How do you decide who's going to be the right fit for the
+company? I think one criteria is beyond the money, what will the investor bring to the company?
+Because it's really, really difficult to build a surgical robotics company.
+And so, you need to have as much help as you can from your investors, from your board.
+And so, whenever you can find someone who has already a network in this industry, who can
+have a vision on the strategy, who can help you on the Chinese market or on the US market or
+on commercialisation or whatever. So, the better is to find an investor that will bring you
+more than the money, it will bring you a strategical point of view, perspective,
+it will bring you a network of people that you can reach for various reasons. And yeah,
+I think that's what you are looking for when you try to select an investor.
+So, when you're selecting people for your team, what kind of culture or what kind of person are
+you looking for? What are the key behaviour traits? What kind of people do you look for?
+And yeah, what kind of culture are you trying to build at Quantum?
+I think what we're, it's not exactly the same when we started the company and right now,
+but basically, adaptability, I think is key. We are in, we're still a startup. The future is
+always uncertain. And so, we can, we need to have people that are ready to embrace change,
+that are engaged into the vision, into the mission. And so, we need to have people that
+are capable of doing more than just a job description, willing to help their teammates,
+willing to do something that maybe it's not exactly what is in their title, and ready to
+change, adapt, iterate, because we have to do that as a startup to adjust to any kind of situation.
+And we've seen that with the COVID, we've seen that with the crisis right now, and permanently,
+we have to adapt our strategy, we have to adapt our plans. And the mission and the vision is still
+the same. And we deliver pretty much on plan. But we have to do a lot of adaptation on a daily basis.
+So people need to be adaptable, and people need to be engaged. And people need to really to be
+convinced about, they want to work in the, you know, for a medical device, because it's a,
+you know, that it's a very regulated environment. So there is a lot of work to be done
+outside just, you know, developing a technology, or selling a technology. And this has to be a
+strong willingness to work for a medical device. Great. And so, more generally looking at the
+sector, what advice would you give people who are looking to enter into surgical robotics,
+whether that's from an academic background, another medtech company, or even from an
+alternative industry? I mean, the first, we're not that big market, so I would say network,
+because not all the opportunities are in a job offer. So I would, this is maybe one of the first
+opportunities to get a job is to network with people. Then I would say, don't wait to be in
+the industry to build your knowledge, to build your experience, some experience in surgical
+robotics. You can try to attend cases, you can try, you can read papers, you can watch videos,
+you can talk to surgeons, you can build yourself your own vision, your own knowledge of surgical
+robotics, because nobody's trained for surgical robotics. There is no, you know, degree in surgical
+robotics. So companies are expecting some kind of experience, and it's easier when you show that
+you have a patient for this field, and you've done something, and you're capable of doing things on
+your own autonomously, and that you've reached some level of understanding, either on the
+clinical aspect, or on the market, or on the quality regulatory. Then it really depends which
+kind of role you want to do. But if you want to enter into product development, you need to
+know at least some of the standards, and some of the basic technologies.
+And to close off this episode, what do you think are the three key ingredients that would make up
+a successful surgical robotics company? Three ingredients for a successful
+surgical robotics company? I would say, you know, it's a product market fit first, because
+you can build the greatest technology if it doesn't fit a clinical need,
+and a market size, you will never reach the success. So that's really
+something that is important, and sometimes it requires the company to shift its
+strategy when it finds that the product is not actually fitting the first market that
+it was intended. And actually for Intuitive Surgical, they were aiming at cardiology first,
+cardiac surgery first, and they ended up getting a huge success in radical prostatectomy. So
+it's always good to have that in mind. I think I would say differentiation,
+maybe I'm biased on this, but I think you need to show, right now you need to show
+that you are providing something that is really differentiated from what is existing on a market,
+or what is the conventional technique on the market. So really some element of differentiating,
+it can be technology, but it can be also a business model, it can be something else.
+And yeah, I think the third one is some kind of, I would say resilience,
+be resilient, because it's a tough road, you will go through ups and downs,
+and so you need to have a team, and management, and the leadership that is capable to go through
+this quite difficult journey sometimes. Brilliant stuff. Thank you very much for
+joining me today, Lucian, it's been a pleasure to chat to you. Thank you, Henry.

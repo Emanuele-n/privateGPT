@@ -1,0 +1,618 @@
+Hello and welcome to today's episode of the Surgery Bots podcast. In this episode we speak
+to Greg Fischer, the CEO of a company called AIM Medical Robotics. AIM produce an MRI compatible
+robot for applications in neurosurgery and other surgical applications. In this episode
+we talk about many different things including Greg spinning out this company after 15 years
+of academic research, his expertise, protecting IP, where the company is growing and many
+other things that are really interesting, especially to anyone who's an engineer. So
+sit back and enjoy this episode.
+Hi Greg and welcome to the Surgery Bots podcast.
+Well thank you very much for having me Henry.
+Cool.
+So to kick things off, can you give me your background? Who are you and what do you do?
+Sure, well my name is Greg Fischer. I have been a researcher and a faculty member for
+the last 15 years over at Worcester Polytechnic Institute and while we were there we developed
+all sorts of amazing technology related to MRI compatible surgical robotics, ways we
+can use real-time medical imaging to guide surgical procedures. And all of this technology
+that we've worked on over the last approximately 15 years, probably close to $15 million of
+funding that we've had through government funding, we've decided to go ahead and commercialize
+this. So in 2018 AIM Medical Robotics was founded and I'm currently the CEO of the company
+and I'm taking this job full-time so that we can really push forward on the technical
+development and get this neurosurgery robot we're working on to market as soon as possible.
+So how did you get into this in the first place?
+So you know I've been involved in medical devices since pretty much as long as I can
+remember. In fact my father was a medical device engineer for Johnson & Johnson, actually
+worked at Ethicon way back in the day. And then even in my undergraduate, my senior design
+projects were related to smart surgical drills to help with pedicle squirrel placement. So
+this is something that's really been in my blood if you will for quite some time. I studied
+my PhD at Johns Hopkins as part of the computer grade surgery engineering research center
+which was a large National Science Foundation funded research center dedicated to surgical
+robotics and the like. And that's really where I started getting into MRI guide interventions.
+What excited me most about this was as an engineer you think of what does closed loop
+mean, right? You want to use feedback to make sure you do a procedure the way you intended.
+And what happens a lot of times is you spend a lot of time doing surgical planning, right,
+during a procedure for a given patient. But by the time you get to the procedure, things
+have moved, things have changed. And that's especially true when you're working on soft
+tissues. So the idea of being able to use real-time imaging during a procedure to make
+sure it does exactly what you want to do and you actually perform the intervention the
+way you want to, to me that was incredibly appealing. And then going into the MRI side,
+it's one of those things that it's almost the worst case scenario. If you can make something
+that works in MRI, it's going to work anywhere else. We can use it in an operating room,
+we can use it on CT, we can use it in ultrasound. So it's been really, really exciting to really
+try to tackle that problem. And that's what I've been working on since pretty much the
+beginning of my graduate school days, through my faculty days, and now through the corporate
+development side of things.
+Okay. So how did the company actually spin out of WeSearch? Tell me a bit about the story
+there.
+Yeah, absolutely. So this is technology that we've been working on for, as I said, it's
+been probably about 15 years on the academic research side. We actually started doing development
+in MRI guide interventions for prostate applications, prostate cancer applications, and we had a
+lot of success there. We actually worked with the Brigham and Women's Hospital in Boston.
+We had a 30-patient human study with this. It was a collaboration between Worcester Polytechnic
+Institute, which is where I'd been a faculty member, Johns Hopkins University, and Harvard
+Medical School through the Brigham and Women's Hospital. And it was a very, very exciting
+project. And then I'd say 10 to 15 years ago, I started working with Dr. Julie Politzis,
+who's now the co-founder of the company, as well as now she's the dean of the medical
+school at Florida Atlantic University down in Florida. And the idea here is that we wanted
+to figure ways to do better surgical interventions for neurosurgery applications, right? So how
+can we use real-time imaging to make sure you insert an applicator, insert a probe in
+exactly the right spot, even if there is brain shift or tissue deformation or anything like
+that? So we started looking at this for deep brain stimulation. And then ultimately what
+happened was we got a large NIH R01 grant. So these are about $3.5 million grants for
+cancer care. And the idea here is we wanted to do thermal ablation for deep brain tumors.
+And you can use the MRI to figure out the boundary of the tumor. And then we can also
+use the MRI to guide and place the applicator and then watch the delivery of the therapy,
+in this case, looking at the thermal dose delivery and guaranteeing that it works.
+So along that journey, we filed a number of patents. We had a lot of IP that we developed.
+We also had a follow-on grant for another $3.5 million for the neurosurgery work. And
+then, as I mentioned, around 2008 is when we incorporated AIM Medical Robotics. We were
+working with a banker and some other business folks at the time that were really excited
+about this technology. They licensed the technology into a newly formed company. That company
+really took on a life of its own. We've been developing for the last few years. And I'm
+really excited that as of February of this year, I stepped in as the full-time CEO of
+the company so that we can really, really take this focus on the commercial development
+and try to get this product built and launched, hopefully within the next one to two years.
+Cool. So in simplistic terms, can you tell me what does AIM Medical Robotics actually
+do? What does their robotics system actually do?
+Yeah, no, that's a really good question here. So the idea is that we want to put robots
+inside of an MRI scanner so you can guarantee that you place an instrument or a tool in
+exactly the right spot. So you can think of a scenario like the brain stimulation for
+Parkinson's disease, where they typically put two electrodes deep inside the brain.
+A lot of times it's going to the subthalamic nucleus. Sometimes there's some other targets.
+These are very tiny targets, and you need to make sure that you put the end of this
+applicator in exactly the right spot. In fact, a lot of the ways that they do this
+now in an operating room is they have this supplemental step of microelectrode recording.
+So they'll put these electrodes in, and they'll essentially listen for buzzing sounds to make
+sure that they're getting the right exact electrical activity. Then they pull that out,
+and then they stick the other more permanent probe inside. And that can be, in some cases,
+an hour to two hours of extra time. There's extra personnel. Often there's a neurologist
+that's in the room doing this part of the procedure. And the reason for that is primarily
+that you can't get the accuracy or you can't guarantee that you're going to be in the target
+based purely on what's available in the operating room. So by taking this procedure and putting
+it inside an MRI scanner, which is the standard of care for doing the surgical planning, every
+one of these procedures is planned on preoperative MRI, we can use iterative intraoperative MRI
+to look at shifts in the brain. So for example, if I want to put something in the brain, if
+you drill a hole, it's going to actually sag a little bit as the cerebral spinal fluid,
+the liquid that's around your brain, falls out or drips out. Similarly, if you start
+poking at the brain, just like anything else, imagine you get punched in the arm, you're
+going to get swelling, tissue swelling, things move, things change. So working on these stale
+images, if you will, from before a procedure, it may be great to get a targeting relative
+to the skull. And that's how a lot of these systems, they can give you perfect targeting
+almost with respect to the skull. It's not really giving you perfect targeting relative
+to the soft tissue anatomy inside your brain. And that same thing applies to abdominal anatomy
+and other parts of the body as well that we'll look into in the future. So essentially the
+idea here is that we want to be able to take these probes, and in this case, it's deep
+brain stimulation for Parkinson's disease, but the same thing is true if you're trying
+to take a targeted biopsy. The same thing would be true if you're trying to do thermal
+ablation, which is essentially sticking a needle. I can have fiber optics on it, or
+I can have ultrasound elements on it that's trying to burn tissue. In all of these cases,
+you want to get the applicator in exactly the right spot relative to the anatomical
+structures of the brain. So that's where our robot can really help.
+Okay, fantastic. So why is it such a challenge to make a robot that is MRI compatible?
+So the engineer in me is very excited about building robots that can go inside an MRI
+scanner. If you think of a motor, an electric motor, that's the heart of most robots. It's
+a steel can, a coil of wire, and a magnet. Those are probably about the three worst things
+you could put inside an MRI scanner. So it's really, really exciting to think about how
+can we come up with new and innovative technologies that let us put robots inside an MRI scanner,
+and not just put them in or near an MRI scanner, but not have them affect the imaging of the
+MRI scanner as well. So the safety is a given. Obviously, we want to make sure we don't put
+anything that's going to be ferrous and have a projectile effect that could hurt a patient.
+There's other factors, things like resonance within the wires that can cause heating. That's
+the reason why you would usually take off jewelry and other things when you're doing
+the MR imaging procedures, because you don't want to get this heating. But on top of that,
+we want to find ways that we don't actually distort the images or create electrical noise.
+And that's a really, really big problem. If you were to go take any standard electronics
+and throw them in an MRI room, and I tested this with just a laptop power supply at one
+point, you essentially get an old static-y TV image is what it looks like, or you'll
+end up with streaking or other issues and artifacts. So the large majority of my research
+over the last, I'd say, close to 15 years has been, how can we put piezoelectric actuators,
+so essentially ceramic actuators, inside an MRI scanner and get really high-precision
+motion in a very compact form factor without affecting electrical activity? But on that
+front, I've really tried to give every actuation technology a fair shake. In fact, my PhD dissertation
+was on using air power to pneumatic robots inside MRI. So I spent many years of my life
+doing that. I think it should be somewhat telling that I've, since that point, pivoted
+into the piezoelectric space. I think there's huge advantages to going in that direction.
+That being said, we've certainly tried that, and there are some use cases where I think
+that's ideal. We've tried dielectric elastomer actuators, which are essentially just really
+high voltages that you put across pieces of rubber to make them move. Again, they're really
+cool technologies that are MRI compatible. They might have some applications in haptics
+and force feedback, but they're not really practical for this type of motion. We've looked
+at hydraulics. I think those things can be really good if you're looking at rehabilitation
+robotics and a lot of times like fMRI, for example, if you want to move somebody's hand
+while you're looking at functional maps of the brain. But for surgical applications,
+we really feel very strongly that this piezoelectric approach is the way to go.
+Okay. Fantastic. So you said that you're, but you are now the CEO of Aiden. So tell
+me about your journey. So when you joined the company, what were you doing when you
+first spun out and then how has that changed now you're CEO?
+Yeah. So obviously I've always been involved in the company in one way or another. The
+technology that the company based on is primarily patents that I developed in my academic life,
+along with some of my collaborators and the students that we've been working with in the
+lab. So I've been acting in more or less an advisory role for the last few years. I was
+the chief science advisor of the company. I was very involved in a lot of the development
+efforts, but I wasn't the one leading these. And we really got to a point in the company
+where we decided that we really need to make sure we put all of our efforts into developing
+the actual core technology that we're working on here. A lot of our earlier funding went
+into working with design firms and contract manufacturers. And that worked well for building
+these initial prototypes of what it looks like, what it feels like, but we felt it was
+mission critical for us to bring what we thought was really the meat, if you will, the important
+part of our technology in-house. So what we're trying to do now is really pivoting
+and building up a very strong engineering team as well as the business development team
+within the company. So now, as of this spring into the summer, we're going to have about
+a half dozen engineers working on this where we can really take this expertise, bring it
+in-house, build upon it. And that gives us much better ability to modify and tweak and
+really optimize the designs. And also we're trying to build a company, not just the first
+product we're trying to get to market here, because we're likely going to have additional
+indications, additional accessories. And it's really, really important for us to build up
+internally these resources. So that was the main impetus behind me stepping in and taking
+the role is that we wanted to have a strong technical focus without obviously losing our
+direction on the business side as well. So it's important that we build this device,
+build the prototypes, have really strong plans for our experiments. At the same time, we're
+strongly focused on the regulatory pathway, the reimbursement pathway, what we're going
+to be doing for our V&V studies, getting our user experience studies in place. And
+then also, again, through all of this, thinking about what's the manufacturing process and
+making sure we're designing this appropriately so we can scale it up appropriately and manufacture
+it and sell it. And then on top of that, also, it's really important that we continue to
+build a strong IP portfolio. So all these pieces, they all build around getting the
+system up and running and built. And that's why we took this kind of change of path here
+to really focus on the technical development and bring me back in since I've really been
+involved since the beginning on getting the initial technology designed.
+Okay. So what are the big projects and milestones that you're currently working on?
+So up to this point, we have our initial, we call it the first commercial prototype.
+And that's what some people might have seen in our pictures, presentations, videos that
+are out there. What we're working on right now and what I anticipate having within the
+next two months or so is what we would call our beta prototype. And this is our next version
+of the commercial system. The idea here is this is going to look, feel, operate and really
+just behave very much like what we anticipate our commercial system working like. And this
+is going to let us do preclinical studies this summer, which I'm really excited about.
+We anticipate beginning cadaver studies this summer. We're also looking to use this for
+these user experience studies. So I want to start bringing in as many clinicians as possible.
+We have a really strong clinical advisory board that's been giving us feedback along
+the way, but we want to get this in their hands, get as much feedback as we can, as
+well as bring in a really broad spectrum of people from different backgrounds in the neurosurgery
+space to make sure we're on the right path and really formalize what our requirements
+are, what the user needs are before we go into the official clinical version of the
+robot essentially. And then this device we anticipate also to running all of the safety
+testing and our goal and the end of the upcoming round that we're focused on is really trying
+to get to a first in human studies, primarily under an IRB at a single site. And that's
+going to be this huge launching point for us to demonstrate that, look, this really
+does work. There is huge benefit for it. And this workflow that we're proposing really
+has a tremendous amount of benefit and advantage to both the patient and the clinicians.
+Okay. So let's talk about the robot then in terms of how it benefits different parties.
+So how does it benefit the patient? You've touched on that already a little bit, but
+how does it benefit the patient, the surgeon, and also the health system?
+Yeah, absolutely. That's a really, really important question. That's been fundamental
+to us really since the beginning. So first off, when we're talking about the robot here,
+what I want to get across is this is a very compact device. It's very portable. Think
+of a standard stereotactic frame. It's usually a metal frame that goes over your head. Essentially,
+it's a robotic version of that or an actuated version of that. That's very, very portable.
+And it also happens to be compatible with the MRI environment. So we can put this in
+the MRI scanner and use it while we're imaging. So this whole system is very portable. You
+could have it from, you know, in a case in the closet to on the bed and ready for use
+in a patient in, I would say, under 30 minutes. I know our earlier iteration when we did these
+prostate studies, we actually timed it, and it was less than 30 minutes from, you know,
+buried in the back of a closet to being on the bed and ready for the patient. And it
+has no requirements on the MRI room itself. So we can put this into any MRI room. There's
+no need to add custom patch panels, passing wires through there, nothing permanently installed
+in the room. So we can pick this up and really bring it anywhere. In fact, for some of our
+initial testing, we've been putting this in a Pelican case and flying around and showing
+it to folks. And we can even do the same thing with a functional robot and set it up pretty
+much anywhere in an operating room or an MRI suite here.
+So as far as the benefit to the patient goes, think of something like deep brain stimulation.
+The typical procedure is they go to an operating room. The patient is actually awake because
+they need to make sure that they're in the right spot, and they want to either be asking
+questions or seeing if that patient's hand is moving. So you can imagine drilling a hole
+in a patient's head while they're awake. Obviously, they're out of it, but they're still awake,
+and that scares off a lot of patients. So for deep brain stimulation, we can do asleep
+procedures completely within the MRI environment. Doing that, you know, one, it allows the patients
+to be asleep, so it's a more streamlined, easier procedure. They're much more accepting
+of that as well. There's a lot of patients that actually decline this procedure because
+they really don't want to do this awake. But also, we get the real-time MRI imaging, which
+guarantees that we're in the right position based purely on the MR imaging. And one of
+the huge advantages for that is it can reduce the... Well, first, it's going to increase
+the effectiveness, but it can also reduce the chance of revisions. And there's varying
+rates in the different literature out there of what the revision rates are, but it's not
+insignificant. And revision means they have to go back and essentially get another surgical
+procedure. So we can avoid that. The other advantage to this for the patients is we can
+make this procedure much, much faster. So our goal is really to streamline the workflow.
+In fact, that's probably one of our most important aspects of this is getting this workflow down
+to the point that everything can go as fast and as smooth as possible while being as accurate
+and, you know, also reducing any chance of human errors along the way. Right? So if we
+can get this procedure down to, let's say, you know, a three-hour procedure instead of
+what was a six- or seven-hour procedure, now you can double the throughput. So for patients
+that can get patients off wait lists faster, get them into the procedures faster, but you
+can imagine that's probably the biggest benefit to hospitals and surgeons is they can effectively
+double the throughput of their procedures in this scenario. So we can be getting, you
+know, two procedures a day instead of one for, let's say, a deep brain simulation lead
+placement. Again, the other advantage for surgeons is this can help streamline the workflow
+to them. It can reduce the time, as I said, but also we also think about, like, cognitive
+load on the surgeons. We want them to be as focused on what's most important and where
+their level of expertise is. And I want them to be focused on what they really have a tremendous
+amount of knowledge on, which is what is the exact spot this is supposed to be, and let's
+make sure we get it there. And if we can really take care of a lot of the other aspects, like
+making sure the robot is actually aligned to that position without having to, you know,
+yell numbers across the room as somebody turned the stereotactic frame and locks it and double
+checks that every little manually adjusted thing is correct, just for them to be able
+to move it out of the way so they can drill it and have to do that all over again. You
+know, I think there's a lot of reasons why we can reduce error, reduce cognitive load,
+but still let the surgeons do what we feel is really the most important part of where
+their contribution is the most relevant, which is knowing exactly what needs to be done.
+So it's really about how do you implement these procedures the way you want to. And
+then again, from the hospital's perspective, being able to take this and use it in any
+different type of MRI scanner or operating room. So we can work in a traditional OR.
+We can work in an OR with some of these new and emerging low and midfield MR scanners,
+especially ones that can be turned on and off. We can work in a traditional diagnostic
+magnet, so 1.5T or 3T diagnostic magnet. And to me, that's a huge opportunity because
+there's an enormous installed base, and we can get this advantage of the real-time imaging
+without having to have customized suites. And then, of course, we can work in a lot
+of these specialized interventional MRI suites as well, and those places are specifically
+designed for doing these kinds of procedures. But even in the operating room, we don't get
+the real-time imaging, but you still have this workflow advantage. So using this still
+has advantages over even a Lexel frame or some of the competing robotic systems that
+are out there because it's very fast to set up, very easy to use, and it effectively just
+automatically does all of the alignment and checking for you. But of course, the biggest
+advantage comes when we can use real-time feedback to make sure you're actually doing
+what you think you're doing.
+Cool. You mentioned other robotic systems. What is your price point compared to some
+of these other competitors? I know that ROSA is one of them. You've got a few different
+robotic competitors. Where do you sit in that comparison?
+So I would tell you that in the operating room space, the closest competitor that I
+can think of would be something like the ROSA. And there, really, there's a much larger cart
+or gantry-type system that has to be wheeled in, and there's typically a very long setup
+time. Usually, there's a rep from the company that helps to make this come together. And
+from our experiences watching these procedures, once it's in place, it works really well for
+doing targeting relative to the rigid anatomy. So again, you can get very high precision
+relative to the skull. But one, it took a long time to set it up and get us there. And
+two, as I mentioned before, you're not getting the real-time imaging, which means that after
+you've started this procedure, there can be things that are changing within the skull
+that it's not going to be able to compensate for. And certain procedures, like deep brain
+stimulation, where you do multiple insertions, so they're almost always bilateral because
+you put two electrodes in, there's actually studies that show the second electrode can
+be less accurate than the first, primarily because, or they were believed to be because,
+of brain shift and deformation and swelling. So it just shows how important it is for that
+accuracy. As far as pricing goes, we're shooting for likely in the $700,000 range,
+although that's going to depend a lot on where the markets are when we launch for the capital
+equipment. And we're anticipating probably in the ballpark of about $1,500 US for consumables
+for a procedure. But again, that's going to depend on the specific application. The bare
+bones consumables are going to be custom specialized drapes for this, adapters and sleeves for the
+various different instruments. Future products that we're looking to roll out may have actuated
+insertion, actuated rotation, different ablation instruments and other tools. So those will be a
+little bit different, but the general bare bones is what are the different adapter sleeves to let
+us put other commercially available biopsy or ablation or deep brain stimulation devices
+into the robot. And then inside the MRI scanner, as far as I'm aware, there's really no commercially
+available system that's out there yet. I know there's a few emerging systems that are coming
+out there. Things like the ClearPoint device are a manual platform here that can be attached to the
+head. My understanding is that is very, very expensive per procedure. I've heard numbers on
+the $10,000 to $15,000 US for one frame and for something like deep brain stimulation, often
+they'll put two of those frames. So those procedures are not making the hospitals money.
+I've heard relatively good things from a lot of academic centers that can afford to essentially
+lose money on every procedure, but get the accuracy that they want. And I know they're
+looking primarily to pivot applications towards gene therapy delivery, which is something we also
+have interest in. But for a DBS procedure, it takes a long time to do the procedures. It doesn't
+really give the flexibility. It doesn't necessarily have the rigidity that we want. So that's where
+this robotic platform comes in of how can we have a really fast, easy to use, rigid robotic platform
+that automatically aligns and doesn't need these iterative steps to be aligned. And then we also
+feel very strongly that the number of degrees of freedom and flexibility that a robotic system has
+means we don't need to be, for example, attaching it and manually putting it at an entry point,
+and then just doing alignment or tweaking. We can attach this robot to the base of the bed,
+have a very large workspace, and really pick any part that's within a reasonable workspace
+to target it, which to us really is going to streamline this workflow tremendously. And the
+advantages really come out when you start having multiple insertions like DBS, and also things
+like stereo EEG, which can be 10 to 20 electrodes you want to put inside the brain. Using the robot
+for that, these advantages multiply tremendously the more insertions you have over some of the
+competing systems that are out there. Okay. And you've been on the mode recently in presenting
+a number of high-profile events. How's the system been received and how have they gone?
+Yeah, it's been really exciting last couple months since I took over as CEO of the company.
+We were recently out at the LSI conference where we were speaking with a lot of folks and showing
+off the new technologies, and we had a tremendous amount of really, really exciting feedback. I'm
+really glad to see it's very much validating to me to get this feedback from the business
+community. And then since then, we've also been at engineering conferences, had a lot of good
+feedback from engineering conferences of how exciting they are about the technology, seeing
+where we're going with this, seeing how it's really starting to get commercialized. And then when I
+was spoken with clinicians, there were some clinicians at the last conference I was at.
+We've also brought some key opinion leaders in to give us feedback on these systems. Everybody is
+really, really excited about this. In particular, this idea of one, streamlining the workflow,
+and two, just having this really compact device that we can use to take advantage of the real-time
+imaging feedback has been tremendous. And I'm excited to be going out to a neurosurgery conference
+in less than two weeks. And then after that was another investor conference here in our home
+Boston area as well. So it's been really, really exciting, and we're looking forward to getting
+this next round of funding put together pretty soon. And then from there, we have a lot of
+exciting developments that we anticipate happening. Cool. So you touched on a couple of
+things there. How has the business been funded in the past, and how is it going to be funded
+into the future? I know you've got some exciting plans there. Sure. So up to this point, we've
+brought in about $3.4 million in seed funding. So that was our previous funding round. At this point,
+we're putting together what we're referring to as a Series A round, which is going to be bringing in
+between $3.5 million to $5 million. And the primary goal of that is to get us through building
+this work on the beta prototype, the commercial prototype of the robot, getting us through the
+appropriate safety testing that we need to begin our first in human studies. In parallel with that,
+doing some preclinical studies, including cadaver studies. And then we're really targeting early
+2024 for our first in human studies. And that's really the focus of this next round that we're
+looking to bring in, as I said, in the $3.5 million to $5 million round. And we're excited
+that we've already brought in a couple of investors through convertible notes. And we
+anticipate bringing the rest of this round in, I would say, within the next one to two months.
+So are you accepting new investors at this time? Could anyone still invest in the company who's
+listening to the podcast? Absolutely. And in fact, this is the perfect time. We're actually
+officially opening up this next round of funding. And as I said, we're looking to bring in
+between $3.5 to $5 million. And the $3.5 will get us really to this first in human study we're
+looking to do. I personally would like to be able to bring in a little bit more than that so that
+we can start paralyzing our process. What I'd really like to be also working towards is all
+of our user experience studies, formalizing the requirements, bringing everything under design
+controls, and start working on the next version of our clinical system, effectively the final
+clinical device. Because that's going to get us to market faster. So I'm really excited. This is a
+perfect time to get involved. And anyone that's interested, I'd be more than happy to speak with
+them. Yeah. And how would they get in touch with you for that? So if you go to our website, we have
+some information on there. If you just email IR, which is Investor Relations at AIMED Robotics,
+that works. You can find my email if you just send me a message on LinkedIn as well. So it's
+pretty straightforward to get in touch with us if you have any interest. I'd say if you just check
+the website, it has the contact information for everybody. So that's probably the easiest bet
+aside from just tracking me down on LinkedIn, which everybody seems to be able to do these days.
+Fantastic. So far then, what have been some of the biggest challenges you've faced in the
+development phase? Sure. So really what we're trying to do is just make sure that this system
+is as clinically viable as necessary or as we can. And this is what's so important.
+As we've developed this system, not just to AIMED, but I'm going to go back, let's say, 15 years of
+how we've been doing this development over time, we started actually developing the system
+for prostate applications. And I will say the MRI-compatible robot technology worked beautifully.
+Everything was really, really, yeah, very good outcomes. The compatibility looked great. We ran
+these first in human studies. They actually ran perfectly. Everything went the way it was
+anticipated. The problem is there, we had a much harder time, at least at that time in the US,
+really figuring out what the market was going to be for that and how we can work on that.
+Essentially, we could get very, very precise biopsies inside of the prostate based off of
+imaging. So you could find something that looks suspicious, let me take an image and let me get
+that. But at least the way the reimbursement works and effectively how can we run this within the US
+hospital system, it turned out to be very, very expensive to do what typically could be done
+in a doctor's office under ultrasound. It worked way better. I still very, very strongly advocate
+that. I really hope we're able to push that through. And there might be some international
+markets where the healthcare systems are incentivized differently, where that actually
+has a tremendous advantage. But we pivoted into the neurospace because that's where we need to
+make sure you get really, really high precision. These are super mission critical procedures.
+You can do diagnostics like biopsy, but if we're doing more on the therapy side, whether it's deep
+brain stimulation, lead placement, brain cancer, ablation, delivery of gene therapy, all of those
+need to be done with really, really high precision. And that's where this tremendous benefit came in.
+So I think a lot of our journey has been figuring out really where can we apply this technology
+where it has the best and the strongest business sense. We've teased out what I would say all of
+the technical risk over the last 15 years. I have very, very high confidence in putting our devices
+inside the MRI scanner, getting the accuracy that we need, getting the trajectories of the motion
+that we need, doing registration, reducing essentially the effect on image quality.
+All these areas I think we have really strong confidence on. On the engineering side,
+we've built up a really strong engineering team. So I'm very confident that we're going to be able
+to get the precision, the repeatability, the stiffness we need on the robot. A lot of our
+work has been how do we make sure the workflow is correct, the business case is right, and that
+we're really solving the right problem. Yeah. Can you discuss any major setbacks
+you've experienced and what you actually learned from those?
+So as I mentioned, through the development, I think really iterating and steering this
+in the right direction makes the most sense. So we started off with the grant-funded academic robot.
+And then one of the things that we noticed there is we'd made some trade-offs in the size and the
+configurations of the robot. And one thing I noticed is that every neurosurgeon, the first
+thing they do when they grab a robot is take it and shake it and see how stiff it is because
+they're used to working with essentially a big steel frame. And if you look at the design
+iterations of our robot, if you look at what came out of a lot of our grant-funded work a few years
+ago, it was kind of this single-sided remote center motion mechanism. And then what we've
+changed to more recently is this two-sided arc. And it actually looks a lot more like a traditional
+stereotactic frame. And this really gave us, one, the rigidity and the accuracy that we need. In
+fact, a number of the folks on our team were involved with commercial industrial robotics and
+feel we can get down on that 50 micron or so accuracy that a traditional industrial robot
+is able to get. But the other side of that is we needed to make sure that this was compact and able
+to fit in there. So we came up with what I think is a really, really nice, elegant solution that
+looks and feels a lot like a stereotactic frame. It fits into the workflow, but it has all these
+advantages of being able to automatically align. You can press a button, have it dock and get out
+of the way. You can press another button, it goes back to exactly where it is. So it should be faster,
+more accurate, more streamlined workflow, less chance of human error. And then the sole system
+integration is going to be really important as well. So your planning software is completely
+integrated with the robot to make sure it goes to exactly where you want without having to manually
+enter things in or tweak the plan. Okay. And what do you think so far to date,
+what's been the biggest achievement of AIM and why is that the most...
+Yeah. What's your biggest achievement and why is it so?
+Yeah. So really what's really unique about our system is the ability to set up in any MRI scanner
+with this very compact device and have really high precision motion inside an MRI scanner while
+we're imaging. And that last part is really critical, right? We want to be able to have a
+robot that can actually move while we're doing imaging, because then we can do a few really
+unique aspects. One is if you're trying to insert an applicator, we can watch that applicator
+instrument go in and make sure you hit the right target, right? But what's almost even more
+important than that is once you're in place, a lot of times we want to do monitoring of therapy
+delivery. So something like a thermal ablation, we can actually watch the temperature maps. MRI
+has the ability to give us MR thermometry, which gives us the temperature in the area,
+relative change in temperature in the area. If we, for example, integrate that over time,
+we can actually create a thermal dose map that tells us where exactly is there going to be
+necrosis in the tissue and map that onto the boundary of the tumor itself. So if we're looking
+at the tumor therapy application, we actually ran a preclinical study in live swine about two months
+ago now. And to the best of my knowledge, this is the first time anybody's ever done this entire
+procedure, including the planning, robotic alignment of a drill, drilling through a robotic
+drill guide, and then robotically inserting an applicator, rotating it into position,
+and then monitoring that therapy complete within the MRI suite. So we're super excited by this
+ability to really take this entire procedure and take advantage of robotics and real-time imaging
+and real-time therapy delivery monitoring all at the same time. And for us, that was a huge
+achievement, and we're looking to bring this into the next commercial version of the robot very soon.
+Yeah, fantastic. And you've mentioned that you're growing the engineering team at the minute and
+being in some really intelligent characters. What do you look for when you're hiring for your team?
+Actually, that's a really, really good question. And we have a really broad set of different
+backgrounds, and I think that's really important that we can get all the different perspectives.
+So a number of the folks we have are experienced engineers that have worked
+in industrial robotics community before, in addition to the medical side. So
+one part is, we need people that understand, how do you design for manufacturing? On the research
+side, it's really nice to be able to show that the technologies work, and we can tease out what I
+would call the technical risk of getting the system there. But on the other side, we need to combine
+that or balance that with the ability to really design something to get the accuracy we need,
+the precision, the repeatability we need, and also taking into account the design for
+manufacturing while we're at it. So if you look at our team, we have a couple of folks that have
+been in the robotics industry for a really long time, industrial robotics specifically.
+We also have folks that came out of my research lab. In fact, PhDs that came out of my lab that
+have been working on developing control electronics in these systems for five plus years, and they
+really have this real understanding of the underlying technology in the systems. And to me,
+it's having this combination of these different fields. And then on top of that, we also have
+folks that have experience in the medical device industry, which is so critical, because obviously,
+we have a lot of our own nuances that we need to think about in our development process to
+really formalize this. Because unlike a lot of software development efforts where we can
+hack together something like an app, get it on the market in a month and see what happens,
+obviously, we have to follow a very, very strict design process. So I think it's really important
+to get this mix of really good professional engineers, really good researchers, and then
+also folks that really understand the medical device space, and then having this really nice
+collaborative team of everybody working closely together. Great. So how do you create that
+collaborative environment? I think some of this comes out of our academic background where we've
+really just had a very, very collegial environment. In fact, in a past life, I founded a medtech
+accelerator called Practice Point here at Worcester Polytechnic Institute. It was funded
+by the state of Massachusetts. And the whole idea of this was to drop point of practice clinical
+care scenarios. So operating rooms, MRI suites, intensive care unit, motion capture labs like
+rehab, one bedroom apartment for home health care with office spaces, pods for the different
+companies to work. We have manufacturing co-located. And we really tried to build this whole
+collaborative environment. A Medical Robotics is a platinum member of this society, of this
+organization and facility, along with a number of other medical device companies. So we get this
+relationship. We have a lot of medical device companies that are all in the same space together.
+We get a lot of academics that are all in the space together. And it really builds this...
+I find it a fun, very interactive environment as opposed to we don't really want a very rigid
+corporate environment. Let's put it that way. I think it really encourages collaboration and
+discussion and just trying things. Okay, cool. And so let's move on to the future. So
+what are the challenges that you foresee that are going to affect the business moving forward?
+Sure. So there's both the technical side and the business and the clinical side. On the technical
+side, I really just want to make sure we keep the wheels turning and are able to move at full
+steam ahead. With my engineering background, I really just want to pretty much get anything out
+of the way so that we can go full steam ahead and really get this prototype built, get the system to
+market, get us developed as fast as possible. And I want to be able to run as many different
+tracks in parallel as we can. And that's why bringing in the funding is so important because
+we could be very, very lean and get us to, let's say, a first in human study immediately.
+But if we don't develop all of the appropriate design controls and the user requirements and
+do the clinical system development the appropriate ways as we're going along, essentially we're
+kicking the can down the curb. And that's just going to bite us later in terms of,
+it's going to cost us more actually at the end of the day. It's going to take us longer. It's
+going to take longer to get to market. And it's just going to cause problems and lose momentum.
+So in my mind, it's really about how do we maintain this momentum and run as many of
+these parallel tracks as possible? And then on the business side, we're really working out what
+our business case is so that we can be the most convincing to investors. And at the end of the
+day, more importantly to the clinicians, the patients and the hospitals. And we have a real,
+really, really strong case. And we're trying to formalize this so that we can
+really, really tell that story effectively. Yeah. And what do you think about some of the
+wider challenges that face surgical robotics as an industry? And what do we have to overcome
+as a collective in order to get widespread adoption of robotics?
+So in my mind, I think there's really a huge opportunity for smaller, more application
+specific robotics. There's a lot of really interesting, cool new stuff that's coming out
+in the soft tissue abdominal surgical robotics space. And that area is somewhat crowded, but
+again, there's a lot of really interesting technologies coming out of it. But where I
+think there's going to be a huge surge of new technologies is much more compact, much more
+specialized to a specific anatomical area or a specific clinical need. And these can be lower
+cost devices. They can be much more affordable. And I really, really think there's this need for
+these kinds of devices that can go into not even necessarily the top academic hospitals, but how
+can we, I know it sounds like kind of a buzzword, but democratize this, right? Can we have lower
+cost devices that can be in community hospitals? Can we really extend this to the point that
+more people can take advantage of surgical robotics and the advantages that they offer?
+And by more people, the patients, but also the clinicians, right? If we can find ways,
+again, for this neurosurgery robot, we can probably get this in a lot of hospitals that
+maybe weren't doing these high level neurosurgery procedures before, but now we can enable them to
+really take on these challenges, right? Because they don't need this really fancy custom
+neurosurgical operating room anymore, having the robot in a diagnostic MR. And that's not really
+out too far out there because there are sites right now that do things like thermal ablation,
+where they'll take a patient, they'll place the ablation applicator in the operating room,
+wheel the patient to a diagnostic MRI, and then use the MRI for essentially monitoring the therapy
+delivery. So I really don't think it's that big of a jump to say, hey, why are we moving this
+patient between the OR and the MRI intraoperatively and not just do the entire procedure at one time
+in there? So I think there's a big advantage there. The size is the other one, bringing robots down
+to the point that they're smaller, more compact, portable, and ultimately also can we reduce the
+costs of both the robot itself and the procedure costs to make it as, again, usable as possible by
+as many hospitals as possible. Yeah. So you mentioned there's
+companies doing specific, very specific robots for specific use cases. Who are you excited about?
+Which companies are you looking at and tracking? You know, that's a really good question. Again,
+obviously I'm biased and I'll talk real briefly about ours before I jump into other companies.
+But the idea here is that we can have a robot that's specialized in neurosurgery and have a
+really compact device. We could also do something similar for abdominal. We could do something
+similar for possibly prostate applications, you know, along those lines, right? So there are some
+very compact devices out there now that you can, you know, strap on a shoulder or strap onto the
+body, right? These really compact type robotic devices. There's other ones that can clamp,
+you know, to the side of the OR table. Or there's some microsurgery robots that are out there now
+that we can use for, let's say, you know, eye surgery. Or some folks are working on ENT and
+trying to do throat surgery, including, you know, little snake-like robots that can go down,
+you know, inside the throat. It wouldn't surprise me if these can be used for things like, you know,
+cochlear implants or other ENT applications down the road. Really all these different areas where
+we can, you know, get robots, you know, inside the body with very small devices. Again, they
+may be very well be specific to a particular, you know, particular application as opposed to,
+you know, the large, more generic, you know, do-everything type robots.
+So yeah, what could... So just going to some of the companies that you've seen that you're
+excited about that. So actually one of my colleagues that I worked with in graduate school,
+you know, Bob Webster, I'm very excited about this idea of this virtuoso, which is these very
+compact little robots that can go down and think of almost like, you know, little snake-like type
+robots that can go in very compact cavities and do procedures. And in fact, there's some research
+work here at WPI as well related to little compact snake-like robots that can go down in your throat
+and doing surgeries in other parts of the body. So those kinds of things to me are very exciting.
+There's also these more, you know, microsurgery type robots that are out there as well. I think
+that's a really good, you know, application for this. Let's see, I'm trying to think of a few
+specific examples off the top of my head here. I think another good example could be something like,
+you know, Microbot that makes these very small, very compact devices. And that one might be more
+for, you know, catheter type placements. But again, it's a very compact, you know, in that
+case, I believe it's more or less a single use version of a catheter placement robot, right?
+You know, these are ways that we can get these into hospitals that don't necessarily
+want to put up, you know, enormous capital costs or have enormous procedure, per procedure,
+you know, costs, right? So that's kind of the general, you know, theme. There are a number
+of companies, both, you know, larger companies as well as more emerging companies that are coming
+out with these, you know, smaller robots that we think have a huge opportunity.
+Yeah. Okay. And there's obviously a lot of changes at some of these larger organizations
+at the minute. There's layoffs in the industry. What opportunities do you think that creates for
+you? So obviously I don't want to see people being laid off. That's obviously a terrible
+situation, but it does make a very rich market of folks that have a lot of expertise. And I
+think I would tell anybody that's going through this right now, you know, keep an eye out for the
+smaller companies. So, you know, once we bring in this funding round, we'll likely be bringing
+in additional folks. And even some of the folks that we have on board were actually at other
+medical device companies and medical robotics companies before they joined us. So, you know,
+there is a huge opportunity. There can be some really exciting, you know, applications out there
+with these, you know, smaller medtech companies. And a lot of times having that expertise of
+working for a large surgical robotics company or a large medtech company, really understanding,
+as I mentioned before, it's important to have somebody that understands the medtech industry
+and the regulatory process, you know, bringing that to a smaller company that may not have that
+expertise, you could actually be a tremendously valuable asset to that company. Yeah. And what
+advice would you give to people looking to enter into surgical robotics, where that's from a
+academic background or also a wider medical devices background?
+I think one of the things that's really important in medical robotics, and quite frankly,
+this probably applies to robotics as a whole, is that multidisciplinary background is absolutely
+mission critical. You know, I think it's really hard to go into this role being a pure mechanical
+electrical engineer, pure mechanical engineer, pure electrical engineer, pure computer science
+person. You really need to understand system integration, especially as these systems get
+more complex. We start adding imaging, we start adding intelligence to them, right? It's all about
+this system integration and both within the robot itself, but also how do we tie it in with the
+hospital systems like medical imaging, right? So I think really having this very, very strong
+multidisciplinary background is going to be important for folks that are going into medical
+robotics. It's also really important to being open to understanding the clinical problems. I think a
+lot of, you know, a lot of times folks go into, you know, engineering jobs without necessarily
+really understanding the context and, you know, it applies everywhere, but especially in the medical
+device industry, you need to put yourself almost in the shoes of the surgeons, right? And try to
+understand what they're doing, what are their pain points, how can we address that, right? So
+we're really working, you know, working with folks that have a good understanding of how we can go
+about taking advantage of the, you know, knowing the clinical applications, knowing a broad background
+of engineering, and also being really good problem solvers and systems engineers. Yeah, fantastic.
+And over the next 10 years then, what factors and what drivers do you think are going to drive
+the technology of surgical robotics? Yeah, that's a really good question. I know everybody
+likes to talk about AI and imaging and the high level, you know, planning and automation side of
+things, and that's a huge part of it. That's going to no doubt be a major aspect to this,
+but, you know, I don't want people to think that, you know, design of these robots is dead, right?
+There's a tremendous opportunity to also look at the mechanical design, the electrical design,
+coming up with really unique new mechanisms, you know, especially as we start making these more
+compact, portable devices. You know, other companies are working on things like magnetically
+controlled robots that can go through, you know, the intestines, for example, or little pill-like
+robots that can crawl around on their own, right? Things like that. There's a huge amount of
+opportunity in my mind on the technical sides, on the engineering development side for new
+mechanisms and new approaches. So to me, that's really, really exciting. So, you know, I don't
+want to in any way downplay the opportunities that are out there in the AI and the automation
+side of things. In fact, we're obviously pushing forward in that as well. You know, again, in the
+past life, I've actually had some pretty large NIH grants for trying to do surgical task automation.
+So, you know, that's an area that's near and dear to my heart, and we're absolutely going to be
+looking at that as far as our company is concerned and as most of the companies are concerned. But I
+also just really want to emphasize, to me, I think there's really a lot that can go into
+developing these new types of devices that are out there. And probably what's going to be even
+more important is the integration of really thinking about the electronics and the software
+and the automation all at one time, right? How can we really integrate these into really novel
+new devices? Okay, fantastic. Well, thank you very much for your time today, Greg. I appreciate you
+being on the podcast. Excellent. Well, thank you so much, Henry. I really appreciate it.
+Cheers. Bye-bye.

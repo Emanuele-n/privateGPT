@@ -1,0 +1,308 @@
+Hello and welcome to this very special episode of the Surgerobots podcast. In episode 10,
+I need to set the scene. Tiny robots that are the size of a grain of rice swimming around
+the brain and doing maintenance on cancerous cells. That's the vision of my next guest
+and the company he founded, Robot A. This French business have built micro robots that
+can maneuver inside the brain and do various different tasks, including biopsies and drug
+delivery. In the episode, we talk about the super interesting founding story of this
+roboticist Bertrand Duplat and how his personal story led to him founding the company, the
+challenges he faced along the way and the vision for where this company can go. So enjoy
+this episode of the Surgerobots podcast.
+So hello Bertrand and welcome to the Surgerobots podcast. It's a pleasure to have you on here.
+Hello, Henry. It's a pleasure for me to be here. I'm really happy to be on the Surgerobots
+podcast.
+Brilliant stuff. So yeah, let's kick off. So can you tell me your career up until this
+point?
+Yes, sure. Initially, I'm an engineer and then I was a researcher in robotics at McGill
+University in the robotics and artificial intelligence lab. I came back to France and
+I worked then in various extreme environments in teleoperation robotics. I work for space
+robotics for ESA. I work for undersea robotics for IFRMER and I work also for nuclear robotics.
+And at the time, especially because ESA was not building actual robots, it was more a
+paper project. I didn't find a project that completely excited me. So I moved to virtual
+reality and I developed a software to create interactivity in virtual application. And
+that was used in video games for game prototyping, gameplay prototyping specifically. And that
+was used also for industrial applications to prototype the way different machines and
+systems work and interact together. Later, the company was acquired by Dassault Systems
+and I spent a bit of time at Dassault Systems. And then I worked in different robotics projects,
+including at some point in the scan pyramids project that was looking for unknown spaces
+and cavities and rooms basically in the Khufu pyramids in Egypt, in the Giza. And I developed
+a robot, archaeological robots for the Khufu pyramids, which I flew in the Khufu pyramids. And
+the whole scan pyramids project was a success with three openings, including a very big one
+that were found at the time and are still being explored. And then I, for reasons that we
+will certainly talk about, I leaned towards medical robotics and especially the brain was my
+target. And I became a co-founder and CEO of RoboTé, which I am today.
+Wow. So tell me more about the archaeological robots. So tell me more about that project. How
+did that come about?
+Yeah, that was an incredible project. I was approached to create the robotics team, which I
+did with a very talented roboticist from Nancy in France. And the idea was that the pyramids were
+being scanned with photography based on muons, based on space particles, not on the photons that
+go through the walls. But once the rooms would be found, if they were, then it would be very
+difficult to explore them. And so the idea with the robot is was to be able to insert them through a
+very tiny hole, the holes that you get from a archaeological catheter, and to deploy the robots on
+the other side of the rooms or of the space, and then explore the rooms. And I am, and so we did
+build such a robot and we flew it in, because it was a flyable robot in Khufu a few years ago. And
+then I had to leave the project, I really had to focus on Robote. But that was fascinating. And
+three, as I said, three rooms were found. And the time is very slow in archaeological exploration,
+more so than in medical developments, I would say. It's very close. And so the exploration is still
+ongoing towards these large openings that have been found.
+Brilliant stuff. So yeah, let's move to the company then. So what is Robote?
+So Robote is a Paris-based company that is developing micro-robots to get into the brain. And
+these micro-robots are geared towards curing brain disease. There's 1.1 billion people, according to
+the Lancet, who are suffering from brain disease. And we're building micro-robots to get into the
+brain and access very hard-to-reach locations that are pathological in order to understand them
+better with data and in order to treat and to even monitor the treatment in these very hard-to-reach,
+very sensitive locations.
+So the reason why I wanted to get you on this podcast is because your robots are very different
+to the surgical robots, which are of some of our other guests. They're tiny little minuscule things,
+size of a grain of rice. Can you tell me more about the technology? So what actually are micro-robotics?
+Absolutely. So what's very important here is that the need for micro-robots in medicine and the need
+for micro-robots in the brain comes from the medical need. The brain, as you know, is a very well
+protected organ. It's protected by the skull. It's protected by the blood-brain barrier from the
+bloodstream. And it makes it very hard to reach with systemic medication. And therefore, it's also
+very sensitive. And today, the way that the brain is addressed in surgery is using tools that move in
+one direction. So there are very linear tools, and it's very hard to reach. And this protection around the
+brain makes it very difficult to access areas of interest and the pathological areas and very difficult
+also to get the right information about what's going on in the patient and what's going on during therapy.
+So the micro-robots first bring a very tiny size that enables us to be minimally invasive and the ability to move in
+the brain in 3D. We are moving in the brain parenchyma, in the extracellular matrix, and not in the bloodstream, in
+the vascular system. So that's also a very important aspect. And we are able to move in the brain parenchyma in 3D.
+We are able to move with sensors that enable to get the data. And we're able to access very hard-to-reach locations
+using 2D, 3D curves, which are impossible today. And in terms of the technology, I would say that the three very
+hard aspects of developing it is, on one hand, it's the micro-fabrication. It's how do you make such small devices
+that can propel themselves, that can turn, that can sense, that can get forward and backward and be very safe. So
+there's the micro-fabrication. How do you make it? There is the physics also. The forces that are dominant at these
+scales are not the forces that are dominant at different scale, at our scale, or even at centimetric scales. Volumic
+forces, like gravity, almost have no effect at this scale. It's more surface forces that are very strong. And therefore, it
+takes a lot of simulation and a lot of experimentation to get it right in order to propel the technology at this scale. And
+finally, of course, the way that the microbots react to the environment within the medical context, within the neurosurgical
+context is also another challenge for the technology.
+Brilliant. So how do you actually control the robots? So you've got little robots swimming along the vascular system. How are
+they actually controlled?
+So we're not going through the vascular system. We're really going into the brain parenchyma and the extracellular
+matrix, where the neurosurgical tools of the neurosurgeons are going. And the way that they are controlled is first through
+mapping the brain. So there are pre-existing maps that are made on the patients, from MRIs, from CT scans, from every
+imagery tool that enables to create 3D imagery. And then the trajectory is planned by the neurosurgeons for the microrobot
+for the intervention in this existing map. A little bit like you would map a trip on a Google map or this kind of tools, but here
+we are in 3D. And the trajectory are set up not in a straight line, like it would be with existing robots that manipulate, large
+robots that manipulate the neurosurgeon tools, who are, as I mentioned, moving in 1D. And so therefore, the neurosurgeons
+plan 2D curves or 3D curves that gets him to the location or the multiple locations that he's targeting on this 3D map. And then once
+the robot has been inserted in the patient in the OR through what we call the CAP, which is a small device that is on top of the head of the
+patient, the microbot is inserted and is following with very great precision. We're getting really metric and sub-metric precision in the
+brain, following the curves that have been pre-planned. And so it goes to locations and does what it has to do and gets back. What's
+important also to know is that if at some point the neurosurgeon wants to get over, it can take control for a short period of time if it's
+good for the patient and control the microbot with a controller, actually.
+Brilliant stuff.
+So it's moving forward and then it's moving backward, the microbot back to the CAP that I mentioned. And once the CAP is extracted, the robot is
+gone and the intervention is over.
+Fantastic. And the reason you came up with this idea is so interesting. So can you talk more on how you actually thought about this and how this idea
+came to your brain?
+Yeah. So I'm a roboticist, but initially I was not focused on medicine, even though I would say that the brain is an extreme environment. I would
+add it to my list of extreme environments. But it came through a very personal experience after the acquisition, actually, of VirTools by Dassault
+Systems. Very soon, my mother was diagnosed with glioblastoma, the worst brain cancer. At the time, I didn't even know it existed. I didn't know the
+name. And she was in the US, she was in Philadelphia, in a really good hospital, and there was no intervention possible in her case. So it was not
+possible to remove the tumor, which would have given her potentially a few more months and less pressure also in the brain and in the head. But it was
+impossible. So this is where I saw firsthand the lack of tools to access the brain in ways that are useful for the patients in certain cases, in lots of
+cases, actually. And then through that experience, through a discussion with a friend, the idea of a micro-robot to get into the brain and to use useful
+tools for the neurosurgeons in getting to locations, getting data, delivering therapies, monitoring came about. And so it took me a few years to get to it
+because it resembled, even for me, totally a science fiction movie, which actually reminded me of a science fiction movie that I saw when I was a kid, The Fantastic
+Voyage. And so I built my network, I looked at the ways to micro-fabricate, which is, as I said, one of the very big challenges in this field. And then I met my
+associate, Joana Cartucci, and she had very complementary skills. And we decided to go for it. I asked her if she was interested to come along. And of course, the answer was
+positive because we were working together. And then we started meeting neurosurgeons that came aboard and others joined in the team, Quentin, Ali, and we built this
+fantastic team. And that's how it started, actually, by a very personal event that was very harsh, of course, and that set an understanding of what was missing, actually.
+Understood. So how did you pull that team together? So Joana joined, you started to hire some people. So what stages has the company been through since then?
+Yeah, we, we, we decided that that's a very important aspect of the team. It's the fundamental aspect, actually, that's how you, you make it. So I would say that right on the, we had good
+fairies on our shoulder, on the project shoulder. So right on, we were offered, I met Joana, we decided to go on. I met, I asked, I told, actually, a doctor friend about the project. And we were offered initially, and
+immediately, even before we incorporated a room at a very prestigious, very well located hospital at Hotel Dieu in front of Notre Dame. And so we started working there right away, we met a lot of neuroscientists and neurosurgeons, and we met
+Astur-André also, who's our, our main neurosurgeon, and doing everything with us on a weekly basis. And we, from from my time at McGill, I had a fantastic professor there when I was a researcher, Vincent Eyewart, who was no longer with us, he left just a few weeks ago this
+year. And he came back from McGill to Sorbonne University, and it was at IZIR, the robotics lab of Sorbonne, that has a lot of very interesting medical robotics project. And, and he put us in contact also with the team with Stéphane Regnier, Sinan Alliot. And that's from from that, we met Quentin, which I mentioned, we, we met Ali, who's our
+VP of R&D, we met a lot of the team that went through the, the IZIR actually, and either after their PhD, or while they were doing their PhD, in combination with us. And so that was a huge, huge element in terms of finding the fantastic team that we have of very skilled specialists in many disciplines, but that all fit
+together. Because one of the biggest challenge we have as a team is being not just multidisciplinary, but transdisciplinary, not not only the ability to have a very strong specialty and more or less understand the other specialties, very important, but also be able to work together. And, and that, that is, that is fantastic. This is one of the things that is very strong about surgical robotics, the need for
+multidisciplinary and even transdisciplinary, but being transdisciplinary, but in the case of micro robotics, I would say it's, it's even stronger. And, and the build was, was built around that was built around, around the skills, but also the, the fantastic communication we have. And I think the fact that the goal is higher than
+ourselves. The goal is, is, is super high in terms of not just the difficulty, but also what it can do for, for others. We needed helps to, to keep the team together, very close, very friendly, and, and very focused for, for the long time that, that we took. It's, it's, this project take time. And maybe we'll address that. But we
+chose also a technology path that was very uncommon, and is still very uncommon in micro robotics, compared to what was happening in academia, because there was no, and there are still no micro robots in the OR today. And so that also took very special people to, to get through these, these steps, going against the leading trend of what was going on in academia at the time, with people who knew that leading trend very
+well, because they worked on it.
+Yeah. So is anyone else doing micro robotics? So not necessarily just in, in surgery, but is anyone else doing micro robotics in other industries?
+It's the, the, the, the name micro robotics is, is, is not super precise in terms of the, the size of the robots. Usually, I mean, very often also, it's nano robotics, the term that's being used. And so the project then can vary in
+size. In terms of practical, in terms of research, there is a lot of teams who are doing micro robotics around the world, and all of them are not necessarily working on, on medical micro robots. Some of those micro robots are, are not within the confines of an industry, just generic micro robotics, a lot of people are developing a lot of people in this
+in these labs are working towards medical micro robotics. But there are no, I think that the first applications are really coming from, from medical and surgical. And, and so there is a two company I know that are doing micro robots, RoboT, and in California, Genoats Lab, with different approach.
+And there are also very small robots in the vascular system, in general, guided by guiding a catheter. So it's also a different approach. And because it's, it's being pushed by the back, whereas the micro robot, once it's started, it's on its own, it's not pushed by anything.
+On the other side of the, of the body on this, for in our case, in the other side of the brain, it's self propelled. But yeah, I think the, the, the, the biggest potential comes from, from medicine, and then it will suddenly move in other areas. But I cannot, there is not an area where it's, it's mainstream, or it's ongoing. And we're following it's, it's the other way around.
+Yeah, so when it's, so it's such a new space to be in this micro robotics, and it's kind of pushing a new frontier. So how do you actually do the research? How do you ensure that you are developing? How do you bring something together, which has never been done before? How do you get into that?
+Yeah, that's, that's a very important question. It's very interesting, actually. And there are several angles to that. I think one is a very strong intuition, and ability. That's number one. And we, we started with several, very strong intuition, initially. And that's, that's number one, I think I should be more specific.
+That's number one, I think I should be more precise about it. So basically, at the time, micro robotics meant mostly a passive probe, usually a magnet with a coating around and an external engine. So if you think about robots in the, in the body, or even in the, in the brain, the micro robot would be a magnet with a coating, and there would be a huge coil on top of the head of the,
+the patient, the head of the patient has been screwed, has to be screwed very precisely regarding this huge coil. And so the robot is this passive element that you, that you move around and does applications. But we decided not to go in that path that had a lot of publication already, because we wanted a micro robot that was able to work without this coil, without a huge equipment,
+that would be restricted mostly to the OR. And we wanted to be able to get out of the OR in order mostly to monitor the patient over a certain amount of days, certain amount of weeks, to make sure that everything in the therapy was going on well when when necessary to monitor. And so we couldn't do it with this specific set of existing micro robotic.
+And also, we wanted the micro bot to natively have sensors in order to gather very precious, very important information about the state of the patient, the evolution of the therapy, if it's going well, if it's not going well, so the doctors can can change something. And so we decided to have a micro bot that would have an engine within the micro bot and would be completely independent of equipment, large equipment,
+in the OR. And therefore, we also developed with collaboration, the tracking that we have based on ultrasound, in order to know what the micro bot is. And so we had this huge intuition to go against the trend, but we couldn't be sure it was achievable. And that was a huge challenge to achieve it. And we succeeded. And so that was a really important aspect.
+And another direction that we took in terms of micro fabrication is not to use technology that were already existing at the time that were coming from microprocessor and all the techniques on silicium to create microprocessor, it's called MEMS. And you can do tiny attractors on these techniques, but they are very slow. The iterations are over a few months, and very expensive.
+And we wanted to, to iterate very fast, because I had done software, and I mentioned it. And I knew that iterating very fast was a was a key factor to, to success and not just to micro fabricate fast, but in order to get the intuition about this micro world about this scale around the millimeter in which we were working and physics, that's dominant, it's different.
+And you need to get months and years of experimenting to understand that it's not going to react the way you would think, if you weren't used to that, to that scale. So we chose a different path. And so these were huge bets. And we found a team that was ready to take the bet.
+And, and then we proceed to go on with a lot of help from a fantastic network around us of doctors, neurosurgeons, neuroscientists, roboticists, micro roboticists, other type of specialty, and, and check every step along the way in initially making the building blocks that go into the microbot.
+And then, after that, putting them together, integrating the microbot was a huge challenge with a very important term, transdisciplinary aspect that I that I mentioned. So, so there, there was a lot of skills, a lot of intuition, a lot of faith, the ability also to, to learn from what's not going as planned, you know, so we, we, along that way, we, we, we shifted, of course, a few times.
+So our choice of technology, but, but we were set up for that journey to go all the way.
+Great. So when you're pushing that new frontier, it's a brand new idea, and you've got a theory that it will work, but you don't actually know until you figure out the solution. How are you actually trying to figure out the solution? Is it trial and error? Is it using others' academic research? How does that actually all come together until you hit on the solution?
+Yeah, I think maybe it's important to, for, for the audience to, to know where we are right now in order to understand that. Right now, since, since the end of last year, we are successfully doing preclinical trials. So we are, we have the microbot that's, that's really moving forward, backward, as we wish in the, in the, in the brain, in animal brains.
+So that's, that's an important step, step. And it's, it's continuing. We're, we're improving on that. And, and it's going to take the whole of this, this year, but that's, that's already done. So the question is, sorry, I'm, I'm, I'm, I'm answering your question, but I, I'm, I need you to repeat it to be very precise, actually, in my answer.
+Okay. So, um, it was about, you've got an idea and you've got a theory and micro robotics in the brain will work, but you need to figure out the challenge. How do you actually overcome that? Is it through trial and error? Um, or is it through using others' research? How, how do you actually bring that all together to make it work?
+Yeah, that's, that's, that's really a mixture of both. We were building, um, with, uh, lots of, uh, researcher, actually the team is, is mostly, um, researchers. And so we're, we're reading a lot about, uh, what's, what's going on, uh, not just in, uh, micro robotics, but also in, uh, fabrication means, uh, sensors and, and, and other, uh, universe that can bring us ideas.
+Um, and so, uh, there is a lot of studying what's, uh, what's going on, uh, but there is a lot of also of, uh, inventing and, uh, and I think invention is at the key of, uh, what we're doing, uh, inventing and then trying to find the best means to, to put it forward.
+And in that process between the initial invention and what's going to actually work out, usually what happens is not that the invention doesn't work. Usually it works, but there is a path to find the, the, the best way to execute it. And, and so this is where trials and errors are, are very important.
+And, uh, and you, along the way, you can, uh, find out what's going on and, and, and you shift or you change, um, important aspect of the execution of how to, to make the invention and you base your ideas on, uh, on, uh, what you read.
+You, you base on your ideas on, uh, sometimes it's on the freshness of being a young researcher in a way, and, and, and you, you don't know what's not possible. So you make it. And sometimes it's quite the opposite. It's, it's really through working with, uh, extremely, uh, seasoned, older, uh, uh, wiser in their field, uh, researcher would know, know a lot or, or appear to know it all and can help us, uh, make it work better.
+So, so actually this, uh, the, this, uh, it's really working on different legs, the, the, the freshness of, uh, going on a new project and exploring and also the, the, the experience of, uh, knowing so many systems that sometimes one of them are a slight change in one of them can, can make the solution work.
+It's really navigating between the space, what exists and works well and what doesn't exist. And you're trying to, to invent and bring to life.
+Yeah, absolutely. So when doing the research for this podcast, I found that one of the biggest challenges of micro robotics is there is a completely set of different physics principles and you actually touched on this earlier, but yeah.
+Can you talk to me more about the challenges that that brings when you're dealing with a different set of physics as you are in other robotics?
+Yeah, absolutely. So there are, there are challenges, um, uh, that have to do with, uh, the environment with, with the brain and even, uh, with the, the model of the brain, which is the hydrogel that has the same mechanics, uh, and, uh, the same biology of the brain.
+And there are also, um, issues, um, and, and surprise that come from, uh, the, the microfabrication in the microfabrication actually. So, so to give you a few examples that are, um, um, very much, uh, you know, I think, um, show the, how, how different it is, is that, um, for a lot of, uh, parts when, when microfabricated, uh, once you want to assemble them, uh, you'd think, uh,
+you, you use a tweezer, you know, but they are so small that, uh, you break them with a, with a tree tweezer, you know, and, and, uh, or, or if you don't want to break them and use a robotic tweezer, for instance, it's, it's, it takes a lot of, um, effort and time.
+And, and you're better off actually, uh, grabbing these, these parts with a liquid. Uh, so the, the same thing that makes it, uh, for insect that they, they, you know, they, they're, they're a bit stuck in, um, in a water drop. Uh, this is what you use to, uh, grab your parts and to manipulate them in, in order to actually, um, um, connect them together to integrate them. So very, very precisely.
+So that's something that I guess is, um, is, uh, very different and it's, it's a good example. Uh, and then if we take the, the part, uh, the other part, which is, uh, how it behaves in the, in the brain, which is, I think is of course, even more interesting. Um, for instance, um, we are, we're really, uh, using, uh, in order to get the, the robot moving. Um, we don't want to be, uh, destructive. We really want to be, uh, micro-invasive, uh, absolutely minimally invasive.
+And so we're using the elastic, elastic property of the brain to, uh, uh, we have an initial, uh, crack in, in the brain and we're propagating that, that crack and we're pushing the walls around the micro-robot and we're not creating a tunnel.
+We're just pushing it and the robot slides through it and, and, and, and, and opens the, this, uh, this tiny crack, uh, so it can pass around. Everything that is around the, the micro-robot gets pushed, but not destroyed by the elasticity of the brain. It's, the brain is a viscoelastic, uh, jelly type of, um, of, um, of solid.
+And so once the, the robot has passed through the, the, the, the elasticity brings the, the walls back, uh, behind the, the macro-robot. And, uh, and so this is an example of, uh, of, uh, how we can take advantage of this, uh, this physics actually to, to do something that is non-destructive.
+Whereas at the larger scale, um, we know, um, our, our tunnels are built, it's totally different. You, you, you create a hole and break all the material, uh, in the back and, and get it out. And it's, it's absolutely not our, we're using the environment, uh, and at a different scale, it would not work, uh, because, uh, a very huge jello would collapse, you know, and it's not the case at that scale. So, uh, that's, uh, that's a very good example, I think.
+Brilliant stuff. Cool. So I want to bring the conversation forward to talk more about the business and what stage you're at. So you're operating in stealth mode for a little while. What was the trigger to launch out of stealth mode?
+Yeah. So first, uh, we were in stealth mode because we were developing all these, uh, technology, um, that were very different from what was going on, uh, in, um, academic micro robotics. And we were developing all the initial building blocks of the, the micro bot. And, uh, and so we integrated, uh, all of that, uh, uh, at the beginning of, uh, 2022.
+And that's when, uh, the micro bot was able to move from, uh, uh, more R and D and building blocks to a full prototype that at the end of, uh, last year, we were able to test, uh, in, um, in a practical phase.
+And so that's, that's really when, uh, uh, we were going, um, towards, uh, medical indication and, and, and going to, uh, uh, be, uh, discussing with, with partners. And we thought that in order to discuss with partners in order to, uh, uh, raise money also to, to finance these phases that are more intensive in terms of capital, we needed to get out of our stealth mode. And that's what we started to do, uh, step-by-step actually. And this is also why I'm here today.
+So talk me through, how do you actually emerge from stealth mode? So everything's very quiet before, but then what steps do you take to, to kind of get out there and, and start pushing the company?
+Um, the first step, even though it's, it's often under NDA is, is talking to, uh, VCs and investors and, and, uh, they have, uh, their own network, uh, that's not only, uh, financial and we get to people who are, uh, uh, more keen to, uh, talking about the, the solution, uh, and, and the word spreads.
+And, uh, and so that, that's what, that's, that's one important way, um, to, to start showing things that, uh, create a network effect of, uh, of, uh, communication, uh, does the, the media also got hold of, uh, what we were doing through those networks most of the time. And we started to have exposure also in, uh, in, in France and, uh, a little bit, uh, internationally also.
+Um, and, uh, and, uh, and so that, that's, those are very important steps. And then there's, of course, the, the social, uh, medias and LinkedIn. And when you have a great news starting to, to talk about it, which we didn't do before, we didn't celebrate, uh, uh, the steps that, that we had, uh, in a, in a way that was visible from the outside.
+So that's really, uh, how it, it started and then competition also, uh, which, which we attended and which we, um, were doing well, usually, um, international ones. And so the exposure, uh, started growing, uh, this way. Also, I think that because of the, the, the goal of the project and, and the quality of the project and the fact that it's not just, um, uh, far-fetched, uh, dream, but it's, uh, it's starting to become real.
+It's working, it's been tested, uh, and it's keep on tested. That's also the, the right time for people to, uh, start talking about it because it's, uh, it's, um, starting to be, uh, out down in, in the world, actually, not just in, uh, the idea and in the sky.
+Yeah, good stuff. So what do you need to take the company to the next stage? What are the big things that you're working towards at the moment?
+Yeah, so, so we can talk about, uh, medicine actually. So, uh, really what we are focused on is, uh, to, um, um, we want to, um, deliver, uh, treatment to, to the patient.
+So, uh, that's really what we're focusing. So that means, uh, local drug delivery because, um, um, most, uh, pathologies in, in the brain, uh, don't have a cure today. Uh, and, uh, there is a, this huge, uh, direction.
+I wouldn't say it's a trend. It's really a direction to, uh, treat the, um, the disease that are not well treated today. So that means cancers, uh, that means a neurodegenerative disease and there's others to treat them differently than with the systemic approach that we know where, um, the, uh, medication is ingested or got to get in the bloodstream.
+That didn't work so well because of the protection of around the world, the, the, around the brain. And so today there are, um, all these, uh, the emergence of, uh, these local therapies, uh, cell therapies, uh, gene therapies, a lot of immunotherapies are also local, um, and, and even more classical drug when they target the brain starting to be, uh, uh, more local.
+So there is enormous potential to, um, help those drugs actually work because they are well delivered in the brain at the target location at the target locations, because there are, can be multiple locations in order to target the areas.
+Well, and, and the micro-robot is, uh, is, uh, the ideal tool, the ultimate tool to deliver this type of, uh, therapies. And then the other axis, which is really, uh, important also is, uh, around, uh, neuromodulation or electrophysiology, the ability to bring, um, um, sensors in, in that case, these are electrodes and, and sometimes effectors also to, um, map the brain, uh, to map it when, where it's, uh, pathological.
+Uh, in order to understand it better and in order to, to curate, because you want to map, uh, things that are activable, uh, in, in the brain. And so these, uh, these, uh, these two are connected together. Sometimes, um, mapping is connected to, um, uh, curing, uh, cancer.
+If you talk about, um, biopsy and, and especially in the case of micro-robot, uh, cellular biopsy or, uh, molecular biopsy and, uh, even, uh, electrophysiology as, uh, uh, interaction with, uh, tumor today. And, um, you, you can, uh, you can listen to the, the, the growth and, and map to the growth and the, the, the change of the, the signal enables to map the growth of the, the tumor. It's something that that's coming.
+So these are the field where we want to, to focus and recreate because the, the micro-robot has been thought like a rocket to get into space and, and to launch a load. Um, in space, it would be a satellite or other type of load. In our case, uh, there are the drugs we will deliver. There are the, the, the sensors, uh, that we carry around to, to map the pathological areas of brain.
+There are the micro implants that we will deliver on location, potentially electrodes, but others too. And, uh, and so we need to, to, to partner to first to understand what we can, uh, we can do, and also to, in order to have a functioning, uh, therapies, uh, um, in, in the brain. And so, uh, this is, this is really the phase we're at and, and, uh, planning ahead or, uh, clinical, uh, trials to, to come in the coming years.
+Great. So could you shed some light on the clinical trials and regulatory hurdles that need to be cleared before your technology can be used in, in surgeries?
+Yeah, it's, uh, yeah, the, the, the regulatory aspect is, uh, is very important, of course, in, uh, um, surgical robotics. In the case of, um, micro robotics, you're, you're fully in the brain. So, um, these robots that, uh, use, uh, the surgeon tools outside of the body or outside of the brain, um, are, uh, are not actually getting into the body or in the brain.
+Therefore, they're usually in a category that is, uh, I mean, if we go into details, uh, typically in the U.S. it's called, uh, the 510K. So they're in the category that is, uh, has a lower threshold in terms of regulation. But since we're fully in the brain, we, uh, we find, we fall out in the, the categories of, uh, uh, PMA or, or de novo, which are much more regulated.
+And so we are really, uh, working with, uh, the regulatory bodies with, um, experts in, in regulation also to design a path that is the, the best path for, uh, for, uh, for us, uh, for the, of course, for the, the, the patients and, and the neurosurgeons.
+And we're navigating the space and with steps that are small steps, uh, and, and big steps at the same times, but get us to, to the, our target location, which is the delivery of, uh, uh, therapies, uh, by first securing the safety of the microbot and then it's, uh, efficacy, uh, through this, uh, complicated, um, system of regulation that, uh, that exists in Europe and in the U.S.
+And we're targeting, um, FDA first and Europe second, um, because of the, uh, huge, uh, appetence for new technologies and, and, and also for, uh, surgical robotics in the U.S. with over 10% of, uh, surgeries made with robots.
+And, um, and so this is a, this is really, uh, the, the, the leading continent for us in terms of, uh, uh, regulation and then, uh, following, of course, by Europe, it's also very important to us.
+Yeah. Do you find that there's much pushback from the FDA because it's such a new area, it's a brand new frontier, like it's a completely new category. So have you found that that's caused any resistance from, from the FDA or, or Europe?
+Yeah, we're, we're in discussion with the FDA, but I find that there are, they are very, um, of course they are very cautious. It's their role and they, they have to be, um, but they're very open also, uh, they're very, uh, interested.
+Uh, so I think it's, it's a mixture of, uh, interest and trying to help out to, to get the, the, the, the best and the top standard and execute it very, very well. Uh, but at the same time, open the way to a new treatment that will actually work in the brain. That's the goal as opposed to what exists, which is not completely satisfactory since again, the most, uh, larger disease in the brain are not really cured today.
+Yeah, good stuff. So with the team then, when you're trying to develop the technology at such pace, how do you ensure that you keep a good culture and what things do you do to promote a good culture within Robotania?
+It's a, it's a very important question also. Uh, I think we have a very strong culture. Uh, then what is the culture made of? I think, um, one is the goal that everybody wants to do something that is useful, uh, for the world. And, uh, even I would say, uh, potentially extremely useful and, and also new and very challenging.
+And so that creates a certain mindset, you know, in terms of the, the focus, in terms of the, the length in time. And then because we spend a lot of time, um, working together, there was also a, um, huge, uh, level of, uh, friendship.
+And, uh, and, uh, and very positive aspects, uh, around that. And people can count on each other. I think it's a, it's a very important element and that is being promoted within by, by the team itself. It's, it's not so much a top down. I would say it's really a share among the team.
+Uh, the team is extremely, um, multi, uh, cultural. Um, we have a lot of, uh, scientists that comes from, uh, Sorbonne and Sorbonne draws a lot of talents from all around the world. Um, except maybe in, um, Anglo-Saxon world where, um, students tend to go more into the US or the UK.
+Uh, but so, um, there, there's a number of, uh, of, um, nationalities that is, uh, incredible. I mean, we have four Brazilians, we have two Italians, two Lebanese, um, uh, and we have, we have a Peruvian, um, uh, even the French are usually mixed like I am. Um, and so, um, that also, uh, brings a lot of, uh, uh, curiosity towards the other culture, a different point of view, I think.
+It's, it's helping tremendously. And also a lot of respect because you, you don't want to step on the, on the boundaries of, of the others. And that becomes a natural, nobody's trying to push anyone because there's so many opportunities to do that. If you, if you, uh, come from different backgrounds. And so that, that, that natural respect that comes from being from different, uh, places, I think also helps and creates a very, uh, um, harmonious environment.
+Um, yeah, I think that's the, the, the goal is number one, the type of people in the tribes also really want to do something, um, good for the, for, for people actually in the case of medicine and all these elements, uh, bring, uh, bring this culture that we, we try to, to nurture and, and, and cultivate and keep as we will grow.
+Brilliant stuff. So on that topic of people, then have you ever had a, like who stands out as one of your best mentors? Um, could you tell me more about them?
+Yeah, these are the, the, the network around us is, um, is, is really, uh, fantastic and extremely important to the neurosurgeon who work with us. The roboticist, the, the, the micro roboticist, I mean, the, the mechanics, um, that's, that's, that's the, the, the business also mentors.
+Uh, our, our key, um, key elements in, uh, in moving forward. Uh, it's here that we would not have been able to do what we'd done without that. Um, and so, uh, basically you're asking me to, to give example or, or, or more to be more specific and name people. I mean, what, what is, uh, what is behind your question?
+Yeah. Give me an example of, of a mentor that stands out to you, what stood out and, and what, what they've done to help you along the way. You can tell me names if you want to give someone a shout out.
+Yeah, I really want to give a lot of people a shout out, but I just don't know if they want to be a name. Um, I can, I can, I can mention initially, uh, the Vassar award was again, unfortunately is a, is a, was a brilliant, uh, roboticist and he's no longer with us. He introduced us to all the network of, uh, micro roboticist.
+Um, the people, uh, of, um, of Sorbonne also have been brilliant in helping, uh, uh, actually train their students, their, their PhD students in a tremendous way and, and, uh, and enable us to, to meet them and, and, and, and, and so that they chose to, to, to join us. And so, um, um, there's, uh, there's Sylvain Alliot, uh, was there, there's, uh, Stéphane Regnier was a micro roboticist and he was the head at the time when we started for the robotic lab.
+Uh, Sorbonne and I became the Dean of Sorbonne. So we, we seem a little less, but is, uh, is, is still, uh, around helping a lot. There's been tremendous, um, um, scientists at Curie Institute, uh, at, um, at Pasteur.
+Uh, we have, um, uh, also, uh, fantastic, uh, network of neurosurgeons at, uh, Charité Hospital, at, uh, Pitié-Salpêtrière. I, I mentioned Arthur André, um, at, um, at L'Arrêt-Boisier, uh, in, in the U.S., um, I can, I can mention, uh, uh, Brian Lahead who's been helping us, uh, uh, since almost since the start.
+Actually, we started working with him in 2018 and getting his, uh, his recommendation, his, his advice on the robot, his, his feedback, you know, uh, uh, he's, uh, he's at Harvard Medical School and also at, uh, Massachusetts General Hospital. Um, and, and, uh, people are more in the shadow. I don't know if they would like to be, uh, named, but, uh, um, like mechanics or engineering mechanics, we know everything and, and, and can draw examples from all the fields that I've met.
+All the fields that have nothing to do with micro-robotics, uh, and, and help us with some of the designs when we, uh, when we need them and when we sometimes when we, we struggle. Um, and so, yeah, this network, um, and there's a tremendous team also that we work with in the, in the North of France. Uh, um, I'm sure I'm, I'm, I'm forgetting people, uh, but, uh, um, it's been, uh, it's been really, um, not just helpful, but like, uh, it's been key actually to, to what we're doing.
+And now, now that we're more into, uh, medical, uh, consideration, uh, regulatory, uh, there's, uh, there's fantastic advisors, uh, also in, uh, in, uh, strategic advisors that we have around us. Uh, we have, uh, David Comartin, we have, uh, Anne Ousdois, uh, others, uh, that work in, uh, surgical robotics in, in bigger robots that are really leading the way, doing amazing work themselves, uh, and helping us navigate the,
+the, the more, uh, business side of, uh, this universe.
+Yeah.
+So what's the impacts that some of those have had on the business?
+What's it helped you to achieve?
+I think, um, what it's helped us to achieve is to find the right, uh, potential partners.
+Uh, I cannot go into details, but, uh, this is a one, uh, because I cannot name, um, who we are talking with, but, uh, I think this is a, one of the key elements to, to know exactly what we can, uh, what
+are the steps because, uh, everything, uh, is in, in stages, you know, and, and so, you know, the, the, the various stages of, uh, working together is, uh, is very important and being helped in that field.
+Of course, uh, access to, um, to, to funding, that's another, uh, very important element and, and you, in a way, uh, translation into, uh, getting to, um, the, uh, the, the US because we were doing the regulation in the US.
+We, we have some investors in the US, but we want to be more involved on that regulatory and clinical, uh, aspects.
+And, uh, and we've got, uh, a lot of, uh, advice from, from people who are, uh, based there and are, are being going from Europe to, to the US expanding there.
+Uh, and that feedback is, it's also very important.
+I'm thinking about an advisor called Rudi Abovitz, who developed, uh, uh, neurosurgical robots, the second generation called, uh, company called Mako Surgical quite a while ago.
+And he's, uh, was helping us also tremendously with, um, these elements with his experience.
+We're also lucky to have, uh, several of, um, um, founders of, uh, surgical robotics company as investors in the company.
+Uh, I won't name them, but, uh, that also helps because we do get, uh, feedback from them.
+Fantastic.
+So talking more about the industry then.
+So what trends are you seeing or are you tracking in surgical robotics that you're finding interesting or exciting?
+Well, first, um, robotics itself is, is clearly trending in, uh, in medicine.
+That's, uh, that's a very important aspect, um, uh, because, uh, there is need to standardize, uh, gesture.
+In our case, it's, it's, it's also doing gestures that are not doable to the, by the neurosurgeons with their pools that, uh, move in 1D that don't have, uh, um, the ability to, to stay for, uh, monitoring.
+Uh, but there were, there will be, of course, an element of studies, standardization also of this, uh, this, uh, surgical gestures.
+And so this trend is, is very important, uh, that, that comes also with relieving the, the medical teams, not just, uh, the surgeons, uh, and doctors, but also the, the nurses and all the heads in the, the OR.
+Um, this is a trend that, uh, we're, uh, we're also part of with very light system that we're developing.
+Uh, minimal invasiveness is, is clearly, um, uh, also a fundamental aspect or you get to, um, to your target location with minimal, uh, uh, troubles for the, the patient.
+I mean, a few decades ago, it was about the heart nights.
+It's really about the brain.
+Uh, and, and for us, what's clearly the huge trend is a local delivery of, um, of therapies, of drugs.
+Uh, cell therapies, uh, gene therapies, uh, and even, uh, micro implants.
+And we've got another trend that's fundamental in our cases, uh, data and, and the treatment of data.
+So, um, the data you, we gather with, uh, the sensor that, uh, are embedded in our micro bots are, um, are very important information.
+Of course, uh, uh, electrophysiology I mentioned, but there are also, uh, fundamental aspects of, uh, physiology itself.
+Uh, of, uh, temperature, uh, CO2, O2, and on the other hand of the spectrum, they can be also, um, basically biomarkers, for instance, uh, dopamine or, or, or a neurotransmitter that you want to see, uh, replenish, reflourish in the brain.
+Um, and so, um, uh, this, this data are, are, are key and the treatment of the data that enables to, um, know better the pathology, know better the way the treatment work.
+And have an effect on individual patients to treat them better, to find a subcategory of treatment that fits them the best and the most.
+That's also a huge trend and, and, uh, a huge revolution that we are, that we are part of actually.
+In a way, the, the micro bot in that respect can be seen as the tip of the digital chain, uh, around the patient, you know, of what's going on.
+You need a tip to get into the body, in our case, the brain, and that's the, uh, a way of seeing the micro bot also.
+Brilliant.
+So do you think in the future, then we will see less of these big form factor robots that have got multi arms and start seeing smaller and smaller robots until it is just micro robots?
+I'm sure there's still a place for, for the larger, in the long run, and we're talking the long run for the, the larger robots, but, uh, clearly, you know, and, and some organs are pretty big and, and, and, and, and bone surgery or this kind of, uh, um, surgery, uh, you know, um, or will not be done easily by, uh, by tiny robots.
+But I think that, uh, um, uh, there is, uh, of course, uh, enormous space for, uh, for smaller robots and especially for, uh, micro bots, uh, because of the, the, the least invasiveness because of the ability to go into places that are still super hard to reach and specifically super hard to reach, uh, from the outside.
+Um, and, uh, and, uh, of course, the ability to get very precise data, you know, because today when we're talking about, uh, electrodes and, uh, electrophysiology, we're talking about hundreds, thousands of neurons and, and the, the, the, the more precise it will go, the more it will go to, uh, closer to small nucleus of, uh, subset of 10th of neurons.
+Um, and maybe at some point, individual neurons and, and that translate into both individual cells actually at some point.
+And for that, you need very precise tools and you need, uh, micro robots, uh, and nano robots.
+Uh, and, and I think also the ability to stay for a long time is a huge plus because, um, while the patient is pathological, you want to make sure that the treatment is, is actually working and evolving in the right direction.
+And the ability to get the information about that and do something about it when it's not going in the right direction.
+And that's very often the case.
+It, it needs to be changed slightly adapted to that one patient.
+Then with a micro robot, you, it's something you can do.
+And that's definitely a trend that's very important for acute disease that you can cure.
+And even, uh, in the, in the longer term for a chronic disease, you know, that, uh, maybe you cannot fully cure, but you can live with issue.
+Um, if you, um, take care of very precisely at the right location of what's going on.
+And, and we see that with chronic, uh, um, pathologies in, in, at different scale for, uh, uh, diabetes, for instance, you know, you have device that monitor your diabetes and you even have device that both
+monitor diabetes and, uh, bring the insulin and the medication, uh, depending on what the sensor tell them.
+And that works tremendously well.
+And so that, that same ability transposed to, uh, other disease, uh, acute and chronic disease in the body at the location that has to be kept as small as possible and tiny locations.
+Cause you don't want this disease to, uh, to grow.
+Actually, you don't want too much growth.
+You don't want to, um, um, neurodegenerative disease to, to expand.
+You want to, to get them out or you want to keep them at a tiny location.
+So yeah, by, by essence that requires something very efficient, probably very technological for sure.
+And, uh, and very small.
+So yeah, there is a lot of room around micro robots and that's a huge trend for, uh, for, um, robotics in the future.
+There is a vision that I, um, I didn't share at the beginning, which I like to share at the end.
+If that's the end is really that, uh, the way that, um, I can explain what I just did in a, in a very imaged way with where, you know, with a metaphor is, um, is that our vision of, uh,
+the micro robot in the brain, as we see it is, uh, is really close to, uh, a scene from a, um, a cartoon movie called, uh, the castle in the sky from where you have, uh, an island in the sky, um, that would be the brain.
+And there's a beautiful nature with blooming trees, uh, thriving birds singing all around.
+And it all is possible because there is a robot taking care of this nature of full time.
+And that's what we see as a vision for our micro bot to get into the brain and to be able to do as a very good and very skilled, of course, a gardener and read out the, uh, cells that are no longer serving the brand that are pathological, um, to, uh, to, uh, to remove them, but also to bring new cells or to bring new nurturing elements to cells that can regrow and progress and thrive again after a while.
+Or something has happened, uh, to map the environment, of course, uh, while doing, doing that and, and all these skills, um, uh, of, of the gardener, we were really able to transpose them into a, that vision of the gardening robot in the brain for a pathological brain.
+That's, that's the key that we're doing that for a pathological for patients, uh, for pathologies.
+Uh, we're not doing that for healthy brains, of course, but, uh, for, for these brains.
+While they're pathological, uh, there's a lot to do in, in gardening, what's going on, you know, while they're sick and after they are for a while before everything, or the most, uh, capabilities can, can come back to, to these patients.
+Incredible.
+That's an incredible vision.
+So, yeah, the, the final question that I wanted to add on, um, is what advice would you give to anyone who's looking to enter the industry, whether that's in micro robotics, uh, for the brain and joining you guys, or whether it's surgical
+robotics in general?
+I mean, if, if, uh, if someone wants to join us, um, send a CV, you know, a resume, you know, like, uh, contact us that that's, that's for sure.
+Uh, but if you want to join the, this area and you're, uh, you're, um, you're really, uh, um, wondering how to get there because you have to get new skills or, uh, or, or, or wondering what you should study.
+I think that, uh, uh, to get extremely interested about it and, and, and research or what's done in, in, in, in this field is, is very important.
+And also I mentioned it over and over again, but I think that bringing skills, understanding all skills that you might have that are not from the field and you can bring to it.
+I think that's key because, uh, one that will really improve the, um, uh, multidisciplinary or, or, or transdisciplinary, uh, skills of, of that, that persons that wants to join that are extremely.
+Powerful and important skills.
+And two, you might bring something that is actually needed and will be a very important either in the, uh, ideation of, uh, of, uh, this industry or the execution, because that's the other.
+Fundamental aspect, uh, executed, right.
+You know, uh, there's this, this huge vision and then every detail counts.
+And so, um, and so we need people who are really good at both, uh, and, and you can bring something from, uh, from other industries to, to that, whether it's, uh, it's medicine or, or anything else, basically.
+And thinking about it and, and having an idea about it and some, um, confidence, I think will, will help to, to join because, uh, um, yeah, because, uh, it's, it's, uh, it's still a very open field that needs to be, um, uh, polonized, uh, from the outside.
+If we keep the garden metaphor.
+Brilliant stuff.
+Thank you very much for being a guest Bertrand.
+That was really interesting conversation.
+Thank you very much.
+It was a great pleasure to, to be with you.

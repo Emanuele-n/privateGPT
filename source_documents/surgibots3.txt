@@ -1,0 +1,512 @@
+Welcome to the Surgery Bots podcast, the show where we explore the latest
+advancements in surgical robotics and how they're transforming healthcare.
+Every two weeks we sit down with a guest who is at the forefront of this
+incredible space. Surgical robotics is changing the way we approach surgery. Our
+guests are going to share their experiences and insights discussing the
+challenges they've faced and successes they've achieved. We'll also delve into
+the latest trends and innovations, exploring the newest robotic technologies
+and how they're being used to improve patient outcomes. Whether you're a
+healthcare professional, a researcher or just interested in the latest
+advancements in surgical robotics, this podcast is for you. So join us as we
+explore the world of surgical robotics and discover how these cutting-edge
+technologies are shaping the future of medicine.
+Hello and welcome to today's episode of the Surgery Bots podcast. In this episode
+we sit down with Mike Santek. So Mike is the CEO of a company called BHS
+Technologies who produce a robotic microscope for microsurgical procedures.
+And in the episode we talk about various different partnerships the
+company has with other surgical robots and as well as the challenges faced
+through COVID, how they've emerged through these and what the future
+roadmap of the business looks like. So I hope you enjoy this episode.
+So hello Mike and welcome to the Surgery Bots podcast. It's a pleasure to have you here.
+Thanks Henry, thanks for inviting me.
+Good stuff. So for the sake of the audience can you give me a bit of a
+snapshot CV and tell me about your background.
+My background actually is just mechanical engineering.
+So I was working in the medical device field in the meantime since I think 17
+years or so and previous to that I was working two years in construction site
+machinery field and then I started as a mechanical engineer, went to be a project
+leader, mechanical design manager, head of R&D, head of production for active
+implants and also for heart catheters. And one day we thought we got an idea
+and let's found a company and that's how it went.
+Okay fantastic. So the company you founded is BHS Technologies. So take me
+back to the early days. Why did you decide find a company, found a company
+and and yeah give me the story.
+So what was the story? I mean so I was working for
+a company manufacturing hearing implants and we were spending many many hours in
+the lab doing research with hearing implants, middle ear implants and for
+stuff like that you need a surgical microscope and I always enjoyed using
+surgical microscopes being in the lab doing the research but using the system
+was or these surgical microscopes it was always a bit cumbersome and but it was
+okay it was the devices which were there were just fine and good for the
+good for the work. Then I quit the job went to the other company doing heart
+catheters and on the technological side it was I don't want to say it was boring
+but it was yeah a bit a bit boring for that company was just taking some glue
+some glue and some tubes and connecting that stuff and that was it. So on the
+technological side I didn't enjoy it so much and one day one of my colleagues
+were our former colleagues was calling me and he asked me if I could build a
+digital microscope and I said yeah well maybe I have no idea. On the mechanical side
+yeah sure why not because it's just a mechanical it's a machine of course I
+can do that but I have no idea about digitalization about software about image
+processing so I called up Gregor and he's the B in BHS and we were sitting on
+my balcony having a beer or two brainstorming of how things could be
+improved and not just building a digital surgical microscope but changing the
+concept than this we didn't have to worry about any product portfolio or
+anything like that we thought it would be a really cool idea to take a 3d
+camera a robotic arm and VR headset assemble these components and here we go
+it's a surgical microscope you control the robotic arm with your head movements
+and camera always observes the surgical field easy task because you can buy
+everything and we we'd be done within a year or within two having our class one
+medical device and then we said yeah let's build the proof of concept and as
+it was so promising and as we have received also the first R&D grants we
+said yeah then why not quit our jobs and found a company and that was basically
+the story how it came along I mean we knew that there is a that there are
+surgical microscopes out there we know for what application they're used we
+know that they're cumbersome and having the proof of concept was it was it was
+cool from the engineering standpoint if we would have known at that time how
+much work and effort it is we probably would not have done it I understand that
+completely still hear that right you you were having a few beers and came up with
+the concept yeah so you found it in a in a bar or were you back at home no no no
+in a bar but we spent the day or the afternoon on my balcony just
+brainstorming about it and I mean when you we found it out pretty early that
+when you do have only a PowerPoint presentation with some fancy renderings
+and an idea you are not able to raise any money and you're not able to
+convince also the FFG or AWS which are having huge R&D grants in Austria and we
+are super thankful for that but you cannot convince them that your product
+idea which is a niche makes sense and so that's why we've decided to build a
+proof-of-concept 3d printed two axis don't want to say robotic arm kind of
+and which was holding two cameras and was controlled by a VR headset and with
+that video of how the system moved and explaining what the problem is and how
+we are going to solve the problem we got the first grants and during that time
+building the proof-of-concept applying for the grants we said yeah then let's
+let's found the company because they are willing to pay and now we can't be the
+one saying and no no we we are out it was just an idea but we are too we are
+afraid of building it we are too afraid of founding the company and that was a
+period of about four or five months or so and yeah after that we found the
+company fantastic so I actually test drove the robotic scope out of health
+and that's where we met and although I'm winning no prizes for micro surgeon the
+year it was quite easy for me to pick it up and so it's a non-invasive robot it's
+a visualization system really but so let's for the audience can you build a
+picture of what the robotic scope actually is and what it does it is
+actually exactly what you've explained it is a it's a non-invasive device for
+visual visualization so we do it's a surgical microscope so we do only
+observe the the surgical field a 3d camera records that and transfers that
+image to our head mounted display and with the head mounted display where you
+get the microscopic view you are able to control the system like changing the
+viewing angle moving the point of view changing the level of magnification
+stuff like that so we are just observing with our device the procedure the
+surgical procedure and the surgeon does the surgical procedure as he did it or
+she did all the time and we do only change the ergonomics and a bit of the
+workflow as you don't have to put down the instruments to control the system
+because you can do all of that with your head okay so so what procedures can
+it be used for them for example for your surgery mastoid surgery middle ear
+implants in the ear implants cochlear implants to endoplasties also for spine
+surgeries disc herniations plastic surgery flap transplantations for
+example or hand surgery every time when you got very small structures but you
+need open surgery and cannot use for example DaVinci or CMR system that's
+another league that's another discipline so every time you get an open surgery
+and you need a high magnification then you are going to use a surgical
+microscope and you can either choose that an old or standard system analog
+one whatever or you choose robotic scope and benefit from all the advantages we
+are having okay so tell me about some of those advantages there so what we are
+changing is especially the ergonomics for using a surgical microscope so what
+the science says or what the data says is that four out of five surgeons do
+have back problems so depending on the on the on the paper you're reading it's
+between 60 and 87 percent or something like that complain that they do have
+back problems and that's associated with just three hours of microscope usage in
+the OR so it's a so you basically do one procedure per week and your back is
+feeling bad and that's what we change because we detach the surgeon from the
+surgical microscope or from the from the device itself as you were only they had
+another display stay in an ergonomic posture but not in an static ergonomic
+posture like with a typical or with a standard surgical microscope but you can
+say dynamic we can stand you can relax your neck where HMD is which is super
+lightweight and with that system that the whole issue is solved that you have
+to adapt to the surgical microscope stay in a weird ergonomic or unhealthy
+posture for a couple of hours multiple times a week and that's that's the main
+thing we are solving and also speaking about or you could of course use another
+system an exoscope where 3d screen is used in or set up in the OR but as we
+all know here is that ORs are typically not so huge finding the place for one
+3d screen or for a second one for the assistant it's not very easy and when
+you wear a HMD the displays head mounted so you don't have to worry about
+where to place that screen you need to have the perpendicular view that you
+that get the depth impression the 3d view and these are all things you don't
+have to worry about with our system so that's what what we are changing there
+awesome so how many of your systems are out on the market at the minute in use
+it's we're getting to the about 50 devices distributed sold worldwide of
+course the number is changing so what what markets are you in so far we do
+have distributors who are active in about 45 countries which is quite quite
+a lot especially when you also consider that we had COVID when we launched a
+product and also in the years after and but but still we we had distributors who
+were still able to move forward and do some trials and we were also able to to
+to gain knowledge of how the device has been used in the OR and these
+distributors are in Central East Europe in Western Europe we are in in the
+Middle East also in Australia and South Korea in the United States and so that's
+that's approximately about it so you mentioned one and one key thing there
+about COVID how did that affect business COVID was I mean it was for us it was it
+was just horrible I mean so we founded the company in 2017 we had our business
+plan we knew how long development takes how many years we we knew we had to
+launch the product in 2020 because you got the business plan you got the cash
+for plan and then there was COVID we were launching in middle of the
+pandemic we were launching in June 2020 and we had about two three four months
+where life was okay also after launching the product but then autumn came COVID
+numbers were picking up we had some policies or some regulations in basically
+all over Europe and the United States which said we are not allowed to go into
+the hospital anymore to demo our product and that was almost two years where we
+went when we and also our distributors were not or hardly able to sell
+something and that gave us a really hard time that that was just horrible and if
+we would have known that something like that would happen we would
+have had another plan but I mean these are things it just come unexpected well
+it definitely came unexpected I was living out in Austria at the time that
+COVID hit I was living in St. Anton which is just up the valley from Innsbruck
+which is where you're based and I know we managed to get a flight out as soon
+as it hit and we were told by the police to get out actually of our mental
+department but the COVID rules I'd heard how strict they were so you've got all
+the sales staff around the world that were affected but how did it affect
+central operations in Innsbruck? The central operations in Innsbruck was I
+mean we as it was quiet I mean production was was not ramping up so
+that was quiet R&D was super focused because there was no there were no sales
+team coming from the market and putting in feature requests and stuff like that
+so they were super or they were able to focus on the device improving it getting
+or implementing feedback from the first customers and making it even more ready
+for the OR so that was a good situation definitely we were asking all the people
+who were able to do home office but just to protect manufacturing because
+manufacturing they can't do home office as we are manufacturing also the zoom
+lenses internally and the head mounted display so we need the clean room and
+stuff like that so that that was the biggest impact but even after four or
+five six weeks staff was asking us or if they may come back to the office because
+they are just alone at home not having the possibilities to do home office it's
+still home and not office and so on so we decided to leave everyone back to the
+office and yeah get at least a little social life yeah absolutely I mean when
+I flew back to the UK it was a completely different story to what had
+just gone on in Austria it was quite a strange situation but then everything
+closed down so and a lot of my friends who were left in Austria I know they
+struggled a lot more than a lot more than it sounds like your guys did six
+weeks and back in the office there was yeah we we missed we are the in Tirol we
+missed some things or the politicians but it's something I don't want to jump
+in here because there will be an ever ending story yeah let's keep on with the
+the surgical robotics side of politics and so yeah some of some of the
+partnerships that you guys do at BHS are really interesting because it brings
+together robotics plus robotics and there's collaborations with medical
+micro instruments and collaboration with Microsoft so talk to me a little bit
+about what those two are. Microsoft is more ergonomics focused and NMI I can't remember what the name of the study was. Tell me more about those two.
+So it was never a strategic plan to put something like that up like the
+cooperation or the installation we are having in the Münster Fachklinik für
+Plastische Chirurgie Hohenheide so it's a plastic department in Münster with
+Professor Küchlerhaus and he actually was the one who applied for a EU grant I
+think it was to combine both systems it's going to the direction of
+digitalization of the OR or of the future something like that so he came up
+with that idea of course we were supporting it and both of us MMI and we
+were super lucky that that grant got approved and then he was able to
+purchase both devices and that was I think first time in the world when two
+surgical robots were combined just by one surgeon or one surgeon is the
+interface for both systems because he's wearing our head-mounted display
+controlling our device and holding in his hands the instruments from MMI and
+controlling the second surgical robot and in the meantime he did plenty of
+surgeries and it's for him it's like it's standard state-of-the-art
+performing the surgeries in that way it's it's a joy watching that and so
+that's the thing with MMI plastic surgery doing some super
+micro-anastomosis and micro-surgery it's basically the same but just another
+surgical robot. For us, for BHS, it doesn't change
+anything if we go with MMI or combine our device with MMI or with the
+micro-surgery system and I can't explain all the differences between MMI and
+micro-surgery I'm not that much into the detail of these two systems but for us
+it's a really it's a joy having such installations because we never thought
+about it that something like that will happen we always thought it's gonna be
+super cool if that could happen and then all of a sudden it was
+just there so the future has arrived. Cool, so actually I think one thing we
+haven't really touched on so far is we know that it's a digital microscope but
+actually the controls of it is hands-free I think that's what the real
+unique part of it is so tell us a bit more about the interface and how the
+surgeon actually controls the system. It's pretty simple but making it pretty
+simple that it's I think that's that's the art so you get one foot switch which
+is just one single button not a complicated foot pedal and I mean having
+a foot switch in the OR it's pretty common as you get the bipolars you get
+the power tools and so on so the surgeon has that one foot switch he presses that
+foot switch and in the head-mounted display a user interface is popping up
+it's a super super simple very intuitive and with your head movements
+you control a cursor like with your hand the mouse cursor and so by controlling
+the cursor you select one of the functions go back to the center to
+confirm it and as long as you press the foot switch that function stays
+activated and then it's everything what you can do is based on what you see so
+for one function for example it's we call it free view that's when you move
+to point of interest to somewheres and explore the surgical field you see the
+image you move your head to the left and the image moves to the right it's like
+it's like in real world but a robot controls the movement or these small and
+tiny movements so super simple to use. Indeed indeed and that's why I was so
+able to pick it up within about five to ten minutes of actually using the
+system I was able to control it and I'm obviously not a surgeon so it's
+definitely intuitive to use. So going back to the the collaborations then can
+you plug into for example NMI's sales team or can you plug into I know
+Microsoft's not quite at the stage of market yet but can you plug into those
+sales teams and sell them as a combination product now? Yeah sure sure
+and also NMI has put up a OR solution as they call it also included our
+device for their OR solutions also being able to demonstrate how our how
+their system could be used of course the customers surgeons who don't like
+wearing a head-mounted display or who are in favor with the Olympus
+Orbi or something like that so fair enough they can also use these systems
+but we are also part of their OR solutions which makes us pretty proud
+and it's also the other way around this as we do have distributors but also
+doctors who are asking or who know that installation from von Heide from
+Professor Küchlehaus and who are asking for for getting the contact to NMI
+because they also want to see that set up and just yeah are being stoked.
+And that's the collaboration so there's nothing very specific or
+special on that because also for NMI and Microsoft probably in the future
+they also don't want to lock into one microscope vendor because it doesn't
+make any sense for them thinking if some surgeon has already bought a brand
+new whatever exoscope and doesn't need a robotics scope anymore then he should
+not buy a robotics scope or have to buy it.
+Exactly and I suppose it works both ways as well you don't want to just tie up to
+one robotics company when there's so many emerging companies coming out that
+you could use your scope with.
+Yeah right right same for us.
+So moving on to more questions about the business then the business side so how
+have you funded the business up to this point we've talked about a couple of
+grants but any other ways of funding?
+We do have pretty good R&D grants high-tech especially high-tech deep
+tech med tech in Austria so that's definitely worth applying for those and
+FFG and AWS did a fantastic job with these grants and that's always for R&D
+or for the R&D part you need a co-financing or you need co-financing
+and for that in the early days we were using our own money and then doing some
+side projects like engineering and consulting stuff and afterwards of
+course you're gonna start fundraising searching for an investor and that's or
+that investor they did the co-financing part to the to the R&D grants and
+they're with with us since 2018 super super good to work with them and that's
+that's how we were funding the business and how would do you plan to fund the
+business into the future? The ideal case of course will be just by the revenue we
+are making but we know that we have to speed up here and there some things and
+when you want to speed up you need a second series and that's that's the part
+or that's the plan for now just to raise another round growth capital and just to
+stay ahead of the others we're playing with similar technologies and then of
+course we're going we are getting or will be getting fingers crossed to that
+point where it's just all based on revenue. Fantastic so you said there's a
+couple of people producing like developing similar technologies who who
+are some of those players? So I can't tell you all the things because they
+might be confidential but as you can imagine I mean there the digital
+surgical microscopes out there there are companies also having robotic surgical
+microscopes like the S-Colab EOS for example or Synaptive Modus V and for
+them it's in my point of view a logical next step also to come up with a head
+mounted display also also Zeiss has presented at the Kurok in Germany that
+they also think that head mounted displays will be the future and not 3d
+screens in the OR and so I think it's just a logical next step for many of
+them to get rid of the eyepieces get rid of the huge 3d screens you know these
+85 inch whatever Sony TVs and also develop their own HMD and do stuff with
+their HMDs but that's something I don't know also and maybe I'm that the things
+I know I'm not allowed to tell. That's understood understood we'll trip
+carefully. So historically what have been some of the biggest challenges that
+you faced as a business? Historically the biggest challenges I'd say it was Covid
+definitely because that that killed our complete plan. Covid was yeah that was a
+big challenge because having having the plan which which worked so well and then
+having that impact what that that was a big showstopper and then of course
+afterwards everything which is related to changing the strategy changing the
+plan that's that's a big challenge and also another challenge was and that's
+something we or no one should neglect or ignore is to develop an organization
+which is ready to be scaled but still stays efficient and so we went from 2017
+in February we were three of us four of us and when Covid started or mid 2020
+we were about 50 people and scaling so fast and having to move the office like
+two times a year and but still also documenting the processes onboarding
+people integrating people that's a big really big challenge but I think we
+managed it very good but we do also have an excellent team so thanks thanks to
+everyone who is listening from the team and did everyone a fantastic job and
+yeah these two things I'd say were the biggest ones. Okay and in present day
+then what do you see as either the the challenges now or the challenges that
+you're going to have to overcome in in the next couple of years. Implementing a
+disruptive technology that's always gonna be a challenge but it's also the
+fun part of founding a new company and developing something like that so that
+that's that's gonna be there and we are still in the niche and need to expand
+that niche day by day then the fundraising also with the with the
+current situation with economy Ukraine Russia war it's all I think there were
+better times so these that's also kind of challenging we don't worry about
+supply chains because that's something we we set up very well so yeah nothing
+to worry about here we don't worry about the MDR because we were working
+according to the MDR since day one so actually the challenges on that so we
+are not not afraid of them. So you have the robotic scope that's currently out
+on the market is being sold I know that you do a surgical drape but what else is
+in the innovation pipeline or what other supplementary products are you looking to
+develop? I can't tell you our R&D pipeline but what I can say for sure is
+that the robotics scope that's a huge playground to develop more stuff the
+drape it's just a drape it's not nothing really fancy also for developers and but
+but the robotics scope itself as it's you could say it 50% of it is hardware
+and 50% is software and with the hardware we are having and also with the
+system architecture we are able to integrate other or more information we
+do have a very powerful computer very powerful GPU so there's a lot of
+processing power in the device and especially the software side it's
+it's a huge playground for our R&D team where we can enable other things like
+also AR or getting into the direction of AI in the future connecting other
+device like surgical navigation also integrating stuff like that it's it's
+really cool and it's also just an obvious next step or also being able to
+control other devices but I mean that's getting more into the direction which I
+have not allowed to tell today but I said it's it's a huge playground and the
+robotics scope as it is today works as a surgical microscope but development as
+we all know never stops and after the first and second generation there will
+be a third one and maybe also some complementary products which are being
+used with robotics scope or we what we also did is to just take the HMD itself
+because it's also a device can be a medical device connect to that to an
+endoscope and use it for endoscopic procedures because in the endoscopic
+procedures you you get the same issues with ergonomics and being able to see
+the screen and so on so you even something that that could happen in the
+in the in the future that we are just taking pieces of our technology and use
+that for other devices either standalone or in combination with something else
+so five years down the line what's your vision for the business what's the high
+level vision that's a good question that's a good question five five years
+down the line from today on I I so that the division or the big idea is that we
+grow further that we do have a reasonable amount of revenue we see many
+robotic scopes being used on the daily basis in the ORs and this would be just
+a consequence because of that that the robotics scope got more of a mainstream
+product and it's common using a HMD within a surgical microscope so that's
+that's the that's division so to move from the niche product which has the
+sweet spot for some surgical procedures to the mainstream product being used for
+every surgical procedure or for every microsurgical procedure and then what I
+said previously regarding revenue and so on and growth that's just the logic
+consequence okay and so at the minute you said 45 distributors and a
+registered so are you planning to grow through distributorships or were you
+planning to build a direct sales force as well we got a go with distributors
+because especially as you know hiring people it's hard and employing your own
+sales force for all the countries it's super expensive and I think we would not
+been able to once I'd afford it and on the other side also to manage so many
+teams and grow so fast as we can with distributors and the other thing is when
+you don't have the contacts in the countries or know the Ministry of Health
+or know how the procedures are and don't know who the people are who have all the
+connections it's super super hard to build up a team and sell a product that's
+why we we prefer evaluating our distributors having a close partnership
+and let them participate also on the device and we also participate on their
+knowledge and connections. Okay do they come with any challenges to grow
+through distributorships that maybe you wouldn't with it a direct sales force
+yeah I think it's more or less the same challenge or kind of the
+same challenge because when you build up a sales team or any team and you hire
+people you can hire the wrong people and you find that out later maybe a year
+later that they are not performing so well you have to take the difficult
+decisions redo some things and with distributors it's gonna be actually the
+same of course when you sell through distributors the margin is lower you
+also have to educate them but there is no costs directly with running them and
+that's in our stage for our plan the way easier one than hiring directly of
+course we do have direct sales in Austria Germany and also restarting the
+business in the United States because we also need to learn how you can sell at
+the device and then partner up with our distributors and find or hear their
+thoughts and develop the best way to sell it. Okay and so you mentioned a couple of key
+geographies there obviously you've got direct in a couple of locations you're
+looking to launch the US again are you planning to take on some of the some of
+the markets outside Europe in the US are you looking towards Asia the Middle East
+Africa? Yeah sure as a Middle East there's already a distributor there that
+was also the reason why we've met at Arab Health a year ago so we do have a
+distributor and they are also covering all the smaller countries around Dubai
+or the United Arab Emirates we also going further further to the East
+evaluating distributors in for example on the Philippines, Thailand, India, China
+because it's the huge huge markets and they also need robotic scopes that's
+obvious of course we're gonna go there and only focusing on on Europe and on
+the United States yes and no so my point of view it doesn't make sense for
+example if you would just focus on Austria and Germany because then we
+would have a product for just these two countries and we would never have the
+chance also to to get the feedback and all the procedures done what we need to
+do the next steps when we only stay in two countries. Indeed and so let's move
+and start talking about the more general industry that's so I understand that
+this this isn't an invasive surgical robot but the end is so unique so we're
+gonna have to talk about some things that aren't as similar but the actual
+surgical robotics industry what do you see as some of the future trends and
+what do you think it looks like from a technology perspective? So you mean from
+the surgical robotics from that industry what we see is many many projects but
+I think what you also see many projects which are invasive getting into
+direction of the da Vinci or into direction of the CMR system or like
+like also the distal motion and so on there many many more coming up I don't
+know all the differences of those systems but that's that's one one
+general trend no one can ignore but on the other hand what's what I think is
+super exciting because when you talk to someone either in the field or in the
+medical device field or also outside the medical device field and you speak about
+surgical robotics they always say ah it's the intuitive system okay so that's
+that's seems to be the pretty one pretty pretty only one which is which is known
+but I think that having more specific robots for specific procedures that's I
+think the more interesting part and not just thinking about laparoscopic
+surgical robots for example that that robot to insert a cochlear electrode
+that's pretty cool also improving improving patients residual hearing
+stuff like that or also interventional systems also in Tyrol they're building
+one tiny robot for interventional surgical procedures and biopsies stuff
+like that is I think also very very interesting and the trend there
+definitely it's to analyze the data which is available AI will also be there
+or will be will get stronger and stronger to support doctors and also to
+support surgical robots. So there's likely going to be people out there who
+want to develop their own surgical robotics company they might have the
+idea to develop some kind of high-technology products what advice
+would you give to someone who's at that early stage working at a company has a
+napkin sketch and on the balcony with their friends what advice would you give
+to someone like that? I think everything what I say now is just wrong don't do it
+no don't be afraid of going that path and plan for not that one extra mile
+plan for more extra extra miles but I mean it's a getting more and more
+competitive field as we know that there's so many projects in the last
+couple or few years got FDA approval got C marked and so on so it's getting more
+and more competitive so if someone thinks to move into that direction then
+building the next intuitive DaVinci then I think everyone or the one who does it
+has to exactly know that the weaknesses of the other devices but I got that's
+that's true for every product you're going to develop and when you decide to
+go into the direction of developing one super specific robot for one super
+specific procedure then you got to involve many surgeons as soon as
+possible to evaluate if the idea really makes sense and if it's going to be used
+for you know from an audience which is big enough who is also willing to pay
+the bills and yeah something like that will be the recommendation if it makes
+sense and don't be afraid of going that path it's a lot of fun a lot of pain
+cool good stuff and how about people who are looking to enter into the industry
+so not not founding their own companies but people looking to enter at maybe an
+academic level or moving from the wider medical devices market moving to a high
+technology robotic product yeah apply for the jobs come to BHS we got some
+opportunities for you that's that's the advice here no I mean you're gonna learn
+you're gonna learn on the job anyway it's doesn't matter in what position it
+is if it's in the RD department or if it's sales or marketing or else a very
+very important job also here at BHS is clinical application because someone
+needs to teach how our system or a surgical robot is being used during the
+procedure especially in the first cases because it's not obvious how the system
+is gonna work and of course the training procedures but still that support is
+needed and going going to the direction coming from another field or not from
+such a high-tech field just just do it just do it it doesn't make any sense to
+be afraid of that high-tech space and it doesn't make any sense being afraid of
+surgical robotics I'm sure 100% of the companies out there they do have
+excellent training programs so that starting in such a company is I don't
+want to say easy but possible. Okay and so how do you feel about being able to
+support your plans for the future do you think the talent exists in the market at
+the minute are there enough people coming through your pipeline wanting to
+join BHS technologies? Yes it's okay it's okay so we do have we do have the MCI
+which is a university private university they do have a medical device or a medtech
+course and also even previous to that so Innsbruck is not a bad place to recruit
+but of course could be more especially on the regulatory affairs side it's not
+easy to to hire someone or also to find the right people because you don't want
+to have the internal police which is yeah slowing things down that that's
+pretty tough but on the developer side also manufacturing if you think about
+that that's that's okay with us it seems that we didn't do everything wrong. So
+and you mentioned one thing that regulatory affairs and what has been
+your regulatory pathway so far and how is you be founded to gain regulatory
+clearance? So the pathway was as we had one one former colleague who was taking
+care about all of that and as it is just a medical device class one in the EU and
+also in the United States our regulatory pathway is pretty easy because we don't
+have to do a clinical study and we can outsource the clinical evaluation for
+example which is a big effort to put together but that's something we can
+outsource and all the other things in validating the product can be done by
+developers or test engineers and then as the company is ISO 1345 certified
+since the second first year since 2018 we do have all the processes we are
+getting the technical file together and compiling all the documents so this this
+is for us it's pretty easy to achieve the CE mark and do the 6601 testing
+externally according to CB scheme for FDA listing it's also just a
+registration of the product and in most of the countries for us it's just
+registering the device and then we are there that's a different game for class
+2a, b or class 2 devices in the States and entering India or China that's a bit
+bigger effort also for class one device so the pathway here is just to work with
+a distributor who knows all the details of the regulation of how to submit the
+technical file how to do type testing that they all get the context to the two
+test houses and so on so that's that's a pathway here and we do only support the
+product so that they have all the information they need from the technical
+file to submit. Okay and so to close off the podcast for today and what I want to
+know is what do you think are the three top technologies and that we're going to
+see in the surgical robotics sector in the future? The three top technologies
+that's a tough question I didn't think about that just give me a second what
+what's going to support in various or for various robots and functionalities
+it's it's definitely going to be AI that's that's going to support even if
+it's just a part of the of the whole device which is supported by AI. AR
+augmented reality that's also a thing which is what we also see and what we
+are facing having augmented reality so that you see more get more information
+to the into the as we call it the microsurgical cockpit so that also the
+surgeon has all the information needed or maybe also a bit more and the third
+one is connected devices so that's also something where I'm 100% sure which is
+picking up more and more that there is in the future is going to be a maybe a
+standard interface or an interface so that you're able to connect various
+devices so that again also the devices are able to to collaborate a bit more
+than it's just today having side-by-side one and the other device of course they
+connected over the PAX system but not in a way that they are
+communicating with each other controlling functions and and stuff
+like that. Perfect, well thank you very much for joining me today on the podcast
+Mike it's been a pleasure to have you and hope you had a good time as well. Sure, sure
+thanks for having me Henry, thank you.

@@ -1,0 +1,598 @@
+Welcome to the Surgery Bots podcast, the show where we explore the latest
+advancements in surgical robotics and how they're transforming healthcare.
+Every two weeks we sit down with a guest who is at the forefront of this
+incredible space. Surgical robotics is changing the way we approach surgery. Our
+guests are going to share their experiences and insights discussing the
+challenges they've faced and successes they've achieved. We'll also delve into
+the latest trends and innovations, exploring the newest robotic technologies
+and how they're being used to improve patient outcomes. Whether you're a
+healthcare professional, a researcher or just interested in the latest
+advancements in surgical robotics, this podcast is for you. So join us as we
+explore the world of surgical robotics and discover how these cutting-edge
+technologies are shaping the future of medicine.
+Hello and welcome to today's episode of the Surgery Bots podcast. In this episode
+we sit down with Matt Curran. Matt is the CEO of a company called Nanoflex
+Robotics which is a spin-out of 25 years of research from ETH in Zurich. After 25
+years in various different commercial roles in Medtronic, Matt decided there was
+time for a change and when he was approached with this technology he was
+blown away. Matt gives some great lessons about what it takes to join the startup
+and some of the lessons he's learned in his transition from big company,
+multi-billion dollars and to a startup and their road to raising finance and
+their route to market. So please enjoy this episode. So hello Matt and thank you
+very much for joining me on the Surgery Bots podcast. Pleasure Henry, thanks for
+the invitation. So to kick off, please can you give me a high-level overview of
+your career up to this point? Sure, so I started out in sales so I graduated
+university in the late 90s and I had always the idea that if I wanted to work
+in a commercial organization, understanding how the commercialization
+interacts with its customers and makes money and sells was important. So
+pretty much straight after university I got a job doing medical sales, medical
+device sales. Went through a local distributor in the UK for spine and
+sports medicine implants that was bought by Medtronic and we were terminated so
+that I went to work for a small American ENT company doing surgical tools which
+was then bought by Medtronic. So I ended up thinking okay maybe I just work for
+Medtronic and that was the start of a 24-year career with Medtronic with
+commercial sales and marketing roles. So started off doing sales of pacemakers
+and a half alien devices in Scotland and then through multiple different roles, a
+company-sponsored MBA and then ended up going to work for them in Asia Pacific.
+So I started up the ENT operations for Medtronic ENT in ASEAN and
+Singapore which was a great three-year experience setting up
+distribution models, hiring sales organizations, learning about different
+cultures and then after three years came back and still with the same company to
+to run the marketing for the cardiology business for that CRDM for emerging
+markets as it was then Latin America, Middle East, Africa. That lasted for a few
+months and then through a one of numerous reorganizations I ended up
+moving into the Western European marketing organization for cardiology
+and then various different roles within within that organization. Then marketing
+for the newly formed surgical technologies division so that's capital
+equipment for neurosurgery and orthopedics. Then ended up running a
+business within that for the neurosurgery and then after that became
+regional vice president and then a couple more vice president roles with
+Medtronic for Europe and Canada and Europe, Middle East, Africa before finally
+ended up with Medtronic as market vice president for the cranial spinal
+businesses for Europe, Middle East, Africa. And then about three years ago I had
+realized I got to the end of my corporate journey. I started being the
+sort of miserable guy at the back of the room with the awful body language you
+get telling people how good things used to be in the past and was really not
+helpful and not constructive and it wasn't it wasn't a great situation to be
+in. So I ended up leaving. I'm very very glad of that and then started looking
+around for other opportunities and came across a technology from ETH so the
+Swiss Federal Institute for Research and they had been working on
+electromagnetism for about 24 years in the multi-scale robotics lab and I met
+two guys Christoph Schottem and Brad Nelson who were at a point where they
+wanted to start commercializing a company and it was not something I had
+intended to do at all to go into a startup. But I saw the technology and
+given my background in devices I had a pretty good idea what was in the market
+and when I saw what they had to offer I was completely and utterly blown away
+with the technology that they had. The ability to move and manipulate devices
+in three-dimensional space was just was just awesome. So I came on board and
+I've been connected with them for a couple of years, founding the company
+about eight months or nine months later, getting the first sponsorship and now
+I'm the CEO of NanoFlex Robotics which is a company now of 18 people on a
+journey for endoluminal robotic surgery for vascular procedures.
+Okay, fantastic. So let's talk more about NanoFlex then. So tell me the
+story, so when you joined the organization and eight months you spun
+out a company, tell me more about that journey that you went on and how it's
+got to where it is today. So when we started we started looking at the
+different market opportunities. So we start with a core technology which is
+the ability to move electromagnetic fields and then within that if you have
+medical devices with tiny little magnets incorporated you can move them super
+accurately in three-dimensional space. So we started looking at different markets
+to go after and at the same time started looking for funding. And the funding side
+we applied for and were successful in getting sponsorship and funding
+from the Wies Zurich organization, so that's a business incubator that is
+between the University of Zurich and ETH. And after probably about six or eight
+months of discussions with them we ended up being accepted as a project. And then
+a few months after that we formed the company. So within Wies we have the
+support of a university incubator, so we have facilities for space for prototyping
+office locations and all of the infrastructure of the Swiss Federal
+Institute behind us in terms of payroll and HR, which is great in that everything
+works really well but is also pretty heavy in terms of the administrative
+burden for a startup. So we started off with the project in May
+2021, that's when we officially started with Wies, and we expanded the team, looked
+to scope the project in terms of which clinical areas do we look at where we
+see the biggest benefit for the manipulation of the devices, built the
+team up and then started on the journey after quite a bit of market analysis to
+go into neurovascular. So we'd spent a lot of time looking at cardiovascular, we
+spent a lot of time looking at different endoscopic applications, and we
+sort of hit upon neurovascular as the target market we were going to go
+after initially, based on a couple of factors around navigability, around
+problems to be solved, around access to clinicians who were interested in
+innovative new technology and new approaches, and also a market that was
+was growing pretty quickly. Okay, so why was this such a big problem need to
+be solved and why does the world need nanoflats? So what we're able to do
+is move devices very accurately in three-dimensional space inside the
+patients. We can also do that with a technology that allows the physicians to
+be remote from the patients. What it allows us to do with stroke treatment is
+a few things. Because of how we make the catheters, they have
+magnetic rings embedded in them, that means they need to be more flexible at
+the tip to be steerable with a magnet, so our devices are softer than other
+comparable devices in the market. And because of the magnetic control, we can
+move them in three dimensions at the tip of the device. So you have something
+called a translocation problem for the standard robotic procedure or
+standard manual procedure, where the doctor is trying to twist and turn a
+wire, usually from a femoral approach, somewhere in the brain. So you're a meter
+or a meter twenty away from where you're actually trying to move the device. With
+the magnetic field manipulation, you're actually moving the tip of the device in
+three-dimensional space at the exact location. So you have an accuracy benefit.
+Because the device is softer, you should have a safety benefit because it puts
+less pressure on the walls of the vessels. Because you're steering the
+device, you're going through the center of the vessels rather than banging off
+the walls of the vessels as you do with the traditional wires and catheters. And
+because you can steer the device remotely, you can start to move the
+patient and the physician apart from each other if that's desired. So you can
+start to get the doctor away from the x-ray source. And the other thing that we
+really see as the big benefit that we're working towards is remote stroke
+treatment. So stroke is one of the few procedures which is extremely time
+sensitive. So if you look at the European guidelines, the majority of patients
+should be treated from within six hours of a stroke onset. If you're living in a
+medium-sized town, you probably don't have the facilities in the local hospital
+to be able to perform interventional stroke procedures. But you probably do
+have the facilities in that hospital for peripheral vascular procedures or for
+cardiology procedures. So we can use the same infrastructure and then have a
+remote capability for the physician in the university hospital to be driving
+the catheters in the peripheral hospital and save the patients up to one or two
+hours of transfer time after diagnosis to get to the university hospital for
+intervention. Okay, so talk about the magnetic guidance and how is
+this technology unique from say, stemio-taxis who also have magnetic
+driven catheters, and then also other neurovascular companies like Siemens
+with the Coindes CorePath. Yeah, so if I take the the stereotaxis analysis first,
+so stereotaxis are the biggest player in the market currently using
+magnetically controlled devices. The field where they operate at the
+moment is EP, so they're steering EP catheters in the space of the atrium to
+be able to ablate malignant arrhythms. We have a similar approach but a
+fundamentally different core technology. So the technology of stereotaxis is
+they use permanent magnets. So they have very large permanent magnets on large
+rotating arms inside the operating room. So they have two, I think that 290 kilo
+magnets on each arm, and they rotate them around the patient in order to change
+the magnetic field to affect the movement of the device. So that allows
+them to create quite a strong magnetic field, but because you have such
+large magnets it creates something of an issue that it's hard to use the room for
+anything else other than the dedicated EP procedures because you have this very
+large magnetic system in the room. The way that we've approached it is a little
+bit different. So our magnet is a portable system, it's about a 350 kilo
+portable electromagnet. So the electromagnet is the big difference. So
+we can turn our magnetic system off and on very easily. So we don't generate as
+large a magnetic fields as the stereotaxis system does, but we generate
+electromagnetic fields that are sufficient to move the wires and
+catheters within an operating distance of approximately half a meter from the
+head of the magnet. That means you don't need to rebuild your operating room, it
+means you don't need to change the workflow, it means you can use standard
+metal instruments. You don't have a very complex or
+cumbersome way of introducing the system into the workflow in the
+cath labs. So that's really the biggest single distinction between us is the
+size and usability. If you compare what we're doing to Corindus, so Corindus
+effectively is it's like a marionette. It allows you to move the devices in the
+same way the Doct does, but from distance. It doesn't add any additional
+functionality to what the device does above and beyond the standard robotic
+precision of motion. Whereas what we're doing, because we can change the shape of
+devices, because we have the ability to steer with magnets, that means we can
+change the shape, the tip shape, we can get to different locations and we have
+the ability to get into locations that it's not possible to get to with a
+fixed catheter, or you'd have to change multiple fixed catheters to get
+to the same point. So we we're more efficient, we're more flexible and we
+should be should be safer because we use softer devices rather than the standard
+tips. Okay, fantastic and thank you for going to a few details there on some of
+the differences. So when a company is spun out of a university, what's the
+actual process that it goes through? There's 25 years of research odd that
+you've got there. How does it then become a company and how do you go
+through that process? So the first thing that I realized is it takes a long time.
+So universities don't tend to work on the same, in general, universities don't
+tend to work on the same sense of urgency as commercial organizations.
+They are very concerned about reputation management, they're very concerned about
+the intellectual property being used correctly, they're concerned about the
+reputation of the institution. So we had a very long negotiation with the
+university in terms of the licensing rights. So there are multiple ways
+of doing it. The way that we have it is we have a worldwide exclusive right to
+the intellectual property that we have under the object of license for our
+agreement, and once we have taken that over we have the obligation to pay to
+maintain the IP. So you have a lot of discussions with the university around
+what are the licensing terms, in terms of do the university take equity in the
+company or not, do the university want royalty rights or royalty fees on
+any transaction or not, what are the terms of sub-licensing agreements for
+the IP that you have. So there's lots of protection and provisions that the
+university want to put in place to make sure the technology is used correctly
+and you're not just acting as a conduit to get the license and then immediately
+pass it on to somebody else. They want it to be used properly. So yeah, that
+was a pretty long negotiation on our part to get that in place
+because we start as a company with so many different pieces of IP. The
+other thing that we have is that now that we have the agreement in place with
+the university, we have the option to add more objects of license to the
+agreement we have. So we have different research facilities within ETH that
+are working in similar fields and if we find things that are of interest to us,
+we can apply to the technology transfer department of ETH and ask for those to
+be added to our object of license. Okay, so what kind of special conditions do
+you have in place? So what are some of the restrictions that
+come with spitting out and what do you really have to tread carefully with from
+now on? From now on, maybe not as much as during the negotiation. So during the
+discussion, there was a lot of backwards and forwards about the minutiae of the
+contract. What we have to be careful of is ETH is a shareholder of our company
+as well. So they are a federal institution, so they have certain
+guidelines, certain responsibilities, certain ways that they have to act. So we
+have to abide by those as part of our current business incubator setup and
+also having a Swiss federal institution as a shareholder. In terms of the
+day-to-day operations of the business, now that we have the licensing agreement
+in place, it's relatively speaking very straightforward. I'm sure once we get to a
+point where we're in commercial operations, where we're starting to have
+sales and needing to start paying some of the royalties, it will probably come
+back to be a little bit more complicated. But at the moment, it's now that the
+agreement is in place and we haven't yet started commercialization, it's touch
+wood, pretty good. Okay, cool. So I want to bring it back to your transition. So how
+do you manage the transition from 25 years at Medtronic in a very heavy
+commercial company to an early stage R&D company which doesn't have a robot for
+sale yet? So it's a pretty big transformation. So as I left
+Medtronic, I had an organization that was I think seven or eight hundred in terms
+of the scope of the commercial team that I was managing. And then when we
+first started the project in Nanoflex, there was four of us. So immediately
+there's a change of scale. One of the things that I found leaving a big
+corporation is, even though it didn't feel like it at the time, how easy
+things are. So if I had a question about reimbursement, I had a reimbursement
+director to ask. If I had a question about supply chain, there was a huge
+supply chain organization that could answer that. If I had a question about
+finance, there was a finance director and finance analysts. Questions about HR,
+there was dedicated teams. When you start your own spinoff, if there's a
+question about HR, I need to find the answer. If there's a question about
+finance, it's me that does the spreadsheets. And obviously as the
+company grows, that changes. But what it really does is, it sort of
+empowers you again. It empowers you to start doing your own work. To not just
+sit there and tell people how good you used to be when you used to do sales
+ten years earlier. It really gets you back to being very actively involved in
+running all different aspects of the business. And the other thing that I
+hadn't realized when I was in the large corporation, is just how many things are
+done for you. And I was running a big organization and I thought I understood
+how the business worked. But I only understood a small part of how the
+business worked. There's lots of other facets that that I had no idea about. So
+for example, I had no idea how expensive patents were. Now for a company the size
+of Medtronic, it's insignificant. But when you're a startup and you start having
+all of these patent costs coming, they mount up really quickly. So there's
+a lot of learning that I've been through. And yeah, it's a big
+learning experience. And it's a very positive thing, because everything is
+about growth. Everything we're doing is about having an aligned value, aligned
+mission, aligned vision of where we want the company to go. And everybody's
+pulling in the same direction. There's no politicking, there's no
+cost management stuff, aside from managing the projects. There's no
+talk about operating leverage, there's nothing about the shareholders yet. It's
+really all about driving the company and the vision and the projects
+towards clinical use. Absolutely. So when you're building from scratch, how do you
+build a culture into the DNA of the business? Or does the culture build
+itself in a company of this size?
+The company culture is built by people, which is obvious. When you
+have a spin-out from the university, there is a certain group that you
+start with. The people who are coming from the university who have the core
+foundational knowledge of the company. So that's the start of the company
+culture. What we had with Nanoflix is we had some fantastic engineers that came
+out of ETH and joined the company early, in a range of areas in and around
+robotics. What we didn't have so much was industrial experience, commercial
+experience, people who worked outside of academia. So for the first few hires, we
+actively started to look at how to balance between people who were
+coming straight out of academia and people who had more commercial
+experience, more industry experience, and sort of even that up over time. The
+other thing that we looked at was things like the balance of the
+organization. So we started off with the three original people that came from
+the university, and the three founders all looked very similar. All white
+European guys with different lengths of beards. So what we had to do was balance
+that to get a bit more of a rounded and balanced organization. So as we
+started looking to hire the next people in the organization, we're
+conscious about not just having people that were the same, looking for
+different backgrounds, looking for different experiences, both academically
+and industrially. And we've done that now in terms of how we've got the first
+18 people in the organization. Okay, and where are you
+typically pulling these people from industry from? All over really. So we
+have brought in people with experience in catheter manufacturing design,
+we've brought in people who have experience for robotic control systems,
+we've brought in people with finance experience and fundraising experience,
+regulatory experience in different medical devices, brought in people from
+large med tech with commercial experience. So we're sort of picking the
+skills that we need from different industries, mostly medical and med tech,
+but really looking to see how it fits. The other thing that we've done, just to
+go back and mention a little bit about culture, which you can do at the start
+of a company, is we have a way of doing the interviews where we, when
+we're pretty sure about a candidate, we ask them to come in and meet the team. So
+they can come in and we have a coffee with the team and anyone in the team can
+ask any questions of the people that come in. And that's important because
+you get immediately the buy-in of the organization to the new hire who's
+coming in. So everybody can have their say whether they think they fit,
+whether they have questions about them, we have a sort of open discussion
+afterwards. But if at that point we decide that this is the person we're
+going to hire, you have the guaranteed buy-in of every single person in the
+organization who's spoken to them because they've had the chance to have
+their say. So that really empowers people to feel ownership of the company, feel
+ownership of the team, feel ownership of how we are growing together.
+Absolutely, I think it's also important on the candidate side to meet the team
+because these are the people who they're going to spend most of the
+time with, they're going to probably spend more time with these people than they are their
+own family. So they've got to know before they join the organization, they're going
+to be joining something which is aligned to their values and their mission. So I
+think it works both ways there as well. So what traits and behaviors do you look
+for when building your team? So
+less of the skill set side, more on actually what these people are like.
+The first thing is open and collaborative. So we are a small team and so people need
+to be open to new ideas, they need to be open to how we work together and we need
+to collaborate in terms of moving the project forward. The big thing that
+we can't have for a company of this size is for anyone to say that's not my job.
+So that for a company like ours would be an absolute dead-in-the-water stop,
+it would be an end-of-discussion killing phrase to use because
+everybody has to do everything. So if you need to help with the
+admin stuff, if you need to help with logistics, if you need to help usability
+testing, if you need to help to move devices around, everybody has to be
+open and flexible to do whatever is required. But with the foundational
+knowledge and skills to be able to do the job for which they're hired. So there's a real
+degree of flexibility and openness that we really need for a company of this
+size. And also the job that we hire for today is maybe not the job that
+somebody's going to be doing in six months time. So we're changing rapidly,
+we're evolving quickly, we've got tasks that we know are coming up that
+we don't have the skills for yet. So either we're looking to hire people or
+we're looking to train people for the new skills. So it's really that level of
+flexibility and openness that's also important. Great, so you've shared that
+you've had quite a big learning curve coming into the startup world from
+Medtronic, but what lessons have you actually brought from Medtronic that
+you've applied to NanoFlex? So one of the discussions that I've
+had on a couple of occasions with one of the engineers is, when you're in the
+university you think people in industry, in big companies, know how to do
+things better. There's the assumption that if you're in a big company you know
+what you're doing and it's always the right thing to do. And having worked a
+long time in a big company that's absolutely not true. There are always
+examples of knowledge and competency and skills, absolutely. But the assumption
+that big companies know how to do things better instinctively is not
+necessarily true. They know how to do things better because maybe there's a
+thousand engineers trying to do something, as opposed to a team of six or
+seven working on things. So it's being open to understand that there's
+different ways of doing the same thing. What I've taken from Medtronic is an
+understanding of market, it's an understanding of customers, it's an
+understanding of realizing what end users are, how to interact with people. It
+also gives you a certain market knowledge of what is
+around within the medtech space. So I wouldn't have said specifically Medtronic
+but just being in this industry for a couple of decades you get a really good
+feel for what is and is not possible, what people are prepared to pay
+for, what physicians are interested in. In terms of the skills, there was a lot of
+benefit with my commercial experience in dealing with the
+university because the majority of startups that they're used to
+dealing with are from PhD researchers or master's researchers who are trying
+to get the IP for their own research. Coming in with a real understanding of
+an end market already differentiated us in the negotiations with the university
+because we actually knew where we wanted to get to, as opposed to being fresh out
+of the gate and getting what we're getting from the university.
+What is the estimated timeline to market with Nanoflex? We should have
+our first clinical studies in humans late summer this year. We are looking for
+a mechanism for submission to the FDA which should have us with the first
+market, first products available for a very limited commercial release probably
+this time next year towards summer next year. We're probably about a year
+away from having the first products on the market. You mentioned the
+FDA is the first market that you're going after. What influenced the decision
+to go there? There's pros to going to the US and then there's
+the cons of trying to work in Europe. The pros of the US is the FDA and the
+interactions we've had with them have been super positive. They're very
+straightforward. They're very clear with what they ask of you. The rules are
+written down. They are inflexible insofar as how they implement some of the rules
+but really it's just the clarity of what you need to deliver. When you look at the
+US market, it has the highest volumes. It has some of the highest prices. It has
+the highest uptake of medical technology. There's a real
+willingness for the US physicians and clinicians to adopt new technology and
+look for new advances in healthcare. So there's lots of very positive things
+about looking at the US market. When we look at the European market, with the
+struggles for EUMDR, it's really very very hard for a small innovative startup
+like us to even get on the list for one of the notified bodies to be able to
+start waiting our turn to try and submit. So we are, after multiple initial
+discussions, we're really prioritizing the US over Europe because EUMDR
+makes it just so difficult for us. We're looking at potentially other markets
+like Japan as being a higher priority than Europe just because the EUMDR
+is so difficult for us to deal with. The positive that we have as a Swiss-based
+company is that the Swiss government have mentioned that they're looking at
+using the FDA as the basis for Swiss medical approval. So that potentially is
+a very big benefit to us because the clinicians that we're working with will
+soon hopefully be able to access our products to use in our home
+market. What's the timelines on that? So when were the Swiss
+government looking to implement that FDA change? So I'm being no expert on Swiss
+healthcare policy but from what I have heard I would expect to hear some
+news later this year, possibly with a change of regulation middle or end of
+next year. That would be the hope and expectation. Good stuff. So I wanted
+to move on to funding rounds. I know that you've had a really strong series
+round recently. Tell me about the journey it's looked like and tell me about the
+the raise in general. So this was another big learning for me coming
+into the startup world, the funding mechanism. So we managed to
+get our initial funding from Wyss. So the mechanism of support from
+Wyss was a great start. It allowed us to hire the first team and then
+after the licenses were signed for the IP and the company was formed, we
+started our raise and we got our lead investor from a pitch that I did when I
+was in Boston. So I was supported by a Swiss venture organization to go to
+the US as one of the ten top Swiss medtech startups in
+2021. And we looked at pitching our technology and while we were there, there
+was a remote pitching session and one of the people who were watching that
+session got in touch with us and over the course of probably 14 months it went
+from a first contact to having a lead investor and finalizing the terms of the
+agreement. So it took a long time from first contact to get the first
+investor. And from when we started talking to companies, there's
+the whole range where you start talking to the individual business angels and
+medical robotics companies require a lot of money. So when you start talking to
+people and they're talking about relatively small amounts of
+investment, which are big for individuals who are not massively
+wealthy, but they don't really touch the sides when you're starting to talk about
+bringing a complex robotic system to market. So we needed to find the right
+mix of investors. We were also a little bit conscious of trying to go after
+family offices first rather than large strategic companies where
+we're probably a little bit too early and where they'll probably want a right
+of first refusal on any future deal. We felt that family offices were the
+best way forward and we have managed to sign up with a company called Ascend
+Capital Partners, who are our lead investor. We also have a relationship and
+investment from Kinled, which is another family office, as well as Mounted Labs. So
+those are the sort of three partners that we have so far. We are, as with all
+startups, still looking for money. But yeah, we're in a pretty good
+place at the moment in terms of our raise. The other thing that you do
+see is, I've probably spoken to 70, 80, maybe more individual potential
+investors over this time. So even with what I think is a very good proposition,
+a very good technology, sometimes it just doesn't fit. Sometimes you have people
+who are looking for something else. You're too expensive, you're not
+expensive enough. There's all kinds of different things. And it's
+important not to get disheartened because you don't necessarily understand
+exactly the criteria of the individuals or the funds of what they're looking for
+on the other side. But yeah, it takes a long time to raise this sort of money.
+So I understand that you got a little bit caught up with one of the crazes of
+the investing world. Talk to me more about the SPAC deal that Nether was.
+Yeah, so we had an investor who talked to us who had lots of things going for
+them. They had very deep pockets. They had a lot of investing
+experience. But one of the things that they were very keen on was for us to
+participate in a SPAC, which at the time the company was probably about three
+months old. And we did not really want to be pushed into making any decision. So
+the SPAC star was already maybe at its zenith or starting to fall. And we felt
+that having to agree and sign up for something like this as a precondition
+was really a bit onerous on a company of our size. So there was a lot of
+backwards and forwards about whether or not we should or should not take
+on a SPAC. I think for the right company at the right time, it's not a
+bad mechanism. But for us as a company this young, it was really something that
+we wanted to shy away from. But yes, there's a lot of people who
+have their own agendas when it comes to investing in startups. And that
+was one that we are quite glad that we managed to avoid.
+Yes, so generally SPACs have had quite a bad reputation in the market. You said
+that sometimes the mechanism works. What situations do you think it's worked in?
+So I think some of the earlier SPAC formations, when it was still a
+relatively new idea, when people were looking at trying to speed their
+mechanism to get a listed company, when speed was the biggest benefit and the
+biggest requirement for the IPO, I think in those instances it makes sense. The
+risk at the moment is the cost of the SPAC for the company as it goes into it,
+the shareholding loss that you get as part of the construction of the SPAC.
+There's lots of downsides to it now that people are maybe a little bit
+more aware of than they were earlier on.
+Okay, good stuff. And just realise that some people may not know what a SPAC is. Could you give a bit more detail on what a SPAC actually is?
+So it's like a blank check company. It's a special purpose vehicle that a company
+has already formed and listed on the stock exchange and then you do a
+backwards merger for a company that's looking to list. So you effectively
+buy or are swallowed up as your company by the listed company.
+And the company is already listed, it's already holds shares, it already has a
+board of directors and it's a sort of custom-made vehicle that you can just
+plop your startup or your ongoing business into, become a listed company and run.
+Fantastic. So moving back to your funding then, $12 million. It'll get you to a nice, nice distance from here.
+So what's that funding going to be used for? What are the key buckets?
+And by far the biggest bucket is people. So it's all about the hiring the engineers, the development team and pushing that as quickly as we can.
+We're also looking at our clinical studies that we will do initially in Switzerland and then in North America.
+It's looking at the usability studies as we need to test the product in market to ensure safety, reliability and usability.
+And then it's expanding the product portfolio that we have. So we're looking at coming to market with a range of wires and catheters for indications,
+initially in neurovascular, but then looking at other opportunities around that.
+And the investment allows us to go a little bit further down the line of looking at the breadth of our offering as we go forward over the next couple of years.
+Fantastic. So the wires and catheters, are you going to develop all of those in-house for your system or are you going to try and work with an open ecosystem with doctors who want to use different technologies, diagnostic and therapeutic?
+So the initial plan is that we will have wires and catheters that we're designing, developing and manufacturing ourselves with a view that our system is a sort of mix and match.
+So you can use other suppliers' devices inside or over our devices, as is the current practice in vascular procedures now.
+So you would have a guide wire from one company and you might have a distal axis catheter from a second company and an aspiration catheter from a third.
+So we're thinking that our system can fit in the same way, that you can use our guide wire to go round the type 3 aortic arch, up towards the carotid and further in towards the brain.
+And then you can use other devices over that to get to the target location for a mechanical thrombectomy or an aspiration.
+So, yeah, the medical community doesn't necessarily always like having systems that are locked.
+They want to have the flexibility to be able to use the devices that are the most appropriate to their patients.
+And we recognise that and we're looking at how we can use our system with the advantages that we see, but then to be able to incorporate that with other devices that clinicians want to use.
+Good.
+And so depending on the headlines that you read, there's a lot of signs of economic headwinds.
+Are you seeing them at the moment?
+In terms of the fundraising, not really.
+There's a lot of negative noise, but actually the people that we're talking to who are serious are still interested.
+And we do find a benefit that potentially there's more people who are looking for roles.
+So people who have been involved in restructuring from large organisations, we do start to see some really impressive looking candidates coming across our desk for potential roles.
+So for us, it's potentially a positive thing.
+So if we have enough money to get on with our development for the next few years, we keep our heads down.
+There's a financial maelstrom that may go above us, but we can hire the right people to get on with the development tasks and get towards an end market use in the foreseeable future.
+Okay, fantastic.
+So you hit on one thing, J&J, they announced their layoff from the 350 people that they let go from the surgical robotics business.
+Medtronic are going through a restructure.
+I know they do it quite a bit, but building together surgical innovations and surgical robotics.
+That's going to create a lot of candidates on the market.
+But candidates is one thing.
+What other opportunities does this market restructure and market change create?
+So potentially it creates spaces for us and it creates spaces for other small companies.
+So if you are sitting in a huge multinational medical device company and you look for niches, maybe you have certain criteria of size and profitability that you need to look at to make that a viable market.
+If you're in a small startup, you can survive on a much lower market share on a much smaller market to make a viable company that you can then prove the technology on and expand sideways.
+So it sort of opens doors and sort of removes a little bit of competition in some smaller niche markets that allows startups to maybe find a place to flourish.
+And then from there, you can grow and expand and improve yourself.
+But I think taking some space out of the market with this consolidation potentially is a good thing for the startups.
+Great stuff.
+So let's paint a picture of the vision for this company then.
+So where do you see the business sitting in five years and 10 years time respectively?
+So at the moment, the big thing that we're looking at is to be able to treat stroke remotely.
+So that's really what we're currently focused on getting towards is developing technologies that are very innovative to allow physicians to be able to control devices in a way that's unique, that allows you to offer a lot more functionality to the devices for a remote control system that will potentially simplify how you can do a procedure.
+So if you're trying to do a stroke procedure in a hospital that's not used to doing stroke procedures, you want to have the simplest, most straightforward set of kit instrument available to do that.
+So we really were focusing on simplifying the ability to treat stroke remotely.
+The step before that is in order to offer that service, we need to convince the senior clinicians in the field that what we're offering is safe and usable and has clear material benefit to them in the operating rooms first before it gets pushed out.
+So then maybe the step before that is using our system broadly within the complete and comprehensive stroke centers to allow physicians to treat aneurysms and ischemic stroke faster and safer than they currently can.
+If we think more broadly, we see the applications of the technology in other areas of vascular, so peripheral vascular, potentially cardiovascular.
+And maybe 10 years out, we also, because of the nature of our technology, we have a platform that allows you to steer devices in three-dimensional space.
+We have working prototypes on endoscopy, so we have single-use endoscopes that can be steered in all kinds of directions using the same electromagnetic platform.
+Probably the most far-out thing that we're looking at and where the research originally started is the control of free-swimming micro and nano robots.
+So that's really where this whole electromagnetic control system started of, can you steer devices super accurately inside the body for targeted drug delivery, for example.
+And once we get to a place where we can have devices regularly used in hospitals with a catheter delivery system that can get you very close to your target location through the vascular system,
+then maybe we start thinking about releasing micro robots and nano robots that have chemotherapy molecules attached to them to allow you to target specific regions within the body with much higher concentrations of doses than is currently available.
+Fantastic. How far away is that? Because it sounds science fiction-y to a lot of people, but how far away are we from that being a reality?
+So the technology and the prototypes to be able to deliver some of this stuff already exists.
+There is research projects, EU research projects, and different research projects that are looking at this.
+From ETH, there's also a number of other spin-offs that are looking at this.
+So being able to get these micro and nano robots close enough to the tumors, for example, to make a difference is already possible.
+Now, what is not yet available is the clinical study evidence to justify using this in patients yet.
+So I think there's the first clinical study that's starting on a similar kind of technology, albeit a little bit more simplistic.
+But I think this is something that we will start to see, particularly for things like gliomas, for very difficult to treat neuro cancers.
+I can see that within maybe five years, we'll probably start to see the first commercial use of this in a few specialized centers.
+That's cool. So apart from that, then, what other technologies do you see?
+So I like to ask the question, what do you see as the future of the surgical robotics industry?
+I think it depends on how far out you look.
+I think at the moment, the majority of surgical robots you can sort of put into two schools.
+One is the marionettes, and the other is the drill guides.
+So when you look at systems like da Vinci, they have perfected being able to translate the physician's or the surgeon's movement into another location.
+So really, that's what I mean by the marionette.
+This allows you to put your hands in places you couldn't otherwise put them and perform the procedures in that way.
+And there's a number of other laparoscopic robots that are going down that direction.
+If you look at the orthopedic and the current neurosurgical robot line, they're all mostly looking at trigonometry.
+How do you make sure you get to a target location super accurately?
+How do you make sure you drill this tibial plateau perfectly, correctly?
+That you're reaming this acetabulum cup exactly as you should.
+So it's all about the sort of dynamics of how that can work to optimize how a clinician could possibly do it themselves.
+What I'm looking for after that is the next step of allowing the robots or working with the robots to allow physicians to do things that they can't currently do.
+So looking at procedures that are not possible because the devices can't do that.
+So, for example, a neuro procedure where rather than just having a straight line for a drill guide,
+you can look at being able to alter your trajectory to go around the speech center, the different fiber tracks that you would have in the brain.
+Being able to compromise your positioning to get the optimal care for the patient.
+So that's something that's not currently possible, but being able to add extra features like that.
+Then maybe you start thinking about having AI and machine learning on top of that.
+So you have the ability to offer additional insight to the surgeons or the physicians during a procedure saying,
+you've done 250 of these procedures, perhaps if you were to think about using this kind of a technique next, that would give you a better outcome.
+So starting to use that kind of machine learning on top of the clinical experience to optimize outcomes.
+And then maybe the last bit would be, are there procedures that can be automated?
+Are there procedures that can be done in a way where the clinical oversight for a low risk procedure is very minimal?
+So some of the research that ECH are doing that we've been tangentially involved with is,
+can you have the automatic screening for endoscopies, for example?
+Are there any simple endoscopies where once the endoscope is introduced, it can be automatically advanced
+and scan the part of the body that it needs to, build a map of that, and then be removed.
+And then the next time the patient comes back, can you automatically go back to any target location or any legion of question to renew that?
+So looking at maybe pushing the boundaries further and offering a little bit more automation into healthcare.
+Cool.
+So people who are listening to this podcast, there's a lot of people from the industry,
+but there's also people from wider medtech and people in education at the moment.
+What advice would you give to people who are looking to enter the space?
+I would say it's a really great industry to be involved in.
+It is an industry where you are fundamentally doing a good thing.
+It's an industry where innovation is rewarded.
+It's an industry that is rightly quite risk averse because of what we're doing.
+So I think there's a certain profile of people who have an intellectual curiosity for things, who want to help people,
+who are looking at trying to do the right thing in the right way that it helps.
+So I think it's a great place to start.
+I think you need to think about what skills you want to acquire.
+Are you on the commercial side? Are you on the facilitating market access side?
+Are you on the economic side? Are you in engineering or development?
+There's a whole range of industrial or commercial skills and jobs that are in this industry.
+I also think there's a lot of benefit for people moving between different functions within the industry.
+So I think that having people with a commercial background who are involved in upstream marketing
+or people on the product development side who are involved in clinical,
+I think that mix and match of experiences really adds to the breadth of what you can bring
+and maybe makes you a bit more interesting and a bit more useful for the companies as you work with them.
+Great. And so there's probably a few people in the same position you were in at Medtronic
+looking to make that transition.
+How would you say to someone who is looking to transition into one of these start-up surgical robotics companies,
+how would you recommend they prepare to actually make a transition like yours?
+I would say learn more about the other parts of the industry than you currently are managing.
+I would say be prepared for a lot of learning very quickly,
+be prepared for a significant pay cut and a potential upside in equity,
+and be prepared to fail.
+So the majority of start-ups fail. That's just a fact.
+So going into this with the fear of failure is really the wrong way to start.
+Going into this knowing that you're going to learn a lot, that you might succeed,
+even if you fail, you will have learned a lot to either take back to another big corporate job
+or to take to your next start-up.
+So I think go into it with a very positive mindset, go into it open,
+and go into it with a sort of realization and reality that you can do something good,
+you can do something big, but there's risk.
+Great stuff. And a great message to, I think, finish on.
+So thank you very much for your time, Matt. It's been a pleasure having you on the Surgiboss podcast.
+Great. Thanks, Henry. Thanks for having me.
+you

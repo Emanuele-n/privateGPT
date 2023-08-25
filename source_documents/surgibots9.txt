@@ -1,0 +1,825 @@
+Hello and welcome to this episode of the Search Boss podcast. Today I sat down
+with Richard Vincent, co-founder and CEO of Fundamental VR. So you may notice that
+Fundamental is not a surgical robotics company. The reason why I wanted to have
+this conversation is because I wanted to add a different perspective. What is that
+with the training and education space? Fundamental VR are positioned so
+perfectly to understand where the market's moving. They work with many
+different companies including CMR Surgical and Vice Carrier Surgical. So
+Richard made a great guess. We talked about some really interesting topics, we
+talked about traditional training pathways, the challenges, limitations, then
+also what the future looks like in the space. So without further ado I hope you
+enjoy this episode.
+So good afternoon Richard and welcome to this episode of the Search Boss podcast.
+Henry, good afternoon. Thanks for having me. So I always kick off with the
+same question. So tell me about your background. What's your career up until
+this point? Sure, yeah delighted to. Again thanks for having me on the show. I
+really appreciate it. So what's my background is really all about
+technology. The last 30 years I've been working in advanced technology across a
+number of different sectors looking at how you can really use leading-edge
+technology to ground today and disrupt and improve a marketplace or a different
+use case. So that's really the key thing that I've been up to. I guess for
+the last 10 years of my career, really about 10 years ago, I took the decision
+to move into medtech as I saw opportunities for new technology to have
+a positive impact in the medical space. So I started to move into that about 10
+years ago and have been deep in it ever since. Okay, so is that when you started
+Fundamental VR 10 years ago or were you involved with it previously before
+Fundamental VR? So with the precursor to Fundamental VR, yeah, I was doing some
+work with, amongst others, Boston Scientific and it was some of that work
+looking at different ways of delivery in the cat lab within the surgical
+environment that really started to bring mine and my co-founders mind towards
+focusing on the work that we'd be doing over the last eight years ago. So we
+started Fundamental VR about eight years ago. Brilliant. So tell me the
+founding story then. So how did you pull all that together? You're working in
+Boston Scientific in a previous company. How do you then move through to forming
+a healthcare VR company? Yeah, so it's, they say it's startups, right? There's no
+such thing as a straight line. Certainly that's true of my journey and I
+think of most people. I think, as I said, well I've always been deep into the
+technology space and I've applied that across multiple different sectors. I
+started to work in the medical space looking really at some of the
+efficiencies of product delivery, a particular cat lab delivery with Boston
+Scientific back in the day and I could really see a lineup between what was
+starting to emerge kind of 2012, 2013 around immersive technology and it
+showing the signals that it could become truly viable. I could see
+that and then once I'd seen that opportunity with Chris, my co-founder, we
+decided this is a great tech to get behind and if we can make it work
+the way we think it needs to work for this particular use case, then we're on
+to a really interesting proposition. So we pulled together some KOLs, some
+surgical and educating leaders to really explore the idea with them. Working with
+those KOLs, we started to put together kind of the epicenter
+proposition for fundamental VR and then started from there really. So you know
+the foundational stones of the product really were and the
+proposition were really let's deliver true presence without the need for
+physical movement. Let's give true immersion so that you can feel all of
+the pressure, the distractions and the conflicting demands on a
+person that's within a high-stress surgical environment. Let's give people
+3D familiarity and let's give them, really importantly, let's give them the
+sense of touch, let's give them the ability to interact with those virtual
+patients as they start to progress and that was really the start of
+Fundamental VR. Okay, brilliant. So up until that point, tell me how you got to
+this and what's your career actually up until Fundamental VR? How has that set
+you up to actually start a healthcare virtual reality company? So take me
+right back to the beginning, education and then work. Yeah, absolutely. So I
+studied marketing and business at university up in Sheffield back in the
+early 90s and then from there moved into communications, marketing and worked
+across from multiple different sectors but the one that I kept really close was
+always kind of innovative new technology. It's always been a passion of mine. I've
+always been really good at taking things apart and occasionally quite good at
+putting them back together as well. So I went through that kind of process of
+loving tech and so when the dot-com era started, mid-90s, it was really
+natural for me to jump into that space. So in the back end of, I guess, 97, I
+joined a founding team to start a business to business dot-com. That was in
+the printing marketplace space. So really interesting and you learn a lot
+about how to raise money, how to build a business fast, the mistakes that that
+stop a business succeeding and the ones that that were going to help it to
+really break free and hit escape velocity. And I did all of that work and
+then of course at the end of the 90s we had the big bubble burst of the dot-com
+era and so a lot of the funding that was around stopped coming through and as a
+result of that, the dot-com I was involved in didn't succeed and I left.
+Went back to communications and then whilst in communications and back again
+working with technology companies like Sony PlayStation in the launch of their
+PS2. In that process, started to look again at what new technology was coming
+through and at the late 90s, mobile phone tech was still very, very
+nascent. There was no interoperability. There was no such
+thing as a camera phone and there was no color screens but I could see what the
+potential was of mobile tech and so with Chris, my co-founder of that business as
+well, we started in 2000 a business to really get hold of the innovation that
+was going on within the mobile space and we built that business up over the next
+10 years, took it to the US in 2004-5, exited it to a large conglomerate in 2006-7
+and stayed with it for a few years before finally closing the door on that
+particular chapter and moving on to Fundamental. Okay, fantastic. So what
+actually is Fundamental then? So I know what it is, I'm sure a lot of the
+audience do but for people who don't know, what is Fundamental VR? What are you
+guys doing? So we're a company that's at the really exciting intersection
+between immersive technology and haptic technology and we choose to apply that
+into the medical space. So our platform is called Fundamental Surgery and what
+Fundamental Surgery is, is basically a universal platform for medical skills
+acquisition to allow surgeons to focus on the surgical skills, the
+interventional skills, the robotic skills, the image guiding skills they
+need to give them safe places to rehearse, practice, to fail without any
+consequences. And you know, what we're doing really is tapping into a problem
+that's been around for a long time which is firstly, you know, in medicine
+generally there's just a lot to learn, particularly in surgery, first thing.
+Secondly, it's getting more complicated and more involved month to month, year to
+year. Robotics is a great example of that. Thirdly, it's getting more expensive,
+both the cost of acquiring and learning how to do different techniques but also
+the cost of failure. So malpractice, damage that happens, the human cost of
+mistakes is growing exponentially. And so whilst there's always been ways to
+train, it's always been a very slow process of using what is in effect an
+apprenticeship model aligned with simulation using generally human tissue
+and animal tissue. And that's a really difficult, slow and often very
+logistically challenged way of learning. So it's not to say that any of those
+things are wrong, it's just they're quite hard work to work through. And if you
+talk to anybody who's been through medical school and then gone through
+residency and then fellowship and so on, they'll say that in most cases the
+biggest challenge they had is getting access to the learning environments and
+that's really where we come in. So we digitize all of that, we make it seamless
+and easy for people to get into those spaces to accelerate their access
+to good cases, difficult cases, challenging cases and thereby accelerate
+and flatten the learning curve. And that's really what the business is all
+about, it's about let's get you to competence and let's get you to
+confidence quicker, really by giving you the opportunity to rehearse and practice
+in very, very detailed simulations on an infrequent basis by meeting you in the
+place where you are. So how is that actually delivered? So in real layman's
+terms, how do you deliver that training and how do you give people that access?
+So the platform is, well the simple answer to the question is you pop on a
+headset or look into a laptop screen and you go from there. So it's fairly
+frictionless when it comes to access to it. Most people, most of our activity
+happens through a virtual reality headset but of course things like
+mixed reality, augmented reality, they can all be part of that capability. But to
+your point, staying really simple, we have really three kind of building blocks to
+the platform and sometimes they're all being used, sometimes just one. So the
+first building block is HapticVR. So HapticVR is the gold standard, it's the
+amalgamation of the situational awareness that comes from being in
+virtual reality, plus the sense of touch, sense of weight, resistance, force
+feedback, all of those elements is what we call kinesthetic haptics. So I can
+feel what it feels like to resect a bone, I can feel what it's like to feel
+the weight of a liver as I move it out of the way within the
+abdominal space and so on and so forth. And what we're trying to do there
+with the haptic system really is to, as I said, give you all the sense of being in
+that space but at the same time also give you all of the physical cues that
+means that you can start to really understand when things are going right
+and when they're going wrong. And again, if you speak to most surgeons or most
+physicians in any surgical field, whether it's EP, interventional, robotics or
+other areas, they'll say the sense of touch and the precision that I need that
+touch for is more often than not essential. And so that's what our haptic
+VR system delivers and that's the first building block. The second one is kind of
+a slightly downgraded version of that. So it's a standalone VR system. So this is
+great for scale. This is the sort of thing that you could go and buy in Best Buy.
+You can go and buy a headset there, pop it on, it's going to cost you four or
+five hundred dollars and you could use it. It'll give you all that situational
+awareness, it will give you all of those different scenarios, it will give you the
+procedural walkthrough of the case but it's not going to give you that physical
+sense of touch, which for many use cases, particularly at the early stage of
+learning, actually aren't that important. So it can be great for that medical
+school, that residency, that sales team training particularly, but it reaches a
+natural plateau. But those two work really well, those are the two key parts
+of the system. And then the third and final piece is something we call
+collaboration VR. So that's basically multi-user, multi-user gaming. So let's
+not do it on our own, let's do it as a team. If I'm going into a cath lab, I'm
+going in probably with three or four other people. If I'm going into an
+operating room, I might be going in with a team of 15. Let's allow you to do that
+within a simulation so you learn the team dynamics and really importantly, even
+without the lead physician there or the surgeon there, the rest of the team can
+still practice and rehearse. So it allows you to do all of that without physically
+coming together. I could do it in my office, you could be doing it at home,
+another person could be doing it from a hospital location. It kind of collapses
+distance and allows us all to just be there and have real presence with one
+another. And all three of those modules, they all stitch together. So I could be
+in a standalone headset, you could be in a haptic VR system, and we could
+collaborate together across the platform.
+Okay, brilliant stuff. So what's the clinical data to back up? So what uses
+have been shown to, yeah, clinical data, tell me all about it.
+So the short answer is lots. There are enormous volumes now of published studies
+and validation around different use cases of virtual reality. So let me kind
+of try and keep it simple. Let me hit it at two levels. So the first level has
+been studied extensively, is virtual reality versus traditional training
+techniques. So traditionally, I might put you in a room, I might give you books,
+videos, etc, and ask you to run through and acquire the skills and knowledge
+through that process, and then join me within an operating room to start to
+learn that process. What we found through validation, not done by us, but done by
+multiple healthcare providers across the world, is that the acceleration in
+knowledge acquisition using VR is somewhere between 60% increase in
+knowledge acquisition and 250%. So you get there quicker in terms of
+understanding how you do something. And the reason that happens is you're firing
+off different parts of your brain, the physical involvement with that
+environment, even though you can't touch it, the 3D space that you're in, it fires
+up a different set of receptors within your brain, and it gets you more actively
+involved with that learning process. And I won't get into the theory of why that
+happens, but it does. So that's the first piece of validation, and a lot, a large
+body of material in that space. Then the second piece is, what about the sense of
+touch? So haptic VR, and how does that add? Now, there's been less research in
+this space. There was some done some time ago, maybe a decade ago or so, which
+wasn't in VR, and what that concluded was, if the haptics aren't good, then it's
+not helpful. And I totally agree with that. Bad haptics will be bad. You'll be
+teaching people the wrong skills. But what we found is really good haptics
+that align to the actual interaction that you would have in the real world can have
+again, another acceleration rate. So we saw a study recently that we supported,
+but was independent of us. It was done by the NHS, and it looked at a particular
+dynamic around drilling a bone. And once you go through hard bone and you slip out
+the back, you plunge. And that plunge causes soft tissue damage. So we were
+looking at whether haptic VR could aid the knowledge and the skill to the point
+where you plunged less and cause less physical damage. And the answer was
+absolutely. It was about a 44% improvement in the lack of plunging, i.e.
+people stopped causing damage 44% of the time more when they had a haptic VR
+system versus a non-haptic VR system. So I guess the conclusion there, from my
+perspective, is lots of really clever people have done a lot of study in this
+space. And what they found is VR is significantly better than traditional
+training techniques. And haptic VR is a significant improvement on VR training.
+So it's kind of a double up benefit there.
+Okay, cool. So who are the users of the system for medtech and also from
+hospitals?
+Yeah, so obviously training happens at lots of different levels. And it's
+continuous. It never stops in our industry for all the reasons that we all
+know. So there's really a number of different user groups, but you tend to
+find they really split into two. One is the residency program, the fellowship
+programs, and them needing to have more efficient and effective ways to train
+that knowledge and give people 3D familiarity of environments. So that's
+one user group. So there we find residency attendees, we find fellows
+attending surgeons who are looking to increase access to volume of cases. And
+that works quite effectively. The other part, and this is where we spend most of
+our time, is actually in with the medical device and pharmaceutical
+businesses. Now, those businesses have always been a significant funder of
+continued professional education. So in quite simple terms, you know, a lot of
+our users who are still in the hospitals are, you know, on a fairly
+senior level, often very senior level in their career. They know the basic
+techniques, what they're interested in learning is new nuances. So a new device
+comes through, I know how to do a lap coli, but now I want to know how to do it
+with that particular technique, or that particular new robot. And it's there
+where the skills transfer comes in and the training happens.
+Brilliant stuff. So we've heard a lot about fundamental now. So I want to find
+out now about bringing it towards the surgical robotics market and how you
+guys are being applied there. So why would a surgical robotics company
+approach fundamental to help them? How is your technology used by surgical
+robotics companies currently?
+Yeah, great question. So it goes back to that learning curve, really. You know,
+different data points, but for most qualified surgeons who are moving from a
+laparoscopic technique to a surgical robot, the learning curve for them in
+applying what they know already, and have probably been doing for years to that
+new setup is somewhere between 60 and 100 cases. And with the best will in the
+world, those are generally going to be real patients in the operating room. And
+that's where that's where we can be of real value to the robotic companies. We
+can give them those cases to allow them to accelerate, again, that learning curve
+skills acquisition. So that's it in the top level. If we dig into that a little
+bit, you know, there's a number of different elements, right? So there's the
+technical skill of dealing with a robot, you know, you have this big piece of
+capital equipment, that's going to come into the operating room, it's going to
+need to be set up, it's got to be set up in the right way, the wires have got to
+be running the right way, it's got to be linked up to the mainframe
+infrastructure, all of these different pieces. Now you can learn that on the
+several hundred thousand dollar million dollar piece of hardware that the
+hospital just purchased, but also you're taking it out of productive use. So you
+can learn it back at the manufacturer's location, but there you've got to travel
+and stay there with them whilst you do that. Or you can learn it using virtual
+reality, and that's where we can really help. So giving the robotics
+manufacturers tools that mean that they can bring teams together to learn the
+technical skills, just the basic stuff, like how do you set this thing up? How
+does it work? How do you sterilize it? How do you sheet it? How do you put all
+those different pieces? What happens when an alarm goes off? You can go through all
+of those scenarios to get technically a team up to up to speed. Then you can do
+the technical training around how do you position it onto a patient for
+different setups, different procedures, different pathologies, etc. And then
+finally you can do the piece which is how do you use this within the procedure
+itself? So if I'm the surgeon and I'm leaning into my da Vinci, how do I
+throw that suture in a way that's effective? I can do that again in the
+real world, but that comes with all the inherent dangers, challenges, and
+logistical problems that go with that. Or I can do it in the virtual world and
+just keep trying. And I could be doing this of an evening at home, don't have to
+stay in the hospital environment for longer to get onto the robot at 3 a.m.,
+which is kind of what I was doing eight, nine years ago. You don't need to do that
+anymore. You can just do it at home, at your leisure, at the time that works for
+you. Great. So that all sounds fantastic, but what would you say if someone was to
+say, look, there's nothing like getting hands-on with the real thing. So do you
+still get hands-on with the real thing at the end of doing all this virtual
+reality training and still do just a shortened time period? And if so, how
+short is that time period? Set the scene a bit for me. Yeah, I agree. There's
+nothing like getting hands-on with the real thing, right? I just want to minimize
+the potential for either the healthcare team or the patient to in any way have
+an adverse outcome. That's what this is all about. So to your point, what can
+this do here? Well, it can mean that if you're going to do a cadaveric session,
+if you've had 20 sessions already within a virtual reality system that's
+replicating fully what that feels, looks and behaves as, then when you land in
+that cadaveric session, you're going to have a much better experience, a much
+better outcome. So it can sit alongside, it can sit in front of traditional
+training, it can sit in the gap between training and patient presentation, which
+is often where you see a massive drop-off in skills. So, you know, worst
+case scenario for the robotics manufacturers, you know, I spent all
+this money getting you up to the point, Henry, where you're ready to go and then
+you don't get the patient to practice, to actually do that procedure. And a few
+days drift by and suddenly you're not feeling so confident and you're not sure
+you want to do it on your own. Well, it can fill that gap there. And of course, it
+can continue with you while you're in practice. And I don't mean physically in
+the operating room or in the cath lab, but rather when you're on your own, you
+can keep that system with you to just continue to check, rehearse, refresh and
+monitor. And because of the way our analytics works, we can give people
+incredibly high levels of detail and specificity on the performance, how it's
+developing, where something might be right or wrong, and therefore allow them
+to be more self-aware of what's happening. So, it can be incredibly
+valuable there. But again, you know, I agree, hands-on is really experienced.
+That's why we really believe in haptics, because, you know, with haptics, you get
+that hands-on experience. Lining that up with real hands-on, brilliant.
+So, do you ever have any barriers from surgeons or anyone who doesn't want to
+use the technology or gets a really nice VR headset and then just doesn't use it?
+Good question. Yeah, sometimes. Sometimes. You know, it's human nature, right?
+Everything in the end is down to kind of how somebody feels about it. And some
+days, some people just don't want to do it within a virtual reality space. So,
+that can happen for sure. What we do to try and help people through that. So, I
+guess it falls into two areas. There's one which is, I'm kind of not sure I like
+it. I'm not sure I understand how to use it. I'm not sure I feel confident within
+it. Often, that's about more tutorial so that people learn. None of us will
+remember the first time we picked up a mouse and used it with a computer, right?
+Because it's been around for so long. But actually, learning how to use a mouse was
+a skill. Learning to use a browser is a skill. You just got it. So, we need to get
+people up that learning curve so they forget or rather they stop thinking about
+the virtual reality space and start thinking about the virtual patient. Okay.
+So, if we can't get them over that hill, that's an issue and that can bull people
+back. And that can be down to some really basic things. I often see it where I'll
+have someone say to me, you know, I've been using it for 10 minutes and I can't
+see the detail that I want to see. It's a bit grainy. It's a bit pixely. And I'm
+just like, well, just wiggle your headset a little bit on your face. How's it now?
+And they're like, oh my God. Yeah, it can be as simple as a mechanical thing where
+it just isn't quite in the right space. A little bit of readjustment and you're
+there. So, that can happen. I think the other thing there is that once you've got
+over that, you know, there's still personal preference. And some people will, I'm
+sure, always say that's not for me. And that's called something we totally respect.
+But when we show the insight that comes out of the system, you know, the level of
+understanding about what's happened, not to a level of, well, that looks like you've
+done a good job, but rather, you know, you're two millimeters out here. The thing
+that you caught here would have caused this adverse effect. You know, that level of
+detail often brings people back because they're like, okay, it's good to be assessed.
+And also, I do it entirely privately, right? I'm doing it inside a virtual space where I
+can see my data at the end, but I don't have to share it. I can analyze it,
+understand it, become more self-aware, and then go back into the simulation or into
+the real world and, you know, apply that new level of skills.
+So, that's really interesting that you go into such depths of detail and give such
+good feedback. So, how do you actually ensure that the simulations and the
+scenarios are all accurate to real life?
+Yeah. You'll be glad to know it's not me. We have within the business a fantastic
+medical team of doctors, of educators who are trying to break down different
+procedures to understand where is the key educational needs within that procedure and
+how do we best bring that to life within the simulation? Because a lot of it can be
+done physically. Some of it has to be done virtually with the graphics. Some of it
+might need to be done with questioning and such. So, there's some basic educational
+learning theory that has to be applied as well. So, that's the first bit of it.
+The other part is key opinion leaders. So, again, I mentioned a lot of what we do is
+with medical device companies, pharma companies who will have their very trusted
+KOLs who are helping to develop their product for them. Well, we have the same and
+we plug our KOLs into their KOLs and work out together what really matters and how
+does it really need to perform. And again, a good example of that is, you know, if
+you've got a, if your audience is a set of surgeons that have been doing a procedure
+for 20 years and you just need to get them to understand a new technique or a new
+device, a new implant, that's just going to change the way they do that procedure.
+Well, for those guys, you don't, or those people, you don't need to teach them the
+approach unless it's changed. You don't need to teach them how to suture unless it's
+changed. So, you can focus in right on the area that really matters to them because
+they don't want to do the peripheral because they do it all the time or rather they
+often will have other people to do that for them because that's part of that learning
+process that they're developing.
+So, you just need to focus it right in.
+So, we take our KOLs, we take our medical panel, we plug into our customers' KOLs and
+into surgical leads within the hospital groups and together argue out on paper what
+matters and then code that and bring that to life.
+Right. So, let's just say I'm a surgical robotics company.
+I come to you and say, hey Richard, I want to improve our training and education through
+VR. What's the process that company will go through from first onboarding until
+implementation? So, it will basically involve that process, first of all, of looking at
+the device, the procedure and the learning objectives, the challenges that that
+particular organization has.
+In some cases, that could be as simple as this piece of capital equipment is a million
+dollars and weighs three tons.
+So, moving it around or moving people to it is really difficult.
+So, all we want to do is get someone in a room and allow them to be able to interact
+with the digital twin of that piece of capital equipment.
+That could be the objective.
+And then you break it down to the next level and say, OK, so what are the important
+things we need to get through in this process?
+And as you build that through, you then start to design the simulation itself.
+So, that was a simple end.
+At the other end of the extreme, you could have a gene therapy or a highly complex
+cardiovascular or similar piece of activity or robotics piece of activity, soft tissue.
+So again, what we would do there is deconstruct the challenge, the learning
+objectives, the key parts of the movement and the anatomy.
+And then once we all agreed on those pieces, then we would attach those to our
+platform, the platform, and then bring all of the other things that we have available.
+So, the multi-user, the data analytics, the distribution, user management, LMS
+integration, and all of those elements, we'd plug them into all of those pieces.
+And that would then stand up the first simulation for them.
+And that's a process that, depending on how fast they want to move, it's going to
+take somewhere between three and probably six months to do.
+We can move it faster.
+Often people want to move a bit slower because of their own developmental cycles.
+But yeah, it ordinarily is going to involve those type of things.
+Good, good.
+And can you give me some examples of the surgical robotics companies
+you're currently supporting?
+Yeah, I can, I can.
+Some of them are not available for public at the moment, so I have to leave a few off
+the list, but we're certainly working in a number of different areas.
+I guess our lead public customer is CMR Surgical that we've been working with now
+for, oh, I guess probably three years now on the rollout of their Versius platform.
+We've been working extensively with them.
+We also work with Vicarious, the single port, earlier stage single port robotic
+system, and a few others, but the others, unfortunately, I can't talk publicly about.
+That's okay, no problem.
+I guess for the future of your technology, what are some of the exciting projects
+that you're working on at the minute internally at Fundamental that is like
+future technologies or like advanced haptics, or it might even be better
+virtual reality, what are some of the things you guys are working on
+that's aiming to be shared?
+So we're really deep in a few different sectors.
+So robotics is one of them, and some of the developments that are going on in
+robotics right now are really interesting.
+So we're, from our platform standpoint, we're trying to keep ahead of that curve.
+So looking at the different ways inverse kinematics work within robotics systems
+so that we can create true digital twins that allow for that technical training,
+that setup training, or that procedural training to happen as real life as
+possible, and I guess that's the trend that we're starting to see now, which is,
+you know, we want simulations that aren't running simulated versions of our tech.
+We want them running the actual tech.
+So bringing our customer's software into our software is a big and exciting and
+challenging area for us that we're working on.
+Applying, you know, it's an overstated phrase, but AI and machine learning,
+everybody talks about it, but actually applying that in a way onto our platform
+to do a couple of things is really exciting for us.
+The first of those is really trying to understand and predict how someone's
+learning will change over time, rather than just report what they're doing.
+We're starting to see some really interesting output from our data science
+team in that area and starting to put that back into our customer simulations.
+So that's a really interesting area.
+The second one for us is really around assistance.
+So being able to give intelligent help in real time based on audio input from the
+user, i.e., just as you would with your mentor, asking a question and getting an
+opinion back based on an algorithm and learned set of knowledge is not something
+we have today, but it's something we are pretty close on and we're quite excited
+about that.
+What else?
+Well, the whole area of the two big components of our system is basically the
+headset that you wear and where it's appropriate, the haptic engine that you
+hold or you wear.
+So if we take each of those, you know, the headsets continue to develop fast.
+You know, Apple were into the market a couple of weeks ago with their first
+device.
+We continue to see lots of new devices coming through.
+So we spend a lot of time assessing, analyzing, and deciding which of those we
+want to support.
+We've always been hardware agnostic.
+That doesn't mean we support everything.
+It just means we try and support the best that's in the market.
+So absolutely, Apple is part of our future.
+Absolutely, Meta is part of our future.
+So too, the Microsoft platform and the Pico platform.
+There's some great elements there and that keeps our team busy.
+On the other side of hardware is the haptic engines.
+So we have really a couple that are in deployment and they're both grounded
+haptic devices.
+So they feel like you're holding an interventional tool or a robot controller.
+You can do that with those haptic devices.
+We have a number of exciting developments happening at the moment in the area of
+haptic gloves, which again, we don't make any hardware.
+We just partner with the best.
+So HaptX is a great haptic glove.
+They've got a new one that's coming out at the end of this year, I hope.
+We've been co-developing with them to get ready for that.
+And that's going to be exciting.
+The premise for me, Henry, is really I don't want to make any hardware, but I
+don't want to restrict anybody by hardware either.
+So I want to future-proof your solutions.
+And the way we do that is to make sure that we've got the best new hardware
+available for you to choose what you bring into the system.
+Yeah, that's really cool.
+So does it ever create any challenges having to be hardware agnostic, having
+to cater for so many different devices?
+It does.
+Yeah, absolutely.
+Yeah.
+Simple as that.
+It does.
+You know, every time you add another headset, you're adding another overhead.
+And those are real, but they're a cost that I think are worth bearing because I
+think without it, you have uncertainty in this market about, well, what's going to
+happen?
+What if Meta do a 360, do a 180 on their approach and I've got lots of Meta devices?
+Well, from our perspective, the answer is no problem.
+We have six others that are maybe not as good or possibly better depending on where
+you are on the kind of release cycle.
+No problem.
+We can just pull it across.
+So it is an overhead, but it's a really important one.
+On the haptic side, it's bizarrely, it's actually slightly easier there.
+And the reason for that is we spent the last six years developing what we call our
+haptic intelligence engine, which is a system for allowing different haptic
+interactions to be ported from different hardware engines pretty seamlessly.
+And so we're able to do that across a glove or a grounded haptic device.
+So again, it comes with an overhead, but it's one that's worthwhile for sure.
+I guess one of the other things connected to that is we've actually opened up a lot
+of the platform now under the brand Fundamental Core, which is a set of
+developer SDKs.
+What we're hoping, and literally this is launching, we announced it a couple of
+weeks ago, we're actually launching it from July 1 as downloadables into Unity.
+And we're hoping that people are going to pick up those tools, creation, adaption
+tools that we've published and really start to accelerate the content.
+So it'll take some of the load off our shoulders because we're actually starting
+to give that capability to others.
+Richard, could you a bit more of an explainer about that topic and what
+Fundamental Core is?
+Yeah, absolutely.
+Absolutely.
+So SDK stands for Software Development Kit.
+So any developers who are listening to this will know exactly what that means.
+They'll be used to obtaining and using lots of SDKs.
+What we've done, we took a decision a while ago that we didn't want to be
+completely locked down and proprietary when it came to content creation.
+I think over time, some medical device companies will want to do it themselves.
+They'll want help with it though, and that's what the SDKs are designed to do.
+So they are a suite of downloadable development kits, as the name would
+suggest, that means that you can move much faster.
+So I'll give you some examples.
+So really basic stuff like, I need an operating room or I need a cath lab.
+You and I could spend days putting that together, or you could just pick it up
+out of all our SDKs and just brand it the way you want to.
+So it's really easy to put your logos in there, put your branding in there
+and that sort of thing.
+So that's a fairly elementary but really useful area.
+Second area is slightly more complex.
+Things like 3D anatomy and how it performs and how you program it.
+We've again, built a number of elements that you can just drag and drop.
+Haptics are really complex.
+We actually built our haptic SDKs to speed up our own system because the physics and
+the calculations that go into making really good haptics are incredibly specialized.
+And so we wanted it to be something that all of our 50, 60 developers could use as
+opposed to just having inside the heads of two or three people.
+So we built them for that purpose.
+We've now packaged them up and we'll be releasing those out to other developers to
+use.
+And then the third part is, I guess, really providing access to some of our
+infrastructure.
+And this is coming at it from the standpoint of, we'd like to have a unified, open
+delivery system.
+So you may well have a developer listening to this who goes like, I know how to build
+a great simulation.
+I've been able to do that before.
+I can put it together.
+But what I don't have is a robust user management system that means I can control
+the licensing on it and make sure that I get paid fairly for it.
+Or I don't have all the data analytics systems in place and the overhead of putting
+that fully in place would be pretty high.
+Or the whole distribution system.
+So I want to be able to decide which countries can access this in which way.
+Well, all of that, you could just bring it to our system, plug your current simulation
+straight into all of those tools and publish.
+So we're hoping it's going to be a real enabler for, well, certainly it's an enabler
+for our teams.
+So our own teams are using them to move faster.
+We hope it will be an enabler for other developers who will go, ah, that helps me
+get there quicker.
+We also think in time, some medical device companies will start to want to have some
+of this in-house and start to build their own teams.
+And so at that point, we want to be able to give them the tools that allow them to do
+the creation, the adjustments or the publishing.
+Cool.
+So who gets access to this?
+Anybody who registers.
+Anyone can go to fundamental-core.com or you can find out from our main website
+fundamental-surgery.com.
+They just need to fill in a registration.
+There is a $99 charge, but that's really for gating so that we don't end up with lots
+of schoolchildren wanting to use it and kind of drawing our resources away from those who
+are trying to publish proper simulations.
+But so there's a nominal fee for access.
+And then you don't pay anything for them until you want to commercialize the simulation.
+So you can build in our system, you can build with our tools.
+You can use that on the test accounts.
+It's only at the point where you say, actually, now I want to use this commercially, that
+you then attach to our licensing system.
+And that's where we have a fee attached to that.
+But as I was saying, you're offline, we opened up registration about three weeks ago for
+this.
+We're going to turn on the downloadables from July 1.
+So I don't really know how people are going to use it until that point.
+We've had some great registrations.
+Lots of people are interested, but quite what they do, that's the exciting bit, right?
+Because you never know quite what people are going to do with something until you put
+it in their hands.
+So do you think there's going to be a lot of user-generated content that's going to
+get re-uploaded back to Fundamentals so it works both ways?
+You share with them and they share back now?
+That's exactly what we're hoping.
+Yeah, that's exactly it.
+So we will, again, just to be clear, we will have, just as the app stores have, Apple app
+store has, we will have a submission and approval process so that we make sure the quality is
+good enough, that there's nothing illegal or obscene within any of those simulations.
+But assuming that it's legitimate content that's designed for surgical training and
+education, then yeah, we hope people are going to bring a lot of that into the system and
+use it.
+So one of the reasons I brought you on the podcast and decided to have you on is because
+you have a unique perspective.
+You work with a lot of surgical robot companies on their training and education.
+You have kind of an inside scoop.
+So I want to find out more about what you're seeing from the market.
+So what trends do you see in surgical robotics?
+And it can be from a training education point, but also more generally, if you've got some
+insight there.
+Yeah, I'll certainly try.
+So, you know, I think it's really interesting what's going on in the soft tissue space at
+the moment.
+And again, if I kind of approach this as soft tissue robots and hard tissue robotics, let's
+focus on soft tissue for the time being.
+So the soft tissue world is, there's so much innovation happening there right now.
+You know, you've got obviously Intuitive, who've been around for a very long time.
+They have real dominance.
+I was reading the other day, seven and a half thousand systems out there.
+I think a new procedure is being started every 15 seconds or something on a da Vinci.
+It's incredible.
+And obviously, they've been innovating hard.
+They've been innovating in our space in terms of how you use vision within the systems,
+because they are, in effect, a virtual reality system.
+You know, you don't actually see the patient.
+You sit a console looking at a representation of the patient.
+So it's a form of immersive technology.
+Their new single port system, I think, is really interesting.
+So to their Bronco system and really interesting to see how those develop through.
+I think, you know, the traditional format da Vinci main robot,
+I think, is going to be dominant for some considerable time to come.
+And then you've got all of these new entrants.
+So you've got one of our customers.
+So CMR, you know, they've made incredible steps forward over the last couple of years.
+I saw the other day, they've had over 10,000 cases now done on the Versys system.
+You know, very different form factor, able to go into smaller areas,
+much more portable between operating rooms, I believe.
+So, again, that's really interesting.
+I think that size reduction is one of the trends that I think you're starting to see
+with some of the newer startups and later stage growth startups that are in the business.
+Of course, the other two big systems is the Medtronic, Hugo, and of course, J&J, Otavia,
+and, or Otava, sorry.
+And, you know, they're right at the beginning of their journey, right?
+You know, Hugo is obviously out.
+And there are some cases now starting to be done in different locations, test cases.
+The J&J proposition is still some way off.
+But there you have two units that look to me to be head on,
+taking on the da Vinci core system.
+And that's going to be a really interesting fight as that works through.
+The good news is, of course, you know,
+I think it's something like 6% of surgery is done at the moment using robotics.
+It might even be less than that.
+It might be down to three.
+It's only somewhere between three and 6%.
+So the opportunity to grow the market across these different systems is immense.
+And now you're seeing this validation coming through that is proving the efficacy of robotics,
+which has been missing for some time.
+That's a really, really interesting, exciting thing.
+So you've got some, you've got some really interesting big units
+going on with the Hugo and the J&J proposition.
+The smaller form factor with the CMR, you know, one of our other clients,
+Vicarious with their single port entry and a truly revolutionary inpatient system.
+That, you know, the guys over there have done an amazing job in bringing that together.
+They've still got some journey to go yet to get through the FDA approvals,
+but that's lining up really well.
+And I think that's going to be a real challenger into the space.
+And then I think, you know, staying with that smaller footprint,
+I think you then get into some of the other interesting new devices coming through.
+The one that I'm really interested in at the moment is quite a stripped back robot.
+It's the Moon Surgical system.
+Because, you know, my business is about accelerating the learning curve.
+Moon Surgical have come at it from a really interesting perspective, which is,
+let's keep the same basic skills there.
+Let's use the same, many of the same tools.
+So you're not, you don't have such a curve to go through
+when it comes to learning how to use that robot.
+And as a result, you're seeing really rapid use of that going on.
+I was reading some of their test cases the other day.
+And, you know, in France, I think in one day they did something like
+14 different test cases across about five different surgical disciplines,
+which is really phenomenal.
+I mean, it couldn't happen any other way except for the way that
+they put that robot together.
+So I think that's really interesting.
+So lots going on in soft tissue space.
+I think in the hard tissue space, you know,
+I think you've seen there with J&J and with Stryker,
+is they've really buttoned down that capability for,
+particularly in orthopedics, for using, you know, robotics to really help
+the precision and improve the outcomes when it comes to hard tissue interaction.
+So those have moved really, really well.
+I think they're really interesting.
+I think, you know, again, as somebody who is all about immersive technology,
+and I made the point that, you know, certainly some of these systems
+like the DaVinci is an immersive technology in itself.
+But because I'm so into it, I'm really into the idea of
+virtual reality headsets being used to enhance vision.
+Now, I think today, in most cases, the optics have not been good enough
+to warrant giving up a normal screen, but we're starting to get there now.
+It's really starting to get there.
+You know, the new Apple device is a massive step up in the quality of the optics.
+And so I think that's starting to really push the opportunity for
+new headsets to make it into the operating room to support robotics.
+And what I hear from a lot of the manufacturers that I talk with
+is there's quite a lot of initiatives going on in that space right now.
+So I think we're going to see probably over the next two to five years,
+I think we're going to see a few immersive headsets landing
+connected to robotic systems.
+Okay.
+So what opportunities does that create?
+So you're a lot more into the immersive tech space.
+So someone's got a virtual reality headset in the OR,
+what potential does that give to level up the surgeon?
+And what can they actually do with that?
+Well, I think a couple of things, really.
+So again, if we assume that the quality of what they're seeing
+is as good as what they would expect it to and need it to be.
+So it's got really good quality optics within it.
+If we take that as red, and by the way, you know, again,
+these systems are very close to that already, if not at that point.
+What does it deliver?
+Well, it removes the friction of a second screen,
+of having to look to different directions for a second screen.
+It removes the binocular vision output
+that you see in a number of these different current systems,
+which aren't great,
+but I know that for some users can be challenging.
+So it creates a new opportunity to do that in a different way.
+What it also does, and this is, again, really, really important,
+is it allows for the opportunity for augmented reality overlay,
+so that you can start to bring in other vision capabilities,
+which again, to be clear, you can do that with flat screens as well,
+but you can do it in a much more three-dimensional way
+through those screens, sorry, through those headsets.
+So I think it offers all of those opportunities.
+And I guess the final one, from my perspective,
+is one of the things I love about our system is, you know,
+I can let everybody have the same vision I've got.
+I can literally give you the ability to see it the way I see it.
+And so if you go back to the real world environment,
+having either students who are observing
+or having people assisting or tutoring through a procedure,
+it allows us all to see exactly the same at the same time.
+Again, whether we're in that space or whether we're in another space,
+it just uses that capability.
+So I think there's a number of things that go on there.
+And again, I guess the final point before I pause
+is much the same as our SDKs, you know,
+and once you provide that capability,
+then you start to see what people will do with it as well.
+So I think it can take it into other areas
+in addition to the ones I talked about.
+Brilliant stuff.
+And so let's paint the picture five to 10 years down the line.
+What does surgical training and what does training
+and education space of healthcare look like to you?
+I think we will be in a place where the use...
+I think we've already got to the point now
+where the industry accepts that immersive tech
+has a significant role to play in accelerating
+and improving training and education,
+whether that's at entry level with residency,
+or whether that's at practitioner level
+where you're just adjusting and acquiring a new skill.
+I think we've crossed that divide already.
+So if I think forward five to 10 years,
+I think what we're going to see there
+is a much wider palette of capabilities
+available to healthcare practitioners.
+I think we're going to see more joined up outcome data.
+So at the moment, validation sits in,
+you know, it's constructed validation pieces.
+Where we need to get to is to true health economics
+and health outcomes.
+And the only way we get there is to keep integrating
+into the full delivery system so that we can say,
+well, actually, in time, the outcomes of somebody taught
+using this type of activity or who has this type
+of immersive tech available to them to refresh
+and revise on, you know, the health economic outcome
+is improved as a result of it.
+That's the point when you start to get into,
+you know, people understand what's going on
+and therefore the true human and economic benefits.
+Yeah, less error, meaning less costs,
+meaning less time in hospital for patients,
+improving all of those elements.
+I think the other thing you can do
+is the costs keep coming down,
+is it can really aid the access to these skills.
+So, you know, there's a very well-known stat,
+you know, the World Health Authority says,
+don't have access to good surgical skills.
+And that has a real impact on their lives,
+day in, day out.
+We can move this knowledge across.
+And the reason for that, sorry,
+is because of the difficulty of training.
+So we can change that paradigm through immersive technology,
+through this sort of activity.
+And we're doing it already, actually,
+with the new technology that's coming out,
+which is called the E-Smart.
+And we're doing it already, actually,
+with, so Orbis is one of our partners,
+the Eye Charity, you know,
+so our system goes to, well, everywhere,
+but it goes to lots of third world locations
+where it's teaching really basic cataracts procedures,
+but life-changing, you know,
+life-changing for the individuals who are involved in it.
+So I think it's gonna move all of those areas.
+I think it's gonna improve basic training
+in developed world.
+I think it's gonna open up access in developing worlds.
+I think it's gonna improve patient outcomes
+as we start to really understand
+the impact of learning in this environment.
+And I think the final point is it's gonna make
+the health professionals have a better career
+or a better working environment,
+because the impact on the human being
+when there's an error, it's not just the patient,
+it's also the person involved in the care of that patient.
+So we can help on all of those factors.
+Brilliant stuff.
+And I think that's an incredible point to end on.
+So thank you very much for sitting down with me today,
+Richard.
+It's been an absolute pleasure
+having you on the Searchworlds podcast.
+Thanks very much, Henry.
+Really, really good to be with you.
+Thanks very much.
+Appreciate it.

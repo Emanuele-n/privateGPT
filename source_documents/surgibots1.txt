@@ -1,0 +1,666 @@
+Welcome to the Surgery Bots podcast, the show where we explore the latest
+advancements in surgical robotics and how they're transforming healthcare.
+Every two weeks we sit down with a guest who is at the forefront of this
+incredible space. Surgical robotics is changing the way we approach surgery. Our
+guests are going to share their experiences and insights discussing the
+challenges they face and successes they've achieved. We'll also delve into
+the latest trends and innovations, exploring the newest robotic
+technologies and how they're being used to improve patient outcomes. Whether
+you're a healthcare professional, a researcher or just interested in the
+latest advancements in surgical robotics, this podcast is for you. So join us as we
+explore the world of surgical robotics and discover how these cutting-edge
+technologies are shaping the future of medicine. On today's episode we have Ben
+Sexton of Monogram Orthopaedics. So Monogram is a surgical robotics company
+based at Austin, Texas who are looking to disrupt the orthopaedic robotic market
+through a combination of high technology and 3D printed implants. Ben
+gives us a really raw look under the bonnet of what's gone into building this
+surgical robot and getting their system to FDA pre-submission. I really like
+Monogram's funding route because it's so unique in the industry and they've
+crowdfunded a surgical robot. So without further ado I hope you enjoy this
+episode. So hello and welcome to this episode of the Surgibots podcast Ben.
+I'd love to see you. I've just done an intro to this episode but for the
+sake of the audience, who are you and what do you do? Henry, thank you so much
+for having me. I really appreciate the opportunity to share more about what
+we're up to. So my name is Ben Sexton. I'm the CEO here at Monogram Orthopaedics.
+We're a medical technology company in the orthopaedic space and we're trying
+to commercialize a novel robotic system with the intent to try and make more
+surgeons use robots because ultimately we think surgeons using robotic
+technology, enabling technology, is better for patients. And that's the
+mission of Monogram is really ultimately to improve the state-of-the-art in
+orthopaedic robotics and enable the next generation of orthopaedic implants which
+we believe will be 3D printed and personalized in a way that is really
+hard to do without 3D printing and some of the technology that we are trying to
+take advantage of. Awesome and what's your background before joining Monogram?
+How do you find yourself in this position? Sure, so I'm a former nerd,
+still nerd. My background's engineering so I'm a mechanical engineer
+and also spent my childhood building things. I've always
+liked motors and robots and things that move. Later on after completing
+my engineering school I kind of realized that I had some gaps in my knowledge
+specifically on really how the world works, which is how companies that
+build cool things, how they actually come into being, what's called the finance
+side of things. So I went and worked for a hedge fund that helped companies
+basically was investing in opportunities and I learned started to learn a lot
+about how money kind of moves around the economy and I got a designation that's
+called the CFA which is called Chartered Financial Analyst. So it's a lot like
+has a lot of similarities to let's say a CPA so I kind of started to understand
+how companies accounting works and what to look for in a good business model all
+those sorts of things. So I'm an engineer who went to the dark side as I
+like to say and also learned enough to be dangerous with finance and my
+ultimate vision was always to really be a part of a company that was trying to
+do something innovative and Monogram I think is the it's really the perfect
+example of that. So how did you come across Monogram? How did you join the
+business? Sure, so through my opportunity at the hedge fund I was working at I
+met the chairman of a public company that's in the orthopedic space and I
+had the opportunity to join them in a business development role really to kind
+of the way I kind of characterize it is help help them kind of on untap their
+their IP portfolio they had some pretty valuable intellectual property that my
+mission was to try and help them to monetize that and their main market was
+the orthopedic space and in that position I met a surgeon a very
+charismatic surgeon named Dr. Eunice Doug Eunice who's the founder of
+Monogram who had started Monogram in 2016 and his vision was to enable
+patient-specific 3d printed implants with robotics he he felt like robots
+were great but we were just using them to put in the same old generic implants
+and so he felt like really the the future of orthopedics is using robots to
+really reimagine completely how we do surgery and what implants should look
+like and I had been around the orthopedic market enough to really
+understand how both how difficult his challenge was going to be because of
+just how conservative the market is but also just how serious the opportunity he
+was talking about was that there really was a need in our market to change the
+paradigm we there's four companies in orthopedics that account for the lion's
+share of the market right and that's because this generic business model
+makes it very difficult for small companies who have limited capital to
+compete really the orthopedic market is a service business for all intents and
+purposes there's not a lot of technological differentiation I mean
+they would argue with you on that but I certainly there is on the robotic side I
+would say but when you look at an orthopedic implant it's pretty hard to
+tell the differences between different companies to be honest with you and so
+it's all the same bill of materials it's really the same devices that people are
+trying to sell and it's all about the service that you ultimately provide the
+surgeon we would say and there's a chance that opportunity in orthopedics I
+think to change that paradigm with more of a just-in-time inventory model
+robotics leaning out the amount of equipment you need in the operating room
+being more efficient and so maybe now kind of looking back Doug and I were
+both naive enough to believe that we could try and do something and make a
+difference and here we are today so I met Doug in 2017 in my role he he needed
+help with building some prototypes for the system that he was working on and
+we hit it off we quickly became friends and Doug asked me to join his company as
+the CEO in 2018 which which I did to to the chagrin of my of my wife yeah who
+really is the reason monogram exists today but yeah so I jumped in in 2018
+full-time and it's been a incredible journey since then absolutely let's let's
+start off talking about the technological side of monogram and help
+me understand how the system is unique and what technology is going to disrupt
+this market sure so let's let's just kind of back up and just look at the
+orthopedic robotic market today so when we talk about orthopedic robotics we're
+really talking about one company and that's Stryker so let me say maybe a
+little over a decade ago maybe maybe about a decade ago Stryker was was bought
+a company a startup called Mako Surgical they were publicly traded doing about a
+hundred million in sales and they bought this company and honestly it was a very
+gutsy acquisition the company had taken about 20% of the partial knee market in
+about three years but there was a lot of skepticism around you know they didn't
+have a total knee that they were it was just a niche market partial knees and
+there was a lot of pushback you know well surgeons use this what's adoption
+gonna look like is this really adding clinical value and Mako was once one
+Stryker bought them they basically just been blazing the trail for orthopedic
+robotics and today you know it depends on what you where you look for the data
+but give or take they have about 90% of the orthopedic market what we look at is
+utilization we we really when you look at what technology certain surgeons are
+actually using Mako is by far and away the dominant player so that's really our
+benchmark for orthopedic robotics is the Mako system the Mako system is a
+four-joint arm and what's really unique about it is that the surgeon initiates
+the cutting so it's it leverages a technology that Stryker calls haptics
+the user grabs the end of end effector of the robot and is responsible for
+moving it around within a constrained plane that has boundaries it's an
+incredible technology and I we think it adds a tremendous amount of value and we
+think it's only the beginning but when you look at utilization in totality of
+orthopedic robotics only about 12% of knees today are robotic and so when you
+kind of start to peel back the layers and ask yourself why is it that even
+though there's this really innovative technology why why aren't surgeons using
+it our conclusion from our market analysis is that surgeons really are
+under too much pressure to basically produce surgeons have generally speaking
+I mean if they're working at an academic institution this might not be the case
+but generally speaking they they have a variable top line it really depends on
+how much volume they're able to do and so the challenge with robotics is you're
+introducing technology that has a longer time to complete the surgery so the in
+room out of room operative time for a robotic system can be 30 minutes longer
+than a manual surgery so you multiply that by four or five six surgeries a day
+it makes it very difficult for a robot for a surgeon to keep their volume with
+a robot so what's innovative about the monogram system is we are really every
+single meticulous detail has been designed to address how do you make this
+surgery faster how do you make it more efficient how do you make it competitive
+time competitive with a manual surgery so that there's really no reason for a
+surgeon not to use your system right if if your system is theoretically faster
+than a manual procedure why wouldn't a surgeon use your technology that's the
+ultimate goal and everything we do is is trying to execute that so to do that we
+believe that a system has to be really rely on what's good about robotics right
+we we think that a surgeon moving the arm around is is very extremely innovative
+but you would never go to a factory right with a bunch of CNC operators and
+see them moving around the CNC right there's an inherent inefficiency to the
+user doing things that can be up that not optimized but doing things that can
+be developed offline and made to be faster right robotically so we believe
+that ultimately a robot should be actively removing bone and that you can
+do that more efficiently over time with a robot that knows what it's supposed to
+cut and executes cut paths that are very efficient and you can do it in our
+opinion just as safe if not safer because we generally speaking there's
+not a whole lot of variability in it in it in a knee replacement you kind of you
+know what six cuts need to be made you kind of know where the critical tissues
+are so you can make a lot of constraints on the system that help make
+it safer but when it comes to what is innovative about the system monogram is
+going to be the first robot on the market that is active which means the
+surgeon is actually not touching the end effector they're touching a foot pedal
+instead and has a a sagittal saw that's attached to it and that is an
+incredibly challenging engineering problem that our team was able to solve
+I don't know if we want to go down the rabbit hole of why that's so tricky but
+we're going to be the first company we think in the world to have this
+combination and ultimately the vision is for the system to be very very efficient
+over time so we're looking at every incremental part of this robotic
+surgical workflow and we're trying to make it more efficient make it easier
+ultimately our vision is for and we believe it's possible for robotics to be
+faster than manual. Wow that's that's interesting text it sounds like high
+levels of automation there how how is that received in the market when the
+surgeon not doing the procedure what's the initial feedback being for higher
+levels of autonomy compared to the surgeon? Sure so I mean it's at first
+blushed right it sounds like higher levels of autonomy but the system is not
+autonomous the the surgeon is actually in the loop and has to drive the system
+so it's impossible for a robot to do anything without the surgeon when you
+kind of start peeling back the layers of safety everything we've done or decided
+to do is driven by a safety consideration so let's let's start with
+like how the actual user moves the robot so the user route moves our robot
+with a foot pedal rather than holding the end effector and the reason for that
+is we actually think it's safer right when you when you make the surgeon hold
+a piece of technology to use your system you've all you've all already taken away
+you know a the hand of somebody who's of extremely highly trained individual
+right our system has two free hands our our IFU will likely encourage them to
+use retractors to protect critical tissues with both hands they're right
+there next to the next to the procedure our setup is designed so that the
+surgeons exactly where they would be with a manual knee the way we've
+positioned the tracking camera and the robot cart really minimizes occlusion
+that we don't have it here in front of us but you know the whole lateral side
+of the patient is open the robots always approaching from the medial side of the
+knee there's a lot of safety considerations we for example we didn't
+want the surgeon to have to turn their back to look at a navigation screen the
+navigation screen is always right there in their line of sight but the knees
+always right there in their line of sight our vision is that robotics are
+enabling and should in no way introduce any kind of as minimally as possible
+introducing convenience or potential safety risk then then we we operate very
+similar to Mako so Mako has let's call them safety boundaries that they've
+designed around each of the six cuts we have the same concept we just introduce
+additional layers of safety so we have for example a virtual gate that acts a
+lot like a virtual cut guide that constrains the body of the saw we we
+also have actual patient bone boundaries that constrain the saw blade in certain
+cuts so we really kind of take Mako then in addition it's really
+three-dimensionally constrained right so when the saw is executing cut it can
+move along a plane and it can also rotate on an axis that's perpendicular
+to that plane we take away those degrees of freedom so we have cut paths that
+have been predetermined kind of we we know exactly where the robots going to
+go we display those to the user and the user can only move forward or back along
+those cut paths so generally speaking you know in any robotics when you take
+away degrees of freedom when you when you limit the amount of unexpected
+behavior that a system can do it's generally helps improve the safety of
+the system another thing that we've done as a safety feature is our our system
+externally fixates the patient so and it's navigated so that you know the
+Mako system is navigated but really relies on the it's a real-time system
+and so if the bone moves the robot has to kind of move with it and if there's
+any latency there could be you know potentially some risk we don't think we
+think it's a minute risk but still it's it's there with our system when the
+surgeons ready to cut they externally fixate the patient they're fixed and the
+robot is also tracking where the patient is with rigid arrays but what that
+allows us to do is if let's say one of those arrays has loosened during cutting
+we can we can more easily detect that because we know the patient's externally
+fixated so there's just a lot of things where we really said okay what's the
+safety threshold let's try and make it even more aggressive in terms of being
+safe and a big part of that is you know when we when we have discussions with
+the FDA you know their primary focus is how show us that your system is safe so
+we really want to be able to show them look like here's why it's safe here's
+how you stop the blade here's how the surgeon can do this if there's anything
+unexpected and we've really made painstaking efforts to really remediate
+or kind of belt and suspenders think about anything that could be a safety
+concern so we actually don't think our system is is automated in the sense that
+the surgeon is doing everything the robot couldn't just do the surgery the
+surgeon has to do it so but yeah that's um that's how we've kind of thought a
+lot about the technology and I hope you're so I hope your listeners are
+interested because we sometimes we can kind of geek out so apologies if it's
+too no and I really like the level of detail on technology to start off with
+and you mentioned the FDA there how far along the regulatory path are you at the
+moment sure so we we've had our pre-submission meeting with the FDA the
+just for those who aren't really familiar the the the pre-submission
+meeting is a great opportunity to kind of present your system to the FDA and
+get feedback understand how they're thinking about certain things how
+they're thinking about you know you you mentioned autonomy how they're thinking
+about autonomy how they define autonomy how they define active how they what
+what they would like to see around testing what they what they think of the
+predicates that we think our system is equivalent to and so it's really a an
+opportunity to engage with the FDA about your system so we've had our first
+pre-submission meeting as you can imagine our system is pretty complex
+right we have a lot of moving parts and it can be challenging to clearly
+communicate everything your system does and how it works so with a pre-submission
+you you have an opportunity to actually meet with a panel which we did and
+presented them via presentation with videos and were able to explain how
+certain things work and it was clear that some of the information was new to
+them you know that seeing actually seeing us walk through how the system
+works so what they requested was that we basically file a supplement to the first
+filing that we did that really explains in detail more about the system more
+about some of the things that came up during our meeting and kind of
+continuing the dialogue so we're actively engaged with the FDA and and
+talking to them and their feedback has been really valuable in terms of
+understanding the technology and what what they're looking for and when you
+expecting this to get to market or do you have a date when you know that
+you're looking to launch sure so a lot of that is going to depend on sort of
+the FDA in terms of whether or not they have a clinical data request with our
+510k submission so that's what the these pre-submission meetings are trying to
+establish is you know can we demonstrate that our system is really as safe or
+safer than the the predicates that we're claiming substantial equivalents to and
+making sure that we can answer that question in a way that's satisfactory so
+we so we don't yet know whether or not clinical data will be needed and that
+would determine the the actual launch timeline from a commercialization
+standpoint so if the FDA wanted clinical data we would expect that to start in
+2024 early 2024 and we get a lot of emails from people who are interested in
+being subjects in the clinical study you know so we would need to run a run a
+clinical trial our expectation is that that would be probably like I don't want
+to give too much forecast than that just because we're still in the process of
+really making sure we understand that but if there isn't a clinical trial
+request and the FDA is satisfied that we can prove that our system is safer safer
+than the predicates we expect to be in the market in 2024 fantastic it takes a
+lot of money sorry what was that yeah so it takes a lot of money to get a
+surgical robot built prototypes built and get it to market you guys have
+raised thirty eight million dollars so far and what I really like about monogram
+is the crowdfunding piece because it's so unique to surgical robotics and the
+first time I've seen it so tell me more about why you decided to go down a
+funding crowdfunding route and the process that you had to go through for
+that I'm gonna be honest with you Henry you know crowdfunding wasn't our first
+choice I'm sure you talked to a lot of entrepreneurs you know we did the same
+hit our heads against the wall as many many have before us and many will after
+us you know we just struggled to get the capital from a kind of let's say
+traditional finance right we you know Doug and I were a one-man two-man band
+basically we had a really good idea we had some patent filings we had a
+prototype that we could show people did interesting things we had this vision we
+would go to meetings and people would say you know yeah that's great where's
+your team you know how are you gonna execute this they say come back to us
+when you have FDA approval you know we agree with you but you know we have we
+completely agree there's nothing flawed about your investment thesis but you
+know we just think it's gonna take too much money or it was never objections
+that were like hey this is a really bad idea no there's not a business
+opportunity here none of that it was always just I would say just the scale
+of of what needed to be done and you know building a team and how are you
+gonna find the people to do this we just weren't able to raise the capital and I
+said Doug what about you know crowdfunding so the first part portal
+that we reached out to is a group called seed invest they they've now since been
+acquired by a company called start engine who we've also raised with and
+we just basically presented the opportunity to the community we got
+through their investment committee and we presented to the general public and
+said hey you know here's what we're trying to do here's our mission we think
+orthopedics can be better than it is do you want to help support it and it
+turned into one of the most successful crowdfunded orthopedic raises I'm aware
+of and yeah so that's it just snowballs from there and once you're in the
+crowdfunding jet stream it's it's very it becomes a blessing and a curse
+because it's it's it's a challenge to get out of it and go back to conventional
+so we you know kept we've been kind of in this channel and it's been really
+really successful I think now what's next for us is it what we can get into
+it Henry but we're we're actually I have a planned listing on Nasdaq so we
+right now have a series D round that's just went live and that that's
+effectively going to be the capital that takes us public and that will be
+publicly listed and that's going to put us in a position I think where we can
+access let's say institutional capital that's really needed to push this across
+the finish line but I'm so you said there's some benefits and there's some
+pitfalls with it so what's what's some of the benefits of going down the
+crowdfunding route first and then negatives sure so just so you know I
+mean I I I'm a little bit of I don't say I'm a contrarian but I I dislike the way
+the system operates today right you have it's almost like a popularity
+contest with Silicon Valley and there's like certain things that these VCs are
+are looking for and a lot of them are arbitrary and really I don't think good
+markers of whether or not a company is going to be successful or whether or not
+an entrepreneur has the hunger and to make it happen what I like about
+crowdfunding is that you're dealing with real people right and if you're genuine
+and you tell them hey look here's what we're trying to do you're transparent
+you kind of have a pool of people that either want to be a part of it or not
+but it's there's not these intangibles about like why is it not why are you not
+invested like what's wrong with my business idea you know what what so
+that's um that's the positive of it is it's just more real and organic and you
+and you present your idea and people either like it or they don't and and it
+either resonates or not the challenge with it is that there is something to be
+said for you know a cap table that has like right now we have over 20,000
+investors right so and the way that it's changed it's changed a little bit but
+crowdfunding is pretty new and and when you would go to these funding portals
+you know they're they're negotiating on behalf of their investors that are
+coming in and they're trying to to do what they think is in the best interest
+of those investors but you know they would put investors into let's say a
+share class so now you have a share class that has a lot of investors with
+voting rights and you then as a company have to kind of manage a cap table that
+has a lot of people and let's be honest like a lot of people invested in
+monogram they love it but somebody gave us you know $200 three years ago there
+they might be following the story but they might not open every email and you
+might have in something important like hey you need to vote on this because you
+know somebody wants to you know we have this important corporate action that you
+need to we need your vote for so it becomes it can become over time
+difficult for companies to really manage that and then the other layer is that
+let's say you want to go then to an institutional player because the crowd
+unless you're like I know the actually the who was it I think the Green Bay
+Packers actually crowdfunded and and I know the portal they used and they said
+that within like I don't know a couple hours they had raised like 70 million
+dollars and something I mean certainly there's a lot of capital available but
+you do start to kind of hit the limits with crowdfunding and there does come a
+time where it's hard to scale and you need institutional capital right so
+Henry for monogram to be successful we're gonna need really serious capital
+right because it's just a pretty serious undertaking right and so when
+you start to need institutional capital it becomes challenging to get that
+capital when you have a corporate structure like your share structure is
+you know has all of these investors that need to vote they can they see like okay
+well if I'm gonna give monogram or any company this is a hypothetical this
+isn't like happening but if I were to give you a hundred million dollars
+there's certain things that I need as an investor right but we can't give it to
+them because of how the company is structured right so that's what becomes
+challenging with crowdfunding is that it can be it can I don't want to say take
+you out of the game but make make it extremely difficult for institutional
+investors to come alongside and help build what you're doing so a big part of
+going public for us is that it's going to convert all of the preferred share
+classes that we have into common shares so everybody's kind of on the same level
+playing field and then we'll look like any other company for an institutional
+investor it's it's I hope that's helpful so I would caution anybody thinking
+about crowdfunding you know just be really careful you know for me I always
+wanted our shareholders to have voting rights because I felt like hey they're
+a part of this right I I want our investors to to be able to vote on
+things if they if they don't think the company is doing what it needs to do I
+want them to have a voice the challenge is that it's it could become an
+impediment like it can almost hurt them because then when you're trying to get
+let's say an institutional investor to come in whose capital would help make
+their investment more accretive they look at that and go oh well I don't like
+that and it's it's so now I think we're going to be hopefully in a better
+position once we once we are public. Have you been approached by investors
+whether that's from large institutional med techs or venture capital or anyone
+have you been approached about an interest in monogram? Yes certainly so
+we I mean we always are having those discussions I wouldn't be doing my job
+if we if we weren't right there's also like something important about timing
+right you know you in med tech there's a couple of very accretive I would say
+milestones for any startup right so so when you first start out and you're just
+a napkin sketch and maybe you have like a couple of patent filings I mean you
+don't even have any issued patents you just have some ideas that you put down
+on paper maybe you have like one level of value right and then you you can show
+that your products pretty cool with a with a prototype and you can maybe do
+some some demos maybe that gets you to another level of value in med tech when
+you start to get into what's called like verification and validation which is
+here's how my product that's going to be commercialized actually works and I can
+do right now if you ask me to you know a hundred perfect knees and there's not a
+single kink in my system and this is what is going to be on the market I'm
+just proving that it's safe and effective you know when you start to get
+to that level that's another level of value and then if you get all of the
+regulatory uncertainty out of the way you know is it a clinical trial is it
+not what is a clinical trial look like do you have the funding for it yes or
+no all of those sorts of things that it's like another level of value right
+and then ultimately if you once you're approved it's another level of value so
+a lot of these companies are very busy and they are not incentivized to take
+risk and this is what I would caution any sort of let's say startup CEO trying
+to raise capital desperate for capital you know these companies are not
+incentivized to take risk it's so you can spend a lot of effort spinning your
+wheels showing them something that's a really really cool idea it might even be
+flushed out but you can waste a lot of time I mean Henry in q4 of last year I
+thought we were going to do a deal and that didn't materialize and it was a lot
+of time wasted a lot of time wasted and it really had nothing ultimately to do
+with with us it was just the market changed and you know these companies are
+very risk averse so that's really the thing I would just caution is bring
+people in at the right time if you can if you if you can wait so that's what
+really what we've tried to do is is make sure that we aren't pushing things before
+they're ready so I think now we're getting to a very interesting point for
+monogram where we're getting into V&V soon so we anticipate we'll be in
+verification validation soon and and then it really is like here's our
+product we know it's gonna you don't go into verification validation wondering
+if your product is going to pass right it's it's not like a mystery whether or
+not you're going to get through the testing you need to do so then it really
+I think makes more sense to try and figure out what a what a go-to-market
+strategy looks like with various players and risk appetites change and to be
+honest with you Henry I think that Mako is going to continue to be the superior
+technology and the longer with the more time that goes by the better because
+while other companies in the space have released made efforts to try and compete
+we think that it's just a matter of time before people realize that the
+solution is a Mako like solution right the innovation is cutting I think that's
+where a lot of orthopedic robotic companies have missed it the innovation
+is cutting the innovation is not navigation you know the innovation is
+efficient cutting like putting the cutting tool where it needs to go and
+removing that bone in an efficient way that's ultimately the innovation of
+robotics and I think a lot of companies have missed that and another trend that
+I think is going to be potentially devastating is what Stryker calls
+functional alignment or kinematic alignment we think that you know
+robotics are changing how surgery is done and really forcing us to question
+what the perfect target is I don't have the answer for what the perfect target
+is but if the perfect target isn't a mechanically aligned knee then a lot of
+these imageless solutions that cut you know the tibia first it's going to be
+challenging for them is our opinion so we think we think the market is going to
+potentially change very quickly under their feet and we think you need a CT
+based solution to address where the market's going so we we think that's
+okay for monogram right the more pain the better is our opinion so but we're
+doing our best I mean we we certainly would would love to have somebody help
+us kind of carry the load of how to go to market we we're certainly not arrogant
+about how challenging it is we're here today Henry because because ultimately
+nobody bought us right or gave us serious money so we've been forced to
+build that build out of necessity and we've always tried to do the right thing
+for our investors right we we think that what we've developed has an inherent
+value and we we want to make sure that our investors get what we think it's
+worth and so we'll see where that goes absolutely so I know that we had a
+little chat before this is sitting down recording this podcast and you talked
+about a couple of the challenges you've had both when you were demoing the
+system on the live stream and demoing the system so and talk to us about when
+things go wrong I mean that's really I mean Henry that's why I was saying
+cautioning anybody who's like has a especially a medtech solution you you
+know be careful about when you show things to people we we had a demo in
+2019 for a major strategic and it was just we we just were not ready right I
+mean we had a team of three people it was me it was Doug and one other
+engineer and then we had an intern and I think I you know anything that could
+have gone wrong in this demo went wrong you know and it's because which we have
+four people trying to do way way too much and you have to do that as an
+entrepreneur right you have to try and push the envelope and you you take
+certain risks and this demo did not go well and the strategic has you know
+never been back in our building not not to say they won't ever come back but
+just a caution I mean these people are busy and a lot of times you don't have
+the opportunity to say oh sorry that normally doesn't happen right so you
+just have to be careful and make sure that whatever you show them it's it's
+ready to go and gonna make it a really strong impression I would say that on
+the flip side Henry so monogram has been crowdfunded right since since almost the
+beginning so we did raise convertible notes from friends and family and that's
+what we use to conduct some studies with UCLA and University of Nebraska to kind
+of really put some data around why we thought we had a compelling technology
+but since then it's been crowdfunded and when you're crowdfunding so I just would
+say I don't actually run all of the marketing I don't have time to to write
+every single piece of communication that goes out and so this is for any
+entrepreneur right there's there's a there's a process where you hand things
+over to somebody else right and you do your best and you my job is really to
+try and build technology in a company and some of the marketing that goes out
+is not my my voice let's say and so what can happen over time is people think
+that you're just sort of you don't say promotional but crowdfunding requires
+kind of beating the drum and trying to get people excited right and that's
+really counter to the whole management team at monogram with it's not our
+personalities inherently is so we had a lot of people who really questioned like
+does monogram have anything real or they just a PowerPoint presentation and some
+like highly edited videos so I told the team I said guys we owe it to our
+community to do a live demo and show them what we're doing and you know with
+a live demo that is completely live it's unedited there's no let's cut to a
+commercial break and hope this works out and we actually had people that were I
+explicitly remember somebody he would he's a also in your medtech market
+saying like this is gonna be a huge dumpster fire these guys are a joke you
+know who's ready to watch this like go up in flames blah blah and we did this
+and basically it was a flawless surgery right we had an end-effector break live
+on our air we had to swap it out but you know it was obvious that okay maybe
+there's some things they need to be flushed out but these guys have actually
+taken this money to build something unique and I would say for any and I'm
+telling you nobody everybody was sort of nervous about this I this is not what
+medtech does right you you're conservative here and so I follow your
+instincts as an entrepreneur and be willing to take risks so I'm gonna speak
+against myself and say you know don't demo a system until it's ready but at
+some point you have to take some risks and go for it and and I think that
+really paid off in terms of showing our investor community that we're actually
+genuinely trying to build something we have no guarantees that this is going to
+work but here's what we've been trying to do with your money and you genuinely
+believe in this mission and so we're actually Henry gonna do another one this
+Tuesday I'll give you a link if you go to a monograms website monogram
+orthopedics comm we're gonna do another live surgery this coming Tuesday and
+it's gonna be awesome that's all I'm gonna say it's it's gonna be even better
+than the last one and it's gonna it's gonna have some very unique twists that
+I think are going to showcase where technology might go in the future so we
+have to keep up now it seems like we're gonna have like an annual trend maybe
+once a year I I forced the team to do a live stream and lose sleep for a couple
+weeks so this live stream is this to help with the crowdfunding round that
+you've just opened yes yes but not only that it's also for people who are already
+in who aren't planning on investing like what do you guys what have you been
+developing with with our money right it's sort of like accountability to our
+shareholders and I can write down on a piece of paper hey here's what we worked
+on this is more like here we're gonna show you what we worked on we're going
+to show you what's been developed over the past 12 months it's fun Doug hates
+these he you know he dug is a conservative surgeon he he doesn't sleep
+for like days before they go but I think I think it's the only way to be
+authentic and honest with our community and here's what we're trying to do we're
+not editing we're not we're open and transparent here here's here's where we
+are and let's let the chips fall where they fall kind of thing so pretty
+excited about this one though Henry it's gonna be it's gonna be very cool I I can
+say this I don't think anybody in orthopedics has done anything like what
+we're about to do okay that's that's exciting I was going to tune in anyway
+so you've just given even more reason for us to turn on the screens and I'll
+share that link with everyone who's listening to the pod and we'll drive
+some people to it so I'm looking forward to that and how many people in your last
+live stream so you know I don't want to misspeak okay so we had about I think it
+peaked oh maybe close to like 2,000 people we had two different streams but
+then it was on YouTube and within a very short period it was at like over 10,000
+views and then our IP attorney said like take this down immediately even though I
+don't think anybody thing was there that we hadn't protected he was just
+uptight about it so I think it could have gotten a lot of views if we just
+kind of left it there I think this one has the potential to get more views I'll
+just say that have you had a chat with your IP attorney this time yeah well
+this one this one the plan is not to remove it I'll just say that the plan is
+you know it's tough as a startup I'm sure you have entrepreneurs you talked
+to who deal with this is like filing a patent is so expensive it's so expensive
+I mean to really take a patent through the whole process it's easily 50,000
+could even be a hundred thousand I mean when investors ask us like where is the
+money going you know you have imagine a portfolio of 20 patents we have another
+we could easily file another it's a lot more it's just you have to try and
+balance like okay you know we can't protect like we don't want to spend
+money on this little screw we really need to focus on our money on where's
+the best things to protect but yeah so I think we're good on this one so what's
+next for monogram then you've got live show and FDA meetings going public
+what's what's the next few things on the horizon for monogram and what's the big
+goals my my big goal Henry is you know as we start to turn our sights on
+commercialization right so so everything we've been doing has been about
+leveraging technology and innovation we're never going to drop that mantle
+that is our North Star we have some things that we're developing that are
+very exciting we're our vision right so when you look at surgical robotics
+there's basically six steps that every surgical robot has to follow we're
+scrutinizing all of those steps to see does it have to be done this way so
+that's the first thing is just continuing R&D and the next gen so the
+second gen monogram system we want to be truly revolutionary that's our goal is
+not to stop here but but to continue pushing it this is one thing that I
+think a lot of people lose sight of what's on the market today in orthopedic
+robotics is the first gen solution it's not even the second gen solution right
+it's the first generation so what monograms working on right now we think
+is the second generation but there's a third and a fourth generation right so
+really that's step one is that's our North Star we're also working on
+additional clinical applications so we're working on a partial knee and the
+partial knee will have a press fit implant that will be 3d printed and
+leverage monogram technology so we think that there's an obvious opportunity for
+a press fit partial knee combined with a robot that's to us a no-brainer so
+that's the development front but in terms of commercialization right I would
+say we we really need to think about how do are we going to take this to market
+and grow it and that's really going to be a question of access to capital and
+like you asked about have you been approached by VCS or others it's really
+going to come down to the funding that we have access to to try and push this
+and that's right now like a an uncertainty right so I would say to our
+investors with who say you know why do you guys need more money we need more
+money because if we're going to grow a company it's going to take a lot of
+money so I I always tell people how much like to expect us to have to raise
+constantly and a lot so that's going to be our focus is really trying to
+understand trying to secure the capital we would need to actually launch and if
+that means a development partner or somebody who's already established who
+has distribution globally you know maybe that's the way we would go if that
+doesn't wouldn't materialize then it would be finding you know growth equity
+to try and make it happen so we're we're right now our filter is just what is in
+the best interest of shareholders and what are the opportunities we have and
+evaluating all of them and trying to decide and just that was about the
+capital piece are you worried about the changing market conditions are you
+worried about the economy in the future and your ability to access capital if
+the markets dive yes so Henry I frequently don't sleep thinking about
+that you know no entrepreneur should there's no guarantees you'll have access
+to capital and yeah the economy certainly concerns us we've been tried
+to be as conservative as we can with hiring and we have so much work to do
+and you know it's really hard to find the right balance between keeping your
+team lean and getting things done that need to get done but yeah that's a major
+that's a major concern right is what what's gonna happen with our with our
+economy or the stock market or appetite for risk all we can do Henry is put one
+foot in front of the other and try and build a solution that will make a
+difference for patients like that is everything we focus on is how is this
+thing this system this concept going to ultimately make a surgeon's life easier
+or improve outcomes for a patient that's all we think about and that's all
+we have in our control to worry about right so if the economy doesn't go where
+we want it to go we have to be smart about trying not to spend money on you
+know people who we don't necessarily need to hire right now so so for example
+you know I get pinged all the time by people who want to be like let's say a
+VP of sales or and it's just we're not every dollar that goes into R&D is is
+more creative for us right now right every every dollar that goes into
+building a product like that's our focus so we it's always a catch-22 but yeah so
+we're I would say we're cautious right now I certainly think that things gonna
+get tight I will say that it's not all negative though you've seen this Henry
+hiring has been challenging the past three to six months right what junior
+engineers expectations were let's say for for compensation I think had become
+completely unreasonable and that was a negative inflation was real I mean is
+real we were seeing it in our in our efforts to try and hire engineers is it
+was becoming cost prohibitive so it kind of naturally choked off for us like
+access to talent in a way hope hopefully if there was a recession or you know
+softening that would improve the labor pool for companies like monogram and but
+yeah it's tough it's it's hard to have everything you want there's definitely
+signs of the market taking it to a dive I know that J&J unfortunately have just
+done a layoff over in their robotics division by the sounds of it and from
+the messages I've received and there's other companies as well that are letting
+go some really strong talent I think there is a market correction but it's
+not necessarily just to do with the markets some of the businesses had poor
+fundamentals anyway and so this there are companies still hiring monogram is
+still looking for people there's companies all around the world in
+surgical robotics you have open engineering positions but it's just a
+struggle the market conditions just being blamed for it one thing that's a
+little unfortunate and I you know with our space right is you have all of these
+really smart engineers that are getting laid off and you and I see them and the
+problem is that with our industry and I think it's a disservice to patients and
+I think it's a disservice to our industry is they have these onerous
+non-competes that get you know nine times out of ten you'll find somebody
+who worked at one of these companies and they can't they're not employable
+because they have a non-compete and I think that's unfortunate I hope that I
+hope that that sort of softens a little bit over time I don't I don't know if it
+will but it makes it difficult for companies like monogram to hire people
+who can help us build and ultimately the ones who suffer is technology suffers
+patients suffer you know when when people who have a lot of experience
+can't work because of non-competes that's one thing we've struggled with
+we've seen a lot of really really good candidates that we just can't hire
+because we don't want to violate those so hmm yeah you can end up in hot
+water if you break non-competes but California's where they where they don't
+exist and that's where the engineers are most expensive as well yeah so I
+guess we've well I don't know I don't know the recommendation is for an
+engineer but I mean I'm sure you've seen you've you've said this Henry candidates
+that this happens to you all the time I must be incredibly frustrating as a
+recruiter yeah yeah I am yeah it is incredibly frustrating and that's all I
+really have to say on the matter and it is frustrating and you can't come up
+with creative solutions for the right engineers and if the company really does
+want to get that engineer then we can work at solutions to kind of dodge the
+non-compete and with layoffs usually you are more released from the non-compete
+than if you were being headhunted directly and so it very much is a
+situational situational thing with non-competes
+we'll do is we'll actually talk ping you know that the folks we know do a
+courtesy check hey this person's looks like they were laid off are you okay if
+we hire them good and so just to close off the podcast and this is gonna be the
+theme for my final questions here I want to look to the future paint me a picture
+in your eyes and of your vision what is the future of surgical robotics what is
+the future of surgical robotics so I think in the next 10 years more surgeons
+than not will be using a robot so I think that surgeons who don't use robots
+will be in the minority and that it will be come over time viewed as basically a
+disservice to your patients if you aren't using one I think we're gonna get
+to that point I think we're like in a if you look at partial knees I think about
+40% of partial knees are robotic don't don't quote me on that that's a number I
+have in my head it might be more or less but I think it's around that level and I
+think that's I think we're gonna see the same thing happen in total knees and
+then ultimately in other areas and I think what it's gonna take is certain
+robots being just easier and faster and more convenient to use so I do that's my
+vision and I think that the reason that's important is because these tools
+are enabling tools that help surgeons do surgery better I think that's that's at
+least our view and we think that that will be more and more substantiated as
+surgeons start to question what the optimal target is for a total knee
+replacement so if we're just having all of our knees mechanically aligned 10
+years from now which I don't think they will be then maybe I'll be completely
+wrong but if the market moves to more functional alignment kinematic alignment
+personalized alignment whatever you want to call it and if the market really does
+move towards more if personalized implants are substantiated with data I
+think that robots are really going to start to carry the day perfect thank you
+very much for sitting down with me today Ben and for one of the first episodes of
+the surgery box podcast it's been an absolute pleasure and thank you very
+much anytime Henry thanks for thanks for everything appreciate it it was great
+chatting with you

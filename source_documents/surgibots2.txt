@@ -1,0 +1,659 @@
+Welcome to the Surgery Bots podcast, the show where we explore the latest advancements in
+surgical robotics and how they're transforming healthcare. Every two weeks we sit down with a
+guest who is at the forefront of this incredible space. Surgical robotics is changing the way we
+approach surgery. Our guests are going to share their experiences and insights discussing the
+challenges they've faced and successes they've achieved. We'll also delve into the latest trends
+and innovations, exploring the newest robotic technologies and how they're being used to
+improve patient outcomes. Whether you're a healthcare professional, a researcher or just
+interested in the latest advancements in surgical robotics, this podcast is for you. So join us as
+we explore the world of surgical robotics and discover how these cutting-edge technologies
+are shaping the future of medicine. Hello and welcome to this week's episode of the Surgery
+Bots podcast. Today we sit down with David Fischel who's the CEO of Stereotaxis. In this episode,
+David gave us a great look at the current state of play in endovascular robotics, why there hasn't
+been massive adoption like other areas of surgical robots and why Stereotaxis is poised to grow in
+the market. So without further ado, I hope you enjoy this episode. So hello and welcome to this
+episode of the Surgery Bots podcast. Today we're joined by David. So hello and welcome to you,
+David. Hi, Henry. Thanks for having me. That's absolutely fine. So yeah, first of all,
+give me some context. Can you give me a snapshot resume of yours? Sure. So I'm the CEO of Stereotaxis.
+We're a publicly traded company. We make a robot that's used for minimally invasive
+heart surgery. I came to the company actually from the finance world. So I originally studied math
+at UCLA in Los Angeles, then did a BA in Israel, worked in a medical device venture capital firm
+there, and then moved to Los Angeles where I worked at Doftler Capital Management. It's a
+healthcare-oriented hedge fund, and I focused on medical device investments. And the beauty of
+working in the investment universe is that you're forced to look at and assess and try to
+determine the future of many different medical device companies across the spectrum of diseases.
+And over time, you get a feeling for what is more interesting, what is more likely to be impactful,
+what's less interesting, what's less likely to be impactful. And through all of that came
+across Stereotaxis. It was a company that was struggling, but looked particularly interesting,
+and so decided to shift a little bit from purely that investment role to also where it would
+operate in that. Okay, so how did you join Stereotaxis? So were you working on it as an
+investment? Were you a firm investor in it, or did you come across it in the outside world?
+So I came across it as part of the investment efforts of generally our mandate as an
+investor. You're trying to look for interesting technologies, impactful medicines that can be
+very beneficial for the world, and that can become much more significant than what they
+currently are. So that's generally been the mandate, and found many and was interested in
+many of those over the years. And came across Stereotaxis in 2016. The company was not doing
+particularly well, and it was in need of external funding. And so as we did the analysis, we were
+intrigued by this kind of dichotomy. In investing generally, you want to find situations where the
+reality and the potential reality, there's a mismatch, or the perception and the actual
+reality is mismatched, and we're using to bridge that gap. And in Stereotaxis case,
+the company was on the one hand, nearing bankruptcy. It had very little cash, had
+significant debt, had been declining for several years. But on the other hand, it had these kind of
+almost kind of what I call the three kind of most basic and most attractive structural elements
+of any medical company. It had a very unique differentiated technology, and really kind of,
+it's a, I think that when we actually get into more popular technology, we're still
+kind of understand more, but really kind of this platform for endovascular robotics that I think
+is particularly elegant, and it was actually working in the real world. So we have about 100
+hospitals that have treated almost 100,000 patients to date, and the clinical data was as good as it
+gets. So when you have that dichotomy of on the one hand, a company that is clearly not doing well,
+but on the other hand, it has a very unique technology that works well in the real world,
+and that has very good clinical data, that's an interesting dichotomy. It drove us to do a
+little bit of like a Harvard Business Review case study on it to try to determine why that mismatch
+is taking place. And then with that, we decided that we would be interested in investing in the
+company and paying off its debt, giving it operating capital, and also taking more active
+roles on the board and in management. Okay, fantastic. So you touched on the
+technology there. Tell me, what do stereo taxes produce? And give me a bit of an insight into
+the areas that it serves. Sure. So if you think about, if you think about surgery broadly,
+and robotics within surgery, there's many, many times people, many times kind of people can be
+confused or can kind of lock things together. So the way I like to oftentimes think about it,
+I think about surgery in three main categories, kind of open surgery, which is, you know,
+typically what you think about when you do surgery and open incision, graspers that hold
+on to the tissue, physicians holding tools over the patient, and doing the surgery in that way,
+you have laparoscopic surgery, which is laparoscopes, three, four, five, and functional
+sticks, one of which has a camera on the end, and some extended physicians operating through those
+few smaller incisions in the body. And then you have endovascular surgery. Endovascular obviously
+means within the vascular system, you're using the blood vessels as a type of superhighway. So
+you gain access in the leg or in the arm. And then you use the blood vessels of this type of
+superhighway to reach where you need in the human body. And at the tip of a catheter that is
+navigated through the blood vessels, you can have all sorts of functional capabilities, you can
+deploy a valve, or you can ablate heart tissue, or you can aspirate a clot, or you can kind of birth
+through a clot. And there's many kinds of different things, or you can epilyze a tumor.
+So again, there's many types of endovascular surgeries that have emerged over the years.
+Overall, if you look at it, both open orthopedic surgery and laparoscopic surgeries are in the
+midst of being completely transformed by robotics. That obviously was prompted by intuitive surgical
+laparoscopic surgery about two decades ago, and then about a decade later, and MAKO and Mazor
+kind of really kind of pioneered things in the orthopedic realm.
+Endovascular surgery has almost been immune to any robotics. There's been various attempts over
+the years, but really kind of those have been largely unsuccessful. And Stereotaxis, though,
+we're a relatively small company, we are kind of the leader, the pioneer in robotics in the
+endovascular field. The way we look at flexible robotics in the small, delicate tissues of the
+vascular system is we actually have a very kind of unique mechanism of action. And so we take a
+catheter, which typically, if you think about the challenge, again, is that as a physician standing
+over the patient, you hold on to the handle of the catheter, procedures happening a meter away
+at the tip of the catheter. And the way to translate forces with manual catheters is that
+you have relatively rigid plastic along the shaft, and you have a pull wire that runs from the tip
+till that, like a puppet wire. And so when you push, or pull, or clock, that gets translated
+through the plastic. And when you pull a little lever here, you can deflect the tip. The mechanism
+overall works, but there's obviously limitations and weaknesses to trying to move the tip of the
+catheter from a meter away when you have a flexible device. And so there's imprecisions.
+I might clock my hand 90 degrees, but the tip might clock 50 degrees or 150 degrees. There's
+translation error over that distance. It doesn't matter how steady my hand is, the tip won't be
+steady of a beating heart. I can only do one deflection of the tip. The rigidity that's
+necessary to trans any motion introduces risk and delicate anatomy. That's why you have vessel
+dissections and perforations. They have to be careful about. And so what Stereotexas did is we
+really transformed that whole mechanism of action by kind of making the catheter shaft very
+soft and gentle, taking out pull wires, putting little magnets in the tip, and now using externally
+applied computer controlled magnetic fields to take direct control of the tip of the catheter.
+And when you take direct control of the tip of the catheter, you bypass all of those
+mechanistic errors that take place when you have to control the handle in order to move the tip.
+So that's really our robot is a computer controlled magnetic fields. They're on both
+sides of the patient table in the, in the cath lab, and they allow you to really take a direct,
+precise control of the tip of the catheter. Okay. Awesome. So when it is done mechanically,
+what's the effect on the patient compared to when it's done robotically?
+So we currently, the vast majority of our clinical experience has been in one specific type of
+endovascular surgery called cardiac ablation. It's a procedure used to treat arrhythmias.
+So in the procedure, if the heart is not beating regularly in the procedure,
+catheter is navigated into the heart chambers. And then it's really kind of magical, but
+physicians are able to, electrophysiologists, they're a subset of interventional cardiologists,
+focus on rhythm, heart rhythm disorders, and they're able to use electrograms and use mapping
+systems and other diagnostic tools to determine where are the misbehaving heart muscle cells
+that are causing this arrhythmia. And they use an ablation catheter, typically with a RF,
+a catheter that has kind of a tip that can deliver RF energy. And so as it goes to a tissue,
+if you deliver RF energy, you can ablate that tissue. And they use kind of their diagnostic
+tools and the movement of the catheter around the chamber to determine where they should
+specifically ablate to isolate the misbehaving heart muscle cells and more to channel the
+electrical signal in a specific path. And so that's a very common procedure. There's about,
+let's say 1.2 million of those a year now around the world. And if you think about the challenge
+with the manual catheters, again, you have to kind of control the tip in a very precise way,
+right? If you ablate in the right spot, treat the patient, treat the arrhythmia. If you ablate in
+the wrong spot, you can cause significant damage. And so kind of when you can take direct control
+of the tip and move the tip with precision and held the catheter in a very steady position
+against the tissue. And you can do all of this with a very soft and gentle catheter,
+which has a much lower risk of mechanically harming the patient. All of those provide value.
+In addition, the physician is doing this entire procedure seated from a computer cockpit.
+So they're not exposed to radiation. They're not kind of standing at the bedside near the
+x-ray system. So that's really kind of the transformation we typically see ourselves used.
+And actually, you're in the UK, obviously, one of them are kind of great physician users.
+He's a physician, she operates at the Royal Brompton Hospital in London, relatively close
+to you, I believe. And then, and she uses us at predominantly in pediatric and complex congenital
+patients. So, you know, people who had a congenital heart disease had many surgeries over
+their childhood. And because of that, oftentimes, that vast majority of times, they they then kind
+of have arrhythmias as they become older. And those patients is oftentimes very difficult to
+navigate. It's a non normal anatomy of the patient, because it has been adjusted through
+many surgeries. And if you think a typical catheter that can only do one deflection,
+you oftentimes have difficulty reaching where you need to break with a catheter that's being
+steered from the tippy to do many bends and twists and turns, and can still move with great precision,
+you can reach areas that otherwise would be unreachable. So she has kind of many publications
+on on treating these patients that otherwise have no other options. Again, those are kind of
+the things that make us delighted to work in the medical device field. And when you see procedures
+like that take place. Awesome, awesome. And we touched a little bit on it. And with the surgeon
+benefit as well, why is it so important to have the patient that the surgery removed from bedside
+and controlling it from behind a screen? So I think kind of there's maybe two things I
+touched upon kind of briefly the idea of being removed for radiation removed from x ray. And
+that's, I'd say the more kind of simplistic direct benefit. And there, if you think about it with
+leopard with open surgery, obviously, you have direct visualization of the surgical theater of
+where you're operating. And laparoscopic surgery of a camera that allows you to view the area that
+you're operating with it. In endovascular surgery, x ray is one of the primary forms of visualization,
+because you don't have a camera that at the tip of the catheter, and really kind of x rays have been
+for decades now, the predominant form of visualization, as much as you bring in
+alternative forms of visualization, like ultrasound, ice imaging, or mapping systems,
+or electrograms, or kind of other tools, x ray remains a very dominant form of visualization.
+And x rays aren't great for patients. But as a patient, you might be exposed to 20 minutes worth
+or 40 minutes worth or hours worth in a procedure. And a physician is exposed to the cumulative
+impact of thousands of procedures over their career. And there's there's fairly interesting
+clinical data, generally on the interventional cardiologist, and how and on how disruptive,
+how dangerous that long term career exposure is. And for time, there was a actually very
+interesting article out of Israel, a few years ago, that looked at brain tumors in interventional
+cardiologists. What was interesting was that there was about a 90% rate of brain tumors on
+their left side of their brain versus on the right side of their brain, just because generally,
+when they're standing in cath lab, they're standing on the patient next to the patient table
+with their left side closer to the x ray. Obviously, the right side is also exposed to radiation.
+But that was, I thought, an elegant way to try to assess the risk and the kind of increased risk
+of tumors and of other kind of impacts of radiation. The a little bit less obvious,
+but a little bit more interesting, I think, benefit from removing the physician from the
+bedside, putting them behind a computer cockpit, is if you think about any operating physician,
+they have really two major skill sets. They have the cognitive skill of trying to determine
+what is the disease, what is the issue with the patient, how best to treat it,
+how to design the therapy. And then they have this mechanical skill of getting tools at their
+disposal to actually execute the procedure as they would want. And they need, obviously, both of these
+skill sets in order to be as successful and kind of proficient surgeons. When you reduce the
+mechanical side of the equation as much as possible, you allow the physician to focus most of
+their energy on the cognitive side of their profession. And I think that is something that
+generally, as a society, in many fields, humans have evolved to make the mechanical aspect of a
+profession less and less, and to make the cognitive aspect kind of really the defining feature of a
+profession. And I think that in operating procedures as well, in surgery, that general
+trend towards reducing the mechanical effort, allowing the physician to focus as much of their
+energy as possible on the design of the therapy of the cognitive side, that is likely to lead to
+better outcomes, and it's likely to lead to a better profession. Okay. So there's a clear patient
+benefit, clear surgeon benefit. Is there any benefit to the health system for the using
+Stereotaxis Genesis? So generally, if you look, we're in, obviously, an NHS hospital.
+We've done particularly well at sites like Kaiser in California. And I think that some of the reasons
+why systems like that have agreed to take on a robot that still was relatively new,
+that kind of adds cost generally, from a direct perspective, and to the procedure, is that there
+are multiple and kind of downstream savings for hospitals for hospital systems. And from a
+societal perspective, I'd say the two biggest benefits are one, the reduction of risk, and two,
+the ability to treat patients that otherwise have no options. And from a reduction of risk perspective,
+that is for the patient and for the physician. Patients, if you look at all the clinical
+literature, and there's now about 450 or so clinical publications on our technology,
+and quite a few, a few dozen that are head-to-head studies, what you see is consistently a reduction
+in major adverse events for patients. So because you have this very soft, gentle catheter that is
+being navigated through the blood vessels into the heart, you have a much lower risk of complications
+than with a rigid catheter, where if by accident, the physician makes one sudden move,
+could perforate the heart, could dissect a vessel, and they have to be much more cautious.
+And so that obviously, the reduction of major adverse events, that leads to significant saving
+overall for the health system. And then on the physician side as well, we have had physicians
+who have used us because they have suddenly back pain, and they wouldn't be able to operate for a
+week or two weeks, or they have other kind of health issues that would have otherwise limited
+their skill with physicians. One of my nicest experiences walking to a hospital in Scandinavia,
+and a physician I'd never met before comes to me, gives me a very big hug and says,
+I, oh, I'm so grateful for your technology. I love my job. I love being a physician. I love
+operating on patients. But I would have had to retire a few years ago if it wasn't for your
+system, right? He still has a really sharp cognitive mind. But, you know, his hands are
+probably getting kind of a little bit less stable, generally would have had to retire if not for the
+ability to do procedures robotical. And I think that in all of those ways for a health system,
+training physicians, then the loss of a physician because they can't operate because of that injury
+or because of retirement, all those are significant burdens on society. And so being able to both
+reduce the risk for patients and reduce the risk and enhance the experience for physicians,
+all of those provide societal savings. And the other one kind of other flip side is on treating
+patients that otherwise wouldn't be able to be treated at the overall burden on a health system
+of a patient with a severe arrhythmia is relatively high, that they'll go, they'll be
+hospitalized multiple times that go into the arm multiple times, they'll be on various drug
+therapies that have relatively poor efficacy. And so when you can do an ablation procedure that
+treats them definitively, that is overall a very beneficial procedure. And there's been
+various publications over the years that have started to show more and more that ablation is
+a very good option against best medical therapy in a range of arrhythmias. So I think you've seen
+generally in this trend toward cardiac ablation has become more and more first line therapy.
+And when you can provide that therapy to patients that otherwise wouldn't be able to be treated,
+like often tax those that in the UK that I mentioned, that I think provides a societal
+benefit as well. Okay, awesome. So when we were preparing for this podcast, you talked about
+five big innovation efforts that started taxes. For the sake of the listeners, could you
+just give us an overview of what they are and a bit more information on some of those?
+Sure. So I'll just get briefly touch upon it. Otherwise, a list of five will be long.
+But generally, our efforts have been to make robotics broadly accessible. So how do you make
+a robot that is much more easily adopted by hospitals, reduce the cost of acquisition,
+and really kind of makes it something that can be broadly used in any operating room environment in
+any operating room environment in any cath lab. And so that's been kind of one big thrust.
+A second big thrust is how do you build an open ecosystem and around the robotic technology in
+electrophysiology in cardiac ablation procedures where we currently operate, you want to enable
+the ability to have a range of therapeutic devices, and to work with a range of diagnostic
+devices with a robot and not to limit your options to only one therapeutic catheter,
+one diagnostic integration. So that kind of building of an open ecosystem, I think,
+it's actually kind of a very rare thing for companies to do. I think that when you have
+open ecosystems, that's how you drive the most innovation, that's how you reduce costs the most,
+that's how you make something the most ubiquitous in a field. And so that's kind of been a big
+effort of ours. And the third one is how do we expand the use of our technology into multiple
+endovascular clinical applications so that we're not just treating patients with arrhythmias,
+but also treating patients with stroke, with coronary disease, with peripheral vascular
+disease. I think there's kind of multiple indications there that where we can provide
+that value and address unmet medical needs. And the fourth effort is we entered in recently into
+collaboration with Microfort in China, and we're working together with Microfort to build an
+ecosystem of products that work with our robot in China. And so there's kind of a whole
+development regulatory effort there. And then the fifth is we're communicating right now over a
+Zoom-like telecommunication app. Obviously, the advent of cell phones have been one of the biggest
+benefits to society and transformers of our lives over the last 20 years. And if you think about it,
+operating rooms are very much isolated. They don't get the benefits of connectivity at all.
+A physician who operates in an operating room has a support staff that's right there,
+might be able to poke their head out into the hallway and shout to a colleague, but otherwise
+it's very much isolated. And so how do you bring connectivity and collaboration into the operating
+room environment? And that's an effort that is very synergistic with the entire robotic experience
+that I think has applicability far beyond just robotic labs.
+So I want to push a little bit further into the open ecosystem. What does that actually mean? And
+what kind of things do you mean by having those contributions from the wider market?
+So practically, or let me stay on the philosophy for a moment, and then I'll go to the practice.
+Philosophically, if you think about economies or societies that do the best,
+they're open societies, open economies. And when you have open societies, open economies,
+that leads to competition, that leads to innovation, that leads to creativity and ideas,
+it leads to choice. And in the end of the day, consumer choice, individual choice is a great
+determiner of how things should evolve and a great motivator for progress. And so I think that
+the concept of open ecosystems is a very powerful one in society, and one that actually has
+applicability also in business. And stereotaxis intellectual physiology originally built its
+business very much as a closed ecosystem. We had one ablation catheter that works with our
+technology, and we were integrated with one diagnostic mapping system. And overall, that was
+a nice solution for customers. It allowed physicians to treat patients in great ways to
+deliver great care. But in many ways, it was also limiting in that it didn't allow for physician
+choice of different technology that they would like to use. And it didn't allow for this robust
+innovation around the robot, where you have a range of tools, and you're constantly pushing
+the envelope of what's possible in terms of the tool set. And so we've really been trying to
+kind of encourage and establish this open ecosystem around our robot, where a range of diagnostic and
+therapeutic tools can be used with. In practice, what that meant is that, let's say on the diagnostic
+side, is we implemented an open mapping API software into our robots, which made it much
+easier to use our robot with a range of diagnostic and mapping technologies. And so we integrated
+with an innovative mapping solution out of California, we integrated with various pre-operative
+imaging companies that take pre-operative patient-specific images, and then make it really
+specific for electrophysiology. And then we have ways to now present those pre-op images with the
+intraoperative map over an x-ray, integrate all of those together, really kind of in a way that
+allows physicians to see all the patient-specific information in as easy of a way as possible,
+and make decisions during the operation. And so kind of that was one way that implementation
+of an open mapping API on the software side really kind of helped on integrating various
+diagnostic tools, and allowing physicians to benefit from a range of diagnostic tools
+during their procedure. On the therapeutic side, we took the initiative to actually build
+our own ablation catheter, and we did that kind of for two purposes. One was just to push the
+boundaries of ablation catheter technology, and to make sure that there was newer catheter technology
+out there available for physicians, and that kind of we would make the investment in
+pushing that forward. But we also did it because when you build a catheter on your own, you learn
+all sorts of insights into what plastics get used, what coils get used, what are the
+small insights that makes a robotically magnetically driven catheter great,
+and what are the pitfalls to avoid when designing and building a catheter. And then we use that
+insight to actually facilitate a range of companies that are building similar catheters.
+We've announced collaborations, let's say, with an Austrian company called AFRIZE. They're
+developing an elegant cryon, what's called a Cooloo. It's kind of a single-shot device for
+pulmonary vein isolation. They came to us at one of the conferences, thought that our technology
+was particularly elegant and interesting, and said, oh, we'd love to be able to make a robotically
+driven version of our catheter. And so we're able to facilitate that by sharing all sorts of insights
+with them to help them develop a robotically navigated version of their catheter. The same
+thing with Microport in China. We're able to facilitate their progress in developing both
+diagnostic and therapeutic catheters that will work with the robot. And we've worked also with,
+and we're working with a couple others that we haven't been able to announce yet,
+that are also kind of interested and have been developing catheters. And so I think that that,
+what kind of that overall leads to is as I look out over the next several years,
+is this world where our robot and the mechanistic benefits of precision, stability, and safety
+reach can be paired with a range of both therapeutic and diagnostic devices. And ultimately,
+that's good for physician choice. That's good for reducing cost and for overall patient care.
+Awesome. So what's your approach to corporate development then? So it sounds like you've
+touched on a couple of partnerships that you've worked on, but M&A partnerships, joint ventures.
+What's your approach and strategy there? I guess the general approach is you have an open
+hand for collaboration and you take responsibility and self-sufficiency in doing things on your own.
+And that combination of being self as efficient and responsible while maintaining the open hand
+for collaboration, that seems to lead to progress on both fronts. Okay. So what are some of the
+biggest challenges that Stereo Tax has faced historically? I think kind of we've had a range
+of challenges. So if you look at our history, we have a relatively long history and there's been
+a range of challenges over the year to really build a highly successful company. And I'd say
+that kind of probably it fits into a few buckets. One is kind of when we initially launched and the
+technology was adopted with great fanfare and we sold kind of over 20 systems a year in those first
+few years of the launch. But at the time, the technology was launched somewhat prematurely
+and a little bit aggressively prior to when it was ready for prime time. And it had a significant
+latency at the time. So when a physician is operating, their CDP had a large screen display,
+they use a mouse and keyboard to do the procedure. And you can imagine that if there's a latency of,
+let's say three seconds, or every time you move your mouse, by the time it moves the catheter,
+there's a, it's taken three seconds. That's a type of latency that would drive a physician crazy.
+So I, I've kind of used an analogy that if I am, if you take all of your notes on paper and pen,
+and I come to you and give you a laptop, and I say, this laptop is great. And you could take
+your notes on the laptop and you can do spell check and you could do editing and you can adjust
+the thoughts and you can share it easily with colleagues. And, you know, all of these reasons
+why taking notes on a laptop would be a beneficial versus kind of pen and paper. And, but then I give
+you the laptop and there's a latency of three seconds every time you want to move, right? You
+would say, David, you might be right. Many of these benefits are great, but practically I can't use it.
+I'm going back to a pen and paper. So there was kind of a similar event at the time. And, and that
+kind of led to a, a kind of a negative feedback loop where, where as hospitals started to adopt
+the tech, started to purchase the technology, tried to use it, didn't find it very practical.
+This robot sat idle at the hospital, hospital B that is looking to purchase a health assistant
+sees hospital A purchase it, isn't using it and, and steps back from the purchasing line.
+And with that, suddenly sales plateau, sales start to decline. Like most young companies and
+stereotaxes was spending with expectation of significant growth. Suddenly you have to pull
+back expenses. You have to do that with the financing, your stock price drops, and that
+becomes kind of a negative feedback loop. So that's really kind of, I'd say was the toughest, if you go
+back to the history, that's kind of the toughest challenge that stereotactors face is it got itself
+stuck in this negative feedback loop. And, and, and what we've been doing to overcome that is really
+have a focus on existing users with the concept that when you have successful labs that are able
+to do procedures, well, are able to treat patients well, are able to be efficient, that that ultimately
+leads to broader adoption because people see that success and want to mimic it at their own
+institutions. And our technology did become, we reduced the latency over the years through
+improvements in patrol software and hardware. And, and so kind of overall have made it a very
+practical device. That's why we have now a hundred hospitals globally that use us on a regular basis
+that treat kind of collectively 150,000 patients. But that said, that's something that took time to
+improve the technology in that way. And, and, and obviously is that we're still getting over that
+historical perception that this was technology that really was elegant, but not practical.
+Now I think it's practical. We have to show the world that it is practical.
+Okay. Awesome. So what's some of the barriers to people adopting it still? Is it,
+is it just that history or do, are there any other concerns when people are looking
+to potentially purchase the system? I think that the three big concerns are where
+our big innovation thrusts are focused on. So one is how do you make the technology much more
+accessible and affordable right now? Adopting a robot is a construction process that involves
+some architectural planning. It involves contractors. There's an installation process
+that takes a few weeks. And so if you can make a robot that is, that doesn't require any of the
+construction, any of the architectural planning, and that can be installed relatively quickly over
+the weekend or deinstalled, that reduces the structural limitations to adoption significantly.
+And the second one is intellectual physiology. As you move from having very little choice,
+diagnostic therapeutic devices to an array of choices that reduces one of the pushbacks
+against adoption in that now you do have a range of tools that you're disposable to use
+with the robot. And so that's kind of been a second big thrust that addresses the second big
+limitation that, that physicians have had. And then the third one is, is that when you,
+when you have a single use robot for specific clinical application, that is limiting versus
+a platform robot that can be used for a range of clinical applications. I think when we speak with
+hospitals, when we speak with potential purchasers of the robot, and there's a concept that one plus
+one is worth more than two, and one plus one plus one is worth much more than three. And so I think
+as we're able to build out the tool sets, guide wires of guide catheters that allow our robot to
+provide value for stroke patients, for coronary interventional cases, for abdominal aortic
+aneurysms, for peripheral disease, and suddenly you have a robot that becomes much nicer for a
+hospital to adopt. And I'd say those are the three innovations that are the most impactful
+on the adoption process. And I think we'll have the biggest kind of a tailwind in driving
+kind of a broad scale adoption of our technology. Okay. So broadly speaking then, early on in the
+conversation, we talked about laparoscopic robotics and we talked about orthopedic robotics.
+Why do you think there hasn't been the adoption in endovascular robotics? Because Stereotax is
+not the only company here. So why is a general market do we think there's not been the adoption
+that other markets have experienced? I think endovascular robotics is particularly challenging.
+And so those are kind of specific things that we can talk about. And then there's also aspects of
+luck, right? And chance at if intuitive surgical and computer motion at the time, right? 20 years
+ago, as they emerged, they had a lot of challenge. And they were first trying to transform
+cabbage surgeries, bypass graft, coronary bypass surgeries. And they had a lot of
+challenge in that field. And still there's fairly little adoption. They were fortunate that
+urologists took on the technology and it started to fly. And with that momentum breeds momentum.
+And so there was a significant kind of then adoption across laparoscopic surgeries. And
+similarly, if you think about orthopedic robotics, and Mako was really the pioneer in knee and hip
+upper plastic. And if you think about it, Mako actually was struggling at some point.
+And before they were acquired by Stryker, they had a year plus of relatively very flat growth.
+And there were kind of some struggles that they had to go through. And yet when Stryker acquired
+them, suddenly Stryker built its entire ecosystem around the robot. And it took a few
+years to really build its implantation ecosystem and its tool sets and its implants around the
+robot. But since then has taken market share in a field that relatively had very stable market shares
+and has taken market share every year to the point where I believe now about 55 60% of all
+of their knee implants are done on the Mako robot. And I think about 30 35% of its hip implants
+are done on the Mako robot. And so sometimes oftentimes, slight and changes in the course
+of history can have dramatic impacts on overall adoption in a field. I think in both of those
+cases, there was obviously significant and effort and success that led to that. But there were also
+sometimes little lucky changes, little lucky breaks that change the course of history.
+That in that in, in, if I speak just about some of the fundamental challenge of endovascular
+robotics versus for example, laparoscopic or orthopedic robotics, in both laparoscopic surgery
+and orthopedic surgery, you're talking about relatively rigid, straight tools. And, and that
+is more akin to what you typically think about a robot. And when you think about endovascular
+robot, you need something that is very flexible, and, and very delicate and very small, right?
+Blood vessels are tiny overall, and they're very delicate tissue. And, and, and they have all sorts
+of tortuosity to them. And so to think about a robotic solution that is useful in that environment,
+it doesn't lend itself to the typical views of what a robot is. And, and I think that's something
+that's important. And that's why a robot is not a robot is not a robot. There have been several
+attempts to robots in the field. And I think generally those have been met with relatively
+lackluster success. And, you know, the Hanson is one example over the years, they used a mechanism
+of action where they used many additional pole wires in the catheter to provide additional
+degrees of motion and earn the sheath. The challenge there is that on the one hand, that
+allows for additional degrees of motion. The challenge is when you add many pole wires,
+you make a catheter much thicker and you make it much more rigid. And that wasn't particularly safe
+and delicate anatomy. They had higher rates of adverse effects. And so that mechanism of action
+could have been elegant, but it wasn't very practical in the vascular system. It actually
+got used ultimately in the lungs. And that was probably a beautiful pivot for that, to use it
+in the lungs, which are less delicate, where you have a little bit bigger space and where that kind
+of mechanism of action could work. Another mechanism of action that has been tried is
+Corindus, which is obviously now part of the Siemens family. And while it has certain elegance
+to it, and it also has significant weaknesses that yes, it's easy to adopt, it's relatively
+a simple robot, but it mimics the human hand. It allows a physician to be seated at a cockpit,
+but really it doesn't allow in each vaginal tool to do anything beyond what it typically would do.
+You still have all the translational errors of holding and applying control at the handle or at
+the one end of a guide wire and trying to move it a meter away at the other end. And
+robotic precision at this end doesn't improve necessarily at all the movement at this end,
+because most of the challenge is imprecision that lies over that meter length. And so I think kind
+of those are some of the reasons why other mechanisms of actions have struggled. And
+as Stereo Texas, again, it hasn't been an easy path, but I think as you think about
+applying our mechanism of action in a way that is broadly accessible, easily adoptable by hospitals,
+and that can be applied to a range of clinical applications, that starts to allow you to
+change the adoption curve in a much more meaningful way.
+Okay, understood. And so we've got Gen 1 out in the market, we've got the Genesis system out
+on the market, is there a Gen 2 in the works? And is it going to be the Genesis system and
+just improvements? Or are you working on something that is completely outside of
+the kind of Genesis chassis and model?
+Yep, so we got FDA approval for Genesis exactly three years ago now, and launched it then. And
+that was really the first big structural innovation on the robot side. In over 15 years,
+Stereo Texas originally launched the NIOBI system in the 2004 or so timeframe. And then it had
+improvements to the control software and some motors in the 2010-11 timeframe to address the
+latency issue, but really kind of deal with the same overall architecture until Genesis came out
+in 2020. And we have announced that we're developing a second generation robot that
+uses many of the innovations that we made in Genesis, it leverages and stands upon those
+shoulders, but it is completely new system. And that will really provide for the ability to
+install the system without major structural contract work, architectural work, and it's
+self-shielding. So the magnetic fields are kind of contained within the robot themselves,
+so that you don't need to do a shielding of the walls of the room, that you don't need
+to do structural reinforcement of the floors. We've done things like on the power side,
+and making sure that you can use traditional wall outlets rather than have special power
+requirements. We did a range of things to make it a broadly accessible robot.
+Okay, awesome. Are you allowed to share any timelines on that at all?
+We are a publicly traded company, so I can share what has been said publicly. We just
+had our earnings call last week. So we talked about actually doing a limited launch of the robot
+in Europe before the end of this year, and expanding that launch next year.
+Cool, good stuff.
+So it's relatively in the late stages of development and the testing and then regulatory
+process.
+That's awesome. And I bet the dates from the investor call, how do you feel about
+the year results from the stereo taxes that you've just announced?
+Sorry, what was the question? The what from stereo taxes?
+The investor meeting. So I've read the notes from it,
+and I'd love to find out what your thoughts are on the last year's results.
+So I think overall, we've benefited from having an investor base that understands our overall
+vision of how we want to transform endovascular surgery, and has been supportive in that.
+And that has allowed us to have a balance sheet that is relatively
+solid and allows us to be self-sufficient. So we haven't had to raise money from the
+capital markets. We're able to fund our business in a self-sufficient way.
+And we have a very nice cadre of investors, both industry executives, healthcare specialists,
+that support us well. So overall, it's been a very supportive capital markets.
+I'd say that if I look just at last year, generally, from a revenue perspective,
+it was somewhat disappointing. We saw increased orders of our robot, but less revenue recognition
+of installations of our robot, just as hospitals have had delays in construction. And so we've had
+kind of a building backlog of orders that we haven't yet been able to fill as revenue recognition.
+So I think when you look at the optics of our results, and 2022 was more difficult of a year.
+From a fundamental perspective, I'm overall pleased with the progress we're making.
+As in most things, progress is a grind. And so we're a small company, we're advancing many things,
+both on the innovation side and on the commercial side. We're doing it in a financially prudent
+fashion. And that means that progress is a grind. Oftentimes things go slower than you wish.
+But with all of that, I think that we've made big strides forward last year. And overall,
+I think the investment community kind of recognized that in both the questions that
+they had on the earlier call and the reaction afterwards. Good stuff. So I know you've got a
+lot of faith in this company because in preparation for this podcast, I stumbled across a piece of
+information about your executive pay and copying Elon Musk's kind of model. Could you tell me more
+about that? I found that really interesting. Sure. So as you mentioned, I have a relatively
+very modest salary. And almost all of my compensation comes from a stock-based plan,
+which provides me ownership in stereo taxes at various milestones, various evaluation milestones.
+So stereo taxes is valued at $1 billion, $1.5 billion, $2 billion, up through $5.5 billion.
+Roughly, it ends up being 1% of the company at each of those milestones. So I have the potential
+to own up to 10% of stereo taxes at that $5.5 billion milestone. And I'm grateful that the board
+and shareholders agreed to a compensation plan like that. It obviously reduces significantly
+what I would take home in any given year, but it provides different type of motivation and
+alignment of interest. And I think that in business generally, alignment of interest
+is probably one of the most important concepts in business. And so being able to have a
+compensation plan that fully aligns my interests with the long-term success of the company.
+And just kind of another caveat is that those stock res, I am locked up for a 10-year period.
+And so it really kind of motivates long-term thinking, not short-term volatility in stock,
+not short-term kind of artificial inflation evaluation. And so I think kind of having that
+long-term alignment of interest, that is a beautiful motivator. And it is beautiful in
+reducing clutter, reducing kind of any motivations that wouldn't be alive with long-term success
+of the company. And in medical devices, and particularly in complex medical devices,
+you need to have a long-term outlook because what you do today, the efforts that you do today
+really only help the company for the most part in three, four, five years from now, right? You're
+always skating to a puck that is several years out. And so I think kind of having that long-term
+alignment is kind of beneficial for the company. It was motivating for me and kind of overall,
+I hope and think it's going to serve the company well.
+Brilliant. So getting into a billion dollar valuation, I know we've talked about some of
+the pillars to do with technology and innovation, but what are some of the other
+pillars that are going to get stereo taxes to a billion dollar valuation?
+So my overall goal is at five and a half billion, just to be clear, right? One billion is the lowest
+master. But I think kind of overall, right, you want to have a technology that can be broadly
+adopted, and you want to have a technology that can provide clinical value across a range of
+meaningful unmet medical needs. That's really kind of where, as I go back to our innovation effort,
+that gets to, you want to have a robot that can ultimately be installed in thousands of
+cath labs around the world. And when you have structural limitations that make it that 90%
+of physicians that want a robot don't end up having it, those are the types of things that
+you need to break down. And then ultimately, just having robots out there in the field,
+if they're not being used, that's actually more of a liability than an asset. So really kind of,
+you want to have the tool sets that allow physicians to use your robot, and to have
+great clinical outcomes, and to have successful labs, and efficient labs, and to have delightful
+procedures for them. You want to have that type of tool set that's available both in
+cardiac ablation, electrophysiology, and in interventional cardiology, and interventional
+neurology, and vascular surgery. And that's kind of, I think as we build that tool set,
+as we build the new robot, as we build a commercial organization that is able to provide
+the right level of service to customers, and is able to support them in their efforts to build
+successful robotic practices, as we're able to manufacture robots, as an operating team,
+we're able to operate the company, and run clinical studies, and run regulatory processes
+well, right? It's kind of, you need to have, a company's complicated, there's many,
+and it's like a human body itself, that you could have everything works well, if one organ doesn't
+work well, the patient dies, right? So you need to, you need to have kind of all aspects of the
+company working well together, but as you build that type of product ecosystem, and the ability
+to execute kind of on that product ecosystem, that's really what I think makes those
+types of valuation milestones very realistic. We've seen many examples in kind of the
+history of companies with relatively modest revenue, that have been acquired in the billion
+dollar plus range, because they have a robotic technology that will transform a specific field
+of medicine, and obviously intuitive surgical is now valued at nearly a hundred billion dollars,
+given the way that they transform laparoscopic surgery, and our goal is to do a similar thing
+in endovascular surgery. Okay, perfect, perfect. So we can see at the market at the minute, and
+this is not just across surgical robotics, it's across the wider market, companies are making
+layoffs, there could be economic headwinds into the future, are you seeing the signs?
+Generally, it is a tough environment, right? You have on the one hand, hospitals have been pressured
+for many years now, by COVID, by staffing shortages, by all sorts of operational challenges,
+and a financial downturn does impact our hospital customers as well.
+So generally, I think you've seen growth over the last three years at our company,
+despite us operating in a headwind like environment. And so that is a challenge. And
+then on the operating side, there are all sorts of operational challenges and cost related challenges.
+So you've generally inflation of costs of materials of various costs across the company,
+and you have challenges like MDR, and other regulatory and operational challenges that
+crop themselves up regularly. So I'd say that yes, is a overall from macro perspective,
+it has been an environment of headwinds, rather than of tailwinds. And that said, I think that,
+you know, that said, those are things that you just work through. And when you have a good team,
+and when you have a overall good product and good field, you work through those challenges,
+and you build a successful company through them. And you can't expect to build great companies
+through tailwind environments. Working through headwinds actually makes you stronger and makes
+you kind of a better company overall. So I don't, you know, focus on what you can control,
+not on what you can't control. And on that, you know, I don't think too much about macro things
+that are outside of our control. And from a, from kind of a general kind of environment,
+I think that we have been able, well, despite those headwinds,
+well, they do make like more difficult for me is that they're kind of slower than what you would want.
+Cool. And so what do you think the business stereo taxes will look like in
+five, 10 years time? What do you have as the vision for it?
+Look at how intuitive surgical transformed laparoscopic surgeries between 2000 and 2010.
+I hope that we do the same thing over the next decade.
+Okay, cool. And what do you think about the wider surgical robotics markets? I know we're only
+focused in endomascular here, but this podcast is about all the surgical robots, no matter what
+indication they go into. So what do you think is going to be some of the key trends and drivers?
+And what's the future of robotic surgery look like?
+Sort of think if you look at laparoscopic surgery and orthopedic surgery, to that extent,
+you're now having, you're moving from an environment where there was one robotic solution
+to having multiple robots that are relatively competitive with each other. And so that's kind
+of, I think there's easily a dozen laparoscopic surgical robots that are either on the market or
+in development. Intuitive surgical still has kind of a significant lead over the competition,
+but they are being chased by many competitors. And in orthopedic surgery also pretty much every
+company that operates in the hip, knee, spine surgical field has to have a robotic solution
+or they're viewed as kind of behind the times. And if you think about kind of probably the biggest
+focus and evolution of robots in those fields over the next decade is probably going to be
+this development and progress on the concept of digital surgery. And so robots are being used
+predominantly still almost exclusively still for their mechanistic benefits, precision, stability,
+a safety profile, then whether the DaVinci is being used or a Mako robots being used from
+Azores being used, those are kind of the reasons why physicians use them. And this concept of
+digital surgery has been discussed a lot, but it's still relatively in its infancy. And so I think
+over the next decade, you'll see much more playing out there. And when I think about digital surgery,
+I think about really four specific things. I know these all kind of sound a little bit more like
+catchwords and they sound words that sound impressive, but don't have a lot of substance
+behind them. And it's easy to get it lost in that when you talk about things like digital surgery,
+I think kind of there are very specific things that can provide real value in the operating
+environment to physicians, to the patients, to the hospital. The four that kind of we think about
+with our own robot and that we work on are specifically image integration. So talked a
+little bit before, how do you take a range of patient specific data presented during the operation
+to the physician, the most elegant way to help in the decision-making during the procedure.
+And so kind of this kind of bringing together of disparate patient specific information,
+presenting it nicely to the physician that provides real value, I think, in the operating
+room environment, both to the physician and ultimately to patient care. And the second big
+one is automation. So if you can automate certain routine tasks during the surgery,
+that allows for reduction of risk, reduction of monotony, speeding up certain parts of the
+procedure. And I think that's kind of one where there's easily specific areas of various surgeries
+that can be done in an automated way. And that automation doesn't introduce risk. It actually
+can reduce risk from a procedure. And a third one is this concept of connectivity. Like I discussed
+before, how can you make it that a physician who's operating suddenly has a question and could call
+upon a network of colleagues that might be able to provide an insight at that moment and steer
+the procedure in the right way. So I think kind of as you can make operating rooms and connected
+labs rather than siloed labs, that provides a real value the same way that the telecommunication
+revolution for the last couple of decades has provided amazing values across our life.
+You know, kind of the operating room has been immune to that. I think we can provide a lot of
+value there. And then the fourth is this concept of big data. And we have 150,000 procedures that
+have been performed on a robot. A company like Intuitive Surgical has over a million procedures
+performed annually on their robot. How do you take all of the data from all those robotic procedures
+and turn that data into information and then into useful insights that can guide decision-making
+during the procedure? That is a tough challenge. But I think that's where ultimately that you rule
+surgical fields from fields that evolve based on heuristics and based on kind of
+sharing of information in a very inefficient fashion through conferences, through discussions.
+I'm going to try to do three procedures and see how I feel to a field that is much more data-driven.
+And so I hope kind of that also, that will be a tough one to crack,
+but I hope over the next decade we start to make some progress there.
+Perfect. I really like those. There's a lot of those words being thrown about, so automation,
+digitization of the procedures, and lots of companies are focusing on that. But getting
+into the details of it, it's very, very complex. And I'm not sure who's going to win these battles,
+but there's a lot of companies working on them. And then the final question for this podcast,
+what advice would you give to people who are looking to enter the surgical robotics space,
+either from med tech companies and looking to move into a more high technology field,
+and then also an academic level, what should these guys be focusing on and how do they enter the space?
+That is a great question and a difficult one to answer. I mean, first of all, I'd say to anyone
+who's interested, that it's a fascinating field that I fully encourage you to try to enter it.
+And it's beautiful for a few reasons. You combine medicine and patient care, which is intrinsically
+motivating and interesting. We're all ultimately patients of these technologies. Being a patient is
+still overall miserable. There's a lot of unmet medical need out there. So being able to work
+kind of pushing the boundaries of care forward is intrinsically motivating. Robots are particularly
+exciting of a technology because they combine, they're very interdisciplinary from an engineering
+perspective. You need macro hardware and microbe instruments and electronics and firmware and
+control software and UI software. And all of that has to work really, really well together with
+really kind of no margin for error because the patient's on the table. And so working with those
+ranges of technologies all together and bringing them together as one cohesive solution is very
+challenging and also intrinsically very interesting. And then the business side of it is also
+interesting. The medical device field is a complex business, unlike basic product, a cup. The
+purchaser of a cup is a relatively well understood purchaser. I want to buy a cup for my house. I'll
+buy it based on that, how functional it is, how elegant it is, and what its cost is. And to some
+extent, it's a simpler marketplace. And if you think about medical devices, it's a complex
+marketplace because the purchaser isn't a specific party. It's usually a collective mix of the
+patient, the physician, the provider, the hospital, and the payer. And all four of these kind of key
+parties to the equation each have their own incentives and disincentives in adopting a
+specific technology. And you have to think about all of that. So building a business in this field,
+thinking about commercialization, thinking about the regulatory challenges, the manufacturing
+challenges, the various organizational challenges, that is a complex business. So I think when
+you combine kind of medicine, complex technology, a complex business field, that lends to kind of
+actually a fascinating area. Practically, I haven't given you advice on how to actually enter the field.
+As I don't know, each of us said they have to kind of find our own way. And personally, then
+I'd say that maybe the two things that have kind of helped me the most in my own
+personal career over time is one is I interned. And wherever I had an opportunity to work,
+I would kind of join being motivated by what is going to challenge me the most and what's
+going to teach me the most versus trying to optimize any short-term earnings. That's why
+probably I entered similarly to the co-op structure I did here, because I generally haven't
+been motivated by short-term earnings. I've been motivated by where can I learn the most,
+where can I be challenged the most? And so kind of that generally has, I think, served me well.
+And then the other thing is this concept of not being afraid of moving forward and not to allow
+yourself to freeze in life. There's a beautiful, it's a rabbinic saying that says that the entire
+world is a very narrow bridge, and the important thing is not to be afraid. And I think kind of
+that concept of you can always freeze in life. All of us are afraid. You know, kind of as CEO
+of a company, you can look at me and say, you seem confident, you seem this. All of us go through
+fears and go through challenges. And up till probably the president of a country, the prime
+minister of a country, everyone has doubts and concerns and fears in life. And I think kind of
+one of the important things is to be able to recognize those fears, not to subdue them,
+but to be able to kind of advance despite them. And so I think kind of if you have those two
+mindsets, probably more generally, that's going to serve people well in life.
+Fairfax. Thank you very much, Dave, for joining me on The Surgeables Podcast. It's been a pleasure.
+It's great. Thank you very much, Henry.

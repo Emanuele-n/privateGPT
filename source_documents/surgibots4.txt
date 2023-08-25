@@ -1,0 +1,782 @@
+Welcome to the Surgery Bots podcast, the show where we explore the latest
+advancements in surgical robotics and how they're transforming healthcare.
+Every two weeks we sit down with a guest who is at the forefront of this
+incredible space. Surgical robotics is changing the way we approach surgery. Our
+guests are going to share their experiences and insights discussing the
+challenges they've faced and successes they've achieved. We'll also delve into
+the latest trends and innovations, exploring the newest robotic technologies
+and how they're being used to improve patient outcomes. Whether you're a
+healthcare professional, a researcher or just interested in the latest
+advancements in surgical robotics, this podcast is for you. So join us as we
+explore the world of surgical robotics and discover how these cutting-edge
+technologies are shaping the future of medicine.
+Hello and welcome to today's episode of the Surgery Bots podcast. In today's
+episode we sit down with Pedro Costa, who's CEO of Interventional Systems.
+Within Interventional Systems, Pedro has started off as an engineer, wore many
+hats within the business and growing up with the company, to very recently take
+on the CEO step. In the episode we talk about the various different partnerships
+that the company has, the multi-platform indications that the system can be used
+for and the benefits of low-cost robotics and different ways you can take
+it to the market. So without further ado, I hope you enjoy this episode.
+So welcome Pedro to this episode of the Surgery Bots podcast, it's a pleasure to
+have you here. Likewise, thanks for inviting me. No problem at all. So
+first off, can you give some context to the audience, give me a snapshot resume
+if you will. Well I'm a Portuguese 31 year old biomedical engineer. My
+background is, as I said, just in engineering. I have a specialised in
+medical devices and after university I've had a small stint on research in
+cranial neurosurgery and this kind of propelled me to join Interventional
+Systems in 2016, moved to Austria, was able to run a couple of projects
+within the company. The most exciting project was when we developed the
+Stealth Autoguide robotic system and then moved back home to Portugal, living
+on the seaside, which it's a big part of my personality and something I love
+a lot to talk about, as you know. And since then I've been part of the
+product management team at Interventional Systems and recently was
+asked to take the helm of the company, which very much humbles me and
+makes me very happy since I'm here, almost since the inception. Being the
+third oldest in the company thus far, even though being relatively young, it
+has been a great opportunity to be part of this journey. Fantastic. So who are
+Interventional Systems and what do you do? Interventional Systems is a medical
+device manufacturer of robotic, miniature robotic devices. We have
+started as an interventional radiology and oncology company, so our goal was to
+aid on the positioning of biopsy needles, ablation probes, catheters or any kind of
+instrument that you insert percutaneously in the body. However, when
+we developed our technology we understood that the right positioning
+for our image-guided system was on the minimally invasive surgical
+space. So we ended up, we started with a system that was indicated for radiology,
+but we very fast pivoted technologically to a surgical platform because we
+believe that we can more or less standardize the workflow based on any
+kind of image guidance solution. And that's where we're headed. We are
+an Austrian-based company. We have several offices across Europe and our
+focus is and continues to be on supporting percutaneous procedures the
+best way possible. A very innovation and R&D focused company. We are starting our
+first steps on the commercialization. Even though we are a ten-year-old
+company, we have always been very much focused on innovation and R&D. That's
+what the heart beats for. And ultimately we are a company that is
+focused on, of course, commercializing our products in our core markets, which
+currently are the interventional radiology and oncology markets and
+kidney stone management markets, but also through strategic partnerships such as
+the one we have with Axelas for spine surgery or the one we've had with
+Medtronic for the cranial project, which I mentioned before. Fantastic. So take me
+back to the beginning. How was the business formed? So I was not there at
+the time. We had two founders, Dr. Michael Vogele and Thomas Pfeiffer. He was the
+original CEO and Thomas is still our CFO. The company spun off out of Electa
+actually. So Michael had founded his initial company, Medical Intelligence, and
+I don't know if you've ever heard about it, the Exapod couches for
+patient positioning in radiation therapy. He was the inventor of it. His
+company developed it and the company ended up being acquired by Electa and at
+the time Electa was solely focused in radiation therapy. So Michael got the
+rights to the IP that already, the initial IP for the robot was developed
+at that time and he spun off and created the interventional systems with
+Thomas and we are here since then. So we reverted a bit the challenge, which was
+in the beginning we positioned the patients and now we thought, well, how
+about positioning the instruments instead? So that's how we started. So when
+you joined the business, what did the business look like and how's that
+changed over time? We were a very, very small company. During the first years
+even our R&D was in cooperation with a competence center called Atmit in
+Austria. We had a very tiny and lean structure as a company. I joined the
+company specifically for the cranial neuro project because it was the big
+first milestone for the company. In the early days it was all about, you know,
+research and clinical validation, initial clinical trials and so on. We did have
+some interesting market pull, mostly from distributors across the world, because we
+do have a cost-effective solution, a very inexpensive robot compared to the
+typical industrial robots style you find in the market. So a lot of traction was
+happening, but of course the market was not ready at the time. So we ended up
+having a very good engineering team in place, basically no marketing and sales
+at all, even though there was interest in the market. And I joined specifically to
+help and to work in the cranial neuro project and therefore at the time we
+were solely focused in R&D and that's what I joined to be an engineer
+essentially. Okay, so you're kind of a homegrown talent within the business. You
+joined as an engineer, you've gone through your journey with the company
+and now taking the top step of the CEO. So tell me about the journey you've been
+on and how that's equipped you for taking on this challenge. Well, if you
+join a company when basically you are four or five people you got to do a bit
+of everything from basic administration to project management to actual coding
+and other things. It has been a very good experience because when we joined
+basically the culture Michael and Thomas created at the time is that if you
+have the capabilities, if you have the willingness and if there is the space
+you can do more things. So ultimately as I'm a very hyperactive person in work I
+like to do a lot of things and if I see something undone I like to go there. I've
+had the chance to experiment a little bit. So when we started the project I was
+contributing as part of, you know, I had a very strong foundation on the research
+and the cranial neurosurgery workflow. So the clinical part was more or less
+something that I started with. Risk management related stuff, requirements,
+testing and so on. But at the time we were also asked to well improve, bring
+our quality system to a level that a big strategic would be comfortable with in
+terms of a product developed within that quality system. So eventually I was
+asked to take care of the quality system, processes remediation. This allowed me to
+connect, you know, with the operations team, with manufacturing, quality,
+customers. And when you build such thing you build an armamentarium of
+information and know-how that helps you throughout your journey. And ultimately I
+came out of that project which I ended up leading to the end. As somebody
+that was basically deep into any topic of the company, be it operations, be it
+marketing and sales. And it was kind of a natural route. I helped develop this
+product so it was natural to end up being the project the product manager
+for the product. And of course with more and more responsibility and a bit
+of experience and being exposed proactively by the management to more
+business related and management related topics it was kind of a natural
+progression. As we are a product driven company, R&D driven company, it was
+natural that, you know, the successor CEO would be somebody that
+was coming from the product side. So I was very lucky that somebody, you
+know, took the chance to believe in an inexperienced Portuguese guy and at the
+same time give them the opportunity to learn and to advance. So it was,
+it's been very interesting. So MicroMay is the robot. So talk me through the
+technology and how it's unique. We started this where everybody started,
+with these large industrial robots, you know, pedestal based, mounted next to the
+table. We tested all of them, the Stoevler robot, the KUKA, the Pumar,
+everything. And when we looked at it we thought we can either be a
+software company that takes these typical robots and makes a design,
+incremental improvements on software and some kinds of adapters and they try to
+sell off the company, or we go for groundbreaking innovation. So MicroMay
+is something that came out of a wish to do a different robot, a better
+robot, a robot that really fulfills the needs of a physician. It's a very small
+robot, more or less the size of an iPad mini, mounted to the table through a
+multifunctional arm, which is kind of a passive holding arm with seven
+degrees of freedom. And the basic concept of the system is that it works
+collaboratively with the physician. The physician is asked to manually position
+the robot close to the region of interest. This is what we call gross
+positioning. And then the fine alignment is done through, remotely, under
+joystick control, either with a joystick, manually, or with automatic movements
+based on a pre-operative planning or interoperative planning. The system
+can have, optionally, a camera for optical tracking and a workstation, where
+you can load DICOM data, plan the trajectory or trajectories, and then
+command the robot from there. The system is compatible with CT imaging, cone beam,
+CT fluoroscopy and fluoroscopy. We are working on developing the compatibility
+with ultrasound. And we look at it as, let's call it, a smart tool holder. You
+know, you can even say that it's not even a robot in the end, because it's a... we
+call it a robot because of the actuation, motorization, and so on. But what we
+really see is that it's an extension, kind of a third arm of the physician,
+because the moment you have an image and you plan your trajectory, where you say
+look, this is where I want to enter the body, this is where my needle needs to go,
+with this trajectory I want to go through these structures, I want to avoid
+these structures, based on my planning, the robot defines this accuracy vector
+in space, aligned with which you deliver your instruments. And that's basically
+what it is. And the rest of the features we have are related to things that we
+identify that are important for image guided procedures. So, we don't have
+reusable parts, all is disposable, because we try to keep things low-cost, especially
+for the radiology market. The frontal part of the robot is fully
+radiolucent, so you can image in real time and make corrections. This is one of
+the most fundamental features we have. The fact that you can, at any point in
+time, take a scan, or turn on slow-mo, or in the future have ultrasound connected
+to the system, to see in real time where your target and instruments are, and
+correct in situ what you are doing. Basic robotic solutions are nothing more
+than navigation systems that allow you to overlay visual cues over static,
+outdated images, based on navigation. And we don't want to do that, because it's
+like we are always working in the past with the robots, right? You take a scan,
+you plan it, and you start navigating with those static images that do not
+show you anything about what's there. So we really designed the system to fit
+inside the gantry, to be small, to be able to work with live imaging, because we
+believe that this is what's gonna yield better accuracies. And the truth is, it
+does. We provide some millimetric accuracy on procedures that are
+fluoro-enabled, and this comes for sure from the fact that we can and are
+able to do corrections throughout a procedure. Okay, so the MicroMate
+supports a range of different surgeries. Can you talk more on some of the
+surgical indications for the robot? So we are a classroom device that is
+cleared for any image-guided procedure, from head to toe, as long as you use a
+needle or a needle-type device. This means that if you are buying the system
+or using it, one day you can be doing a lung biopsy, the next
+procedure you do can be a kyphoplasty, afterwards you can be using it to place
+a guide wire for an ortho procedure or spine procedure. As long as your
+approach is with a needle or a needle-type device, you're good to go. As I
+mentioned before, our focus in the core market has been in interventional
+radiology and oncology, because this is where we started and, you know, we really
+love this field, because it's a challenging field for a robotic device.
+But we also commercialize a system for kidney stone treatments, so the procedure
+is called percutaneous nephrolithotomy. It means that you do a percutaneous
+access to the kidney, so that you can use the needle as the main access point to
+then deliver a guide wire and an endoscope to treat kidney stones. But we
+do have a lot of work done in other areas, like pelvic trauma, extremities,
+fit and angle, you know, small drilling and small guide wire placement. These are
+things we we've been doing. On a typical day, a radiologist with the system will
+do a lot of biopsies, potentially a couple of ablations, you can do drainages,
+you can do embolizations, as long as they are percutaneously. So ultimately,
+the system does not have a single indication. It's an IR tool for IRs to
+the targeting, and for surgeons it can be a targeting tool for their own procedures.
+We understand that for some applications you need special clearances, like for
+example spine surgery or whatever, because you need to link this
+to a specific implant or to a specific workflow. But luckily in the IRAO space,
+and most of the spaces outside orthopedics, you don't really need to
+have special clearances for it. So you can use it for whatever, as long as it's
+percutaneous and a needle type device, you're good to go.
+Okay, so talk to me about some of the biggest benefits. You've talked, you've
+touched on a couple of them, but what's the benefits of the patient, what's the
+benefits to the surgeon, and what's the benefit to the health system?
+So let's start with the patient, because that's what matters the most. We
+support percutaneous procedures. These are less invasive procedures. Usually
+with a needle, you just need to do a very tiny incision or even push the
+needle directly through the skin. The fact that you have a much smaller
+incision means that usually these procedures are done in an ambulatory or
+outpatient setting. So the patient walks out in the same day, worst case stays in
+vigilance overnight and walks out. It's also a system that allows you to do...
+So we have been able to prove at our customer base that Micromate allows
+procedures to be up to 20% faster and use 44% less radiation, because
+targeting is much faster and much more precise, so you need to do less control
+scans along the way. This for the patient means that there are less time under
+anesthesia, means that you are doing less corrections, which means less punctures
+through the skin, again less invasiveness. And of course in terms of
+radiation, we don't want to expose the patient too much to radiation and
+therefore this is one of obvious advantage. For the health system
+and for even payers, we also need to consider that the system is very low
+cost, so our price point is at 200,000 euros. This allows a relatively
+fast return on investment, especially for high volume, if you increase your volume
+of procedures, which you can by having a faster workflow. The
+disposables are also close to 100 euros per case, so this allows to pay for the
+system within the existing relatively low reimbursement that exists for these
+procedures, which means that health systems and even payers will benefit
+from this, because you can offer better treatment, better outcomes, without
+incurring into very damaging costs or investments, because it's
+important also to maintain the economical safety of the health system.
+And for physicians, we're talking about doing faster procedures, being able to
+have a hardware and software assistant for challenging
+procedures. We are talking about movable lesions or very oblique
+trajectories or approaches to the body that sometimes require you to be in
+non-ergonomic positions or require you to take a lot of time to put the needle
+in the right place. The system assists you with that, because it's there, it's
+holding the needle, you can image at any time, so you will do it much faster
+and more precise. Okay, and talking more on that price point then, so you could go
+down the 200,000 euro price point and buy the system outright, but I also
+saw that you offer robotics as a service. Could you give me a bit more information
+on that? Well, I think, I like to use this statement because everybody says
+after COVID, but it's true. After COVID, there is basically no stomach or very
+little stomach for capital acquisitions. The investment that the health systems
+needed to do to recover the services or even to keep up with the disease
+treatment and with the waiting lists and everything, basically means
+that there is not a lot of money for capital acquisitions, which basically
+makes the wholesale process slower and even physicians that really believe in
+technology, champion it, they need to go through a long approval process and
+maybe, you know, they need to reprioritize, do I need a robot or do I need
+sometimes, you know, a new ultrasound machine that can be used for many more
+things. So, what we try to tackle here is these capital budgeting
+constraints and by offering robotics as a service, you are able to subscribe to
+the system. So, it's kind of a pay per month subscription. We have three
+levels and you can pay kind of a variable amount based on the case volume
+you want to get covered. We ship you the disposables, they arrive at your hospital
+on time for the next month and you just pay per month. You don't need to pay for
+the system, you just pay this kind of subscription. This allows us to bypass
+these constraints and make a physician informed decision. Of course, they always
+involve, you know, whoever owns the budget and the rest of the staff, but
+ultimately there is operating budget that they can use to immediately get
+return on their investment, because if they need to make smaller investments
+monthly, with the efficiency gains they have with more patient
+throughput, less operative time, less complications, they can start paying for
+the system right away. And ultimately, they can acquire the system. It's not
+really a leasing model, but you know, what we will do to a customer is, if you
+have paid half of the system in subscriptions, we'll give you a large
+discount and you can pay the rest of the unit. We just want to make sure it's
+accessible, it's available to you and we will not push any customers or hospitals
+to go into very strange, you know, financial solutions to acquire the
+technology. We want it to be available, we price it at a point
+that it is competitive, it allows us to run a relatively good business,
+but at the same time allows hospitals to pay a fair price for good technology.
+Cool, and do you produce your own instrumentation in-house as well, or do
+you use off-the-shelf instrumentation? The system is agnostic, tool agnostic, so
+we connect to any imaging device as long as they support direct
+connection or PAX connection, and we can guide any instrument from 8 to 21 G, but
+our regulatory clearance also allows us to customize our tool guides to
+different geometries or different diameters. Right now we didn't have the
+need to do it, but we can. So we don't have instruments, we don't have
+therapeutic instruments. The way we see robotics is that it should be an
+enabling technology, so it's something that you plug into your workflow as is,
+as seamlessly as possible, to use the same instruments used now. So let's say
+if you are using Surgibots, if you have an ablation company, you have a
+Surgibots needle, we would fit and we'll be able, as a physician, to take the robot
+and use your preferred needle with the system. We don't force you to use any
+instrumentation, what we offer you is a tool guide with the right dimensions
+that plugs with the system, it's a disposable tool guide, and then it
+basically, this is the tool guide we align with the surgical trajectory you
+defined, and then this gives you a working channel for your instruments.
+Cool. How many systems are out on the market at the minute and being used on a
+regular basis, and what kind of clinical number are you getting at the moment?
+So we have done more than 4,000 procedures since we launched technology.
+We have currently installed nine interventional radiology and oncology
+systems. In the world we have eight to ten installations lined up for the next
+year and a half. Of course, we don't only sell systems in the
+interventional radiology and oncology alone, we also have our ventures with
+Axella in Spain, and we also have a couple of joint ventures in China in our
+core markets. Given the fact that we don't run the business, I'm not allowed
+to disclose how many units we've sold to them, but we are able to sell
+through these two lines. And in terms of kidney stone
+treatment, we've just placed our first system last month. So we are in the, as
+you've seen, we launched Lark Robotics, which is our subsidiary that's going to
+run this business, and we have our first installation in Austria, close to our
+headquarters, and it's just the infancy for that.
+Perfect. So you talked about a couple of partnerships there, so let's go into a
+bit more detail. So what's the partnership with Axella's like, and what
+are these JVs like in China?
+I'll start with Axella's. In 2019, we basically identified that the spine
+market was in need for some, not only economical innovation, but you know,
+something that would address the constraints related to practicality and
+cost of having a robot in the OR. Similar to other fields, you have large
+robots, large footprints that force you to work contralateral to the system that
+do not allow you to use live imaging, very expensive units, and that were not
+really suited to the ASC market. And we have identified it was the right moment
+in time to work in this field, because ASCs were ramping up. Nobody really had a
+strategy or was able to penetrate the ASC market, the global market, so the
+out-of-US market. And we thought, look, we have the right footprint, the right
+price point, and we have just validated our technology for cranial neuro. What's
+good enough for the brain is good enough for the rest of the body. So we partnered
+and teamed up with very seasoned individuals in the spine markets. We're
+talking about Breath Clayton, everybody knows him in the markets, one of, you
+know, big institutions in the field. Dr. Kevin Foley, we have, as part of Fusion
+Robotics, which was our initial venture, also as an investor and partner in the
+business, Alex Lukianov, which was an invasive CEO for a long time and also
+running Sofomorganic before Medtronic's acquisition. So it was, we have big names,
+good technology, and we developed this Fusion Robotics system at the time. This
+was a true partnership between these two entities. We, of course, understood that
+the robotic system cannot live alone. So we teamed up with a company in Florida,
+Integrity Implants, they have the Flarehawk cage system, and they have, you
+know, the rest of the tool, the spine instrumentation, screws and other types
+of implants. And we teamed up to form Axellas. So Axellas ended up being a
+merger between our joint venture Fusion Robotics and Integrity Implants. And now
+we are running the business through Axellas. Interventional Systems is, at
+this moment, of course, shareholder of the company, but also the exclusive
+robotics supplier and robotics R&D partner. There is an R&D team there, but
+we are also cooperating on a daily basis with them. And that's how we run the
+business. In China, things are a little bit different. Usually, I think almost
+every robotics Western company either crossed the opportunity to partner in
+China or did it, because it's a big market, but it's a market that has its
+own dynamics. There, usually, you look at things in a way that you want to have a
+domestic product, because it makes the NMPA, so it's called the China FDA,
+registration much smoother if you have a domestic product. So usually what
+happens is that you team up with an implant company, and you develop the
+product locally for this market. So we partnered with a company called Ningbo
+Higran. They are not only a spine surgery, but also an interventional spine
+and sports medicine company. So this allows us to, with one registration, to
+tackle more markets. And we created a company called Sino Europe Microrobotics.
+And basically, it's the same thing. We are a shareholder of the company, robot
+supplier, R&D supplier. So this is how we work there. And there are then
+different models. You can work in some fields with a true license, plus
+royalties, you can work in a JV style, JV being the most normal way to do it.
+Okay, so it's quite obvious why the China partnership happened. But why not
+go direct in the US market? What's the big benefits of going down the
+partnership route?
+Well, implants run the business. I think robotics have been used for a long time
+to lock the business, meaning that you have a robot, this robot has certain
+capabilities, and you make sure that this robot, that it can build and
+establish exclusivity frameworks around your implants. So the robot is nothing
+but an enabling technology to allow you to target the body in a more accurate
+way, but also to place your implants according to your surgical plan to lead
+to better outcomes. The robots are not reimbursed, implants are. So
+ultimately, who runs the business are the implant companies. And there has been
+even before we started working there, there has been a consolidation in the
+spine market where any company that has robotics also has implants and implants
+are what makes the business. We were not an implant company. So for us, it was
+obvious that we needed to partner. And when it comes to developing the robotic
+system and the navigation system, the spine market has its own dynamics, you
+really need seasoned professionals that know how to sell there, that know how to
+run the business. And we were, and continue to be, a company that was born
+in the radiology world. We did not understand, understood, we did not
+understood, we did not control the dynamics of the spine market. And having
+the chance to partner with people like Dr. Foley, Brad Clayton, and others, gave
+us not only the depth and expertise, but also the impact in the field. If they
+sign up for this, also shows that it's good technology that is serious, they
+are putting their seal of approval on it. And for us, it was obvious that if we
+want to really make an impact upfront, and that we don't spend a decade trying
+to get in, this was the way to go. And ultimately, I like to partner, that's
+where you create more value. If you don't partner, you will always spend much more
+money, spend much more time to build everything in house. And then you're
+like, you know, that a hoarder that keeps everything in your house, and you
+don't let anybody come in, and we don't believe in it. We have an open-door
+policy, we like to partner, we want our system to be used by as many people
+as possible. And if you can make it faster by partnering, why not? We'd
+rather participate in a very, very big business with a small percentage than
+owning a niche that nobody buys into. Okay, so some companies are more like
+that private closed door, where they like to keep everything internal and develop
+the in-house. So with these partnerships, what opportunities do you see in the
+future? And why should more people look to do the partnership route?
+Well, I think I'll start with your last question. I think it's for a small
+company, for a company that is in a scale-up phase like us, there's not
+really a choice. Either you really have, you specialize in a field, and you
+basically limit your capabilities to one indication, one field, you raise a bunch
+of money, you burn all that money into building a product, into using brute
+force to make your product penetrate a little bit, and that's it. And then you
+try to sell the company, or you try to build a sustainable business. And I
+believe that, you know, if you look to it throughout history, all businesses in
+capitalism end up consolidating somehow. The medtech market, and the spine, or
+radiology, or whatever, they are no different. They will, the same thing will
+happen. And specialization will, of course, limit the amount of things you
+can do, but also increases, gives you an upside that is immense, because you are,
+you become a specialist on something. We are specialists in robotics, that's what
+we do. And therefore, we believe that all companies should be open to do such
+things, because this will allow them not only to get access to new fields they
+wouldn't explore otherwise, it will give them the possibility of, you know, even
+a minimizing risk. Because if you have many horses on the race, with different
+ways, you are exposed differently in the market. You can then go to a very risky
+market, like the international radiology and oncology market, because, well, it's
+not that rich of a market compared to orthopedics and spine. But you can also
+go to an orthopedics and spine market with a good partner, that gives you good
+business, and that allows you to differentiate. And I think we owe it to
+our shareholders, and ultimately, we also owe it to the patients. If we have good
+technology that we think that can help them, why shouldn't we do it? Right? And
+that's why we decided to do this. Ultimately, we see ourselves as a
+robotics company that we have a platform, and you cannot say you have a platform
+if it's not being used. And therefore, there are limited resources, limited
+time, limited people. So why don't we really partner? And that's how I will
+look at it. I think robotic companies are starting to realize that because you see
+more and more this kind of cross pollination between fields and between
+companies. And I do expect that we'll see more of these in the future. And
+ultimately, the big corporate companies will want the technology and the
+technologies to be available. And the more differentiated you are, the better
+you are positioned for the future. Because ultimately, if you are in seven
+or eight different fields, and these fields overlap with a strategic, it makes
+you a much better target for a potential exit or acquisition or close
+partnership, whatever it is. So it's about creating really good
+opportunities to put technology out, to offer technology to patients, but also
+to position your company for the future that's ahead.
+Okay, so what do you think is the biggest growth area for the business?
+What indication do you think has the most market potential?
+Well, the two markets we are in, we see great potential on it. The radiology and
+oncology market are... the case volume is immense. Usually technology goes where
+the biggest challenges are. And in percutaneous procedures in radiology and
+oncology, you are dealing with small lesions, sometimes hardly visible,
+sometimes movable, in deep tissues close to critical structures. So the
+technology will grow there. And you see that we have currently five players in
+the market with some more incoming, with different technologies, large robots,
+small robots, patient mounted robots, electromagnetic navigation, optical
+navigation, all these exist. And this is a high growth market. And we were happy
+to be positioned there. Then I would say that anything that is a percutaneous
+treatment on the surgical space is a good growth area. We moved to the kidney
+stone management area because we see that there have been basically no big
+groundbreaking innovation in the last 40 years. And it continues to be very hard
+to do a puncture in the kidney accurately. And we believe that with our
+system, we can offer a validated, very easy to use and accurate solution to this
+targeting. We see that this is kind of validated as well by the fact that J&J
+has moved to this market and deployed the Monarch system for it. And I would
+say that there are other fields that are very interesting. And people, if you
+look at robotics, you see where things are going, you know, the ENT side, some
+robotics are appearing there for ear surgery. You see that orthopedics,
+orthopedics companies are looking throughout other procedures other than
+big joints, because, you know, these customers are used to use robotics, but
+they use it only for joint replacement procedures. We look at prostate care,
+BPH, benign prostate hyperplasia. This is something that has a big traction. So
+ultimately, anything that can be done percutaneously is big. I do see that all
+areas will have robotics eventually. I don't think we can get out of it. I think
+in 20 years, we'll be looking at somebody and saying, is this guy not
+using a robot? But I also think we need to understand that robotics are not a
+silver bullet for solving all problems. They have a tool, we have a
+specific set of tools, we solve certain problems, but we need to be part of a
+certain market. So ultimately, robotics adoption will not be driven by robotics
+alone. It depends on instrumentation, it depends on the amount of clinical data
+you can gather, it depends on even the business dynamics. You know, robotics are
+big in some areas because ASCs appeared. So anything that is done in an
+outpatient setting, in ASCs, this is a good target for robotics because it's
+all about efficiency, better care experience, better outcomes that the
+patients don't stay overnight. So if you are, you know, anybody that is starting a
+company and working in this space, the ASC market is where we want to be.
+Okay. And so let's move on from the technology and the patient, let's move
+on to like the business side of things. So how's the business historically been
+funded up to this point?
+So we've had for a long time, our family and friends rounds pre-series A private
+placements. So the company was run private until 2019 or 2020. We had our
+series A in 2020 when we had our first institutional investor coming in. And we
+are now doing a fundraiser series B. And of course here, we believe that we'll
+have more venture capital coming in. In the past, we've been funded by, you know,
+selling the license sales and the R&D investments through partners, European
+funding, and all the typical thing any robotic company would do, I would say.
+Okay. And so this series B then, so what's this money going to help with?
+What's the next stage for the company?
+We will, we'll take the money and basically divide it in two main routes.
+The first route would be to accelerate commercialization of the Micromate
+platform for radiology. So our goal is to increase our marketing and sales reach
+and be able to basically initiate commercialization efforts globally. Not
+only in the US as the main market, Europe as the second prior market, but also
+outside these main markets, because it's part of something we really want to do.
+And of course, we need to continue developing the technology. And another
+part of the proceeds are going to be used to ramp up our kidney stone management
+business through the establishment of greater, bigger operations at Lark Robotics,
+being able to have our own clinical team and sales team for it. Our goal is to be
+able to kind of morph the company into a structure where interventional systems is
+the operations and R&D brain and heart of the operations, but then be able to
+establish different commercial arms that are specialized in the fields we want to
+support. So ultimately it's going to be on these three main areas, operational
+excellence, R&D excellence and commercial excellence.
+Okay. So these spin-offs then, so how's that going to work? Are they going to be
+kind of standalone companies that have their own identity and culture and
+Micromet are producing the interventional systems, even are producing the research
+and development and the technological capabilities, or is it going to kind of be
+one business, but under two umbrellas?
+It will depend. So this can be independent business units and independent companies,
+or they can just be in internal departments at interventional systems. It
+depends on the business maturity. It depends on how you position yourself. I
+give an example. It may not have nothing to do with business or the product itself,
+but if we try to sell to a urologist for a kidney stone treatment, there is somehow
+some politics between radiologists and urologists about who owns the patient, who
+does the access, urologists want to become more independent. And I think you
+understand if we position ourselves as an interventional radiology company, trying
+to sell to urologists to do a kidney access, you start immediately in the wrong
+foot, because they'll think you do it like a radiologist to do it, and they have
+other needs when they are doing the target as a urologist. So in some areas, we
+really want to make sure that this is an independent business unit with its own
+culture, with individuals that are experts in the area that are recognized by the
+customer, so that we can have this brand established. In some other markets,
+especially the ones that are emerging, there is maybe not big interest on
+spinning off too early, because this company will be in the market for a long
+time, and the adoption will not be as big. So for us, maybe in that case, it's
+more interesting to continue running a specific department or team inside
+interventional systems. So we are very flexible on the structure, and we are
+lucky that our investors and shareholders really have, are very open-minded in
+concept. But the way I look at it in the end is, a surgical platform company needs
+to have different ways of making the technology available to the different
+markets. If it's an independent company and an independent department, or just a
+pure distribution with a partner or strategic, these are different models we
+are open to explore.
+Okay. So historically then, what have been some of the biggest challenges that
+have faced the company?
+Well, money is always something that all startup companies need to deal with. You
+have always a limited runaway, and you need to be very mindful of the
+investments you do. You need to be very careful on how you manage this. I think
+the biggest challenge for any robotics company that starts from an R&D side, and
+not from a pure commercialization side with an existing technology, for example,
+with an existing technology, for example, like we did with Fish Robotics or
+Accelos, the robot was there. So it was all about commercialization, right? For
+us, the challenge was, how do we really don't show that we love this technology
+too much, right? We need to be very clinical. We need to be very scientific.
+We need to avoid all this typical marketing talk and so on. You know, we as
+a company really made a big effort to avoid being too technical and too
+engineering, if this word exists, talking with customers. For us, we needed to do a
+big effort on understanding the clinical challenges. Some of them are really much
+simpler than what we thought initially, and we had overkill engineering solutions
+for it. So for us, it was about finding the right level of complexity and
+technological features we put in the product to keep it simple, at the same
+time as we keep it valuable. So this was a big learning for us, and we needed to
+handle, of course, it's very hard to find talents and we cannot pay as the tech
+companies, you know, the software companies, Google's, Amazon's that have
+offices everywhere. The funding level for our companies is also not the same. The
+return on investment for investors is not the same. So you don't get the same
+type of investment in an internet company or a pure software development
+company in the consumer business you'll get, which means that talent is somehow
+scarce. So we needed also to figure out a way of having a kind of spread out
+company throughout Europe, throughout different offices to be able to get good
+people, get good talent around, because ultimately, it's very hard to find in a
+certain place the right, there is no kind of Silicon Valley in Europe, you know,
+where you get everybody and you just go into a coffee shop and you find the next
+brightest guy that's going to solve your problem. Here it's a human resource and
+recruiting is a big, a big challenge. It's something that we that we always
+need to be pay a lot of attention because your team makes your company
+ultimately.
+Yeah, definitely. And so right now, what are the biggest challenges facing the
+company?
+So at this stage, the challenges are all about, you know, continuing to do big
+R&D efforts at the same time as we are starting our commercialization efforts.
+Sales cycles are long, which means that, you know, you have a product in the
+market, but doesn't mean that your revenue picks up at the same time as you
+are spending in R&D, especially the more specialized you get, the more expensive
+things are. So of course, you know, it's always again, like I mentioned from the
+past, you need to balance and manage your resources appropriately. I think
+in terms of challenges, I don't think we really face big challenges here, except
+the fact that we want to do a lot of things. And we have a limited amount of
+people in the company. So it's always, okay, what do we prioritize? How do we
+push? How many people do we send to support a certain case? It's more how we
+organize our day and organize our operations and priorities for maximum
+efficiency. So as a company, we've had, it's always important to be very
+mindful in how you build your commercial team. And I think that's
+something that we try to be very careful with, not because it's expensive.
+Growing commercially brings exponentially increasing costs and
+demands to other company departments. If you have a sales team, your marketing
+team needs to be supported. You need to have a very clear roadmap. You need to
+have your engineers up and running and your service team ready, because once
+you put yourself out there, you need to fulfill your level of service. So the
+challenges here is really finding the right people for the right stage of the
+company. But this is normal. I don't see it as a problem. I see it as a welcome
+challenge we have ahead because it shows that we are mature, that we are in a
+level where we can think about these things now.
+Okay. So are you seeing any signs of the economic headwinds? There's a lot of
+negativity in the market at the minute with a little bit of positivity from
+certain areas, but are you seeing the signs yourself at the moment?
+Yeah, I think everybody sees it. Ultimately, you know, the most important
+thing for us is also to ensure that everybody, and here I'm not even talking
+about the business, I'm talking about the people and we'll sellers who are
+responsible for, we really see that we need to be also socially responsible to
+our team and make sure that they go through this phase in an appropriate
+fashion. So we try to make sure that we don't affect them or that the team is
+not affected by, you know, increasing costs related to energy or to equipment
+and materials. We want to make sure everybody has everything they need to
+work with and that we keep paying good quality salaries to keep good quality
+people with us. This is the first thing. And you see it because it's around you.
+You see it in our family, in your colleagues. It's normal. In terms of the
+end customers, I believe that we are very well positioned here with our price
+point because we don't really see a pushback in terms of pricing and price
+per procedure and subscriptions. I think we found a good sweet spot that still
+allows hospitals to see this as a good investment. So commercially, we are
+seeing zero backlash based on the economic headwinds. On the investment
+side, I believe this is something that everybody that is fundraising at the
+moment sees and feels that funds are also trying to fund themselves. So the
+timelines need to align very well. And of course, you know, when the discussions
+enter, you know, valuation or the amount of funding and for what you are going to
+use things, these are things that you need to pay extra attention to because
+it needs to be done in an appropriate way. So we do see that funds
+are more careful and want to really bet on the right horses. And when it comes
+to people, it's about keeping a good balance between what we are doing. And
+luckily, commercially, we are seeing no backlash at all, which is good for us.
+Yeah, very good indeed. And were you affected by the Silicon Valley bank
+collapse that's happened this past week? Well, except many, many emails, people
+asking if we were affected. All was easy. We did not have any relationship
+with the SVB. So we're basically untouched with the situation.
+Okay, fair enough. Unless the market really suffers with it, then I think
+everybody will get the impact. Yeah, definitely. So yeah, what
+about the future? So paint me a picture of what interventional systems
+will look like in the next five to 10 years. Well, in the next five to 10 years,
+we will be a company that is going to be providing robots for a multitude of
+procedures that the big robots cannot support. I think there are some
+indications where robotics have penetrated immensely. We're talking about
+total joints, the intuitive type robots, which we do not compete with, so that's
+not our scope. But we believe that the system is going to be used by a multitude
+of strategics and partners that are able to use their instrumentation,
+their implants to treat patients better. We see ourselves in the future as being
+able to participate in all these businesses as robot suppliers. And we do
+have a special love for a couple of these markets, like the interventional
+radiology and oncology, the kidney stone, and we do hope that we continue
+running them in a good and profitable business. It's funny because usually
+as a CEO, people would ask, okay, what's your next step? Do you want
+to grow the company public? Do you want to be a unicorn and so on?
+Honestly, it's not our DNA. It's about being a sustainable business. So we don't
+want to be too big and neither too small. We want to make sure we have the right
+size. So above everything, I would like that we really are able to offer
+cost-effective solutions, affordable technology to the customers, and that
+they are using as many procedures as possible, either direct or through
+partners, and have a sustainable and profitable business that is able to
+give the return on investment to the shareholders, give good conditions of
+work and growth opportunities and self-development opportunities for the
+team and our individuals, and ultimately being able to continue bringing
+innovation. So I want to make sure that we never become a pure commercial
+company that forgets what innovation is about, because then it will be losing our
+culture and our soul and we don't want that. Okay, so I'd like to ask a question
+about people who are maybe listening to the podcast who want to enter into
+surgical robotics or even low-cost robotics as your platform is more at
+that end. What advice would you give to people looking to enter the
+market, whether that be from general med tech or academia like yourself? I think
+it's having our backgrounds and our toolkit as an engineer or as a
+salesperson or whoever, very well-defined, so the foundations and the basics need
+to be there. It's important to understand, you know, the clinical challenges that we
+want to enter with, entering the technical specialties are very important, because
+we need to be able to apply basic, or let's say standard, not basic, standard
+engineering to clinical problems. Ultimately, the first thing you learn
+when you study biomedical engineering, at least here in Portugal, is you get your
+biophysics degree and you learn, you know, our body is all about physics and
+physics is the foundation of engineering. So having our foundations set and right
+is important, because ultimately this business is built by biomedical
+engineers or converted electrical, mechanical and software engineers that
+work in this field. So we need to be able to talk shop, you know, we need to be
+able to talk technical challenges and how do we solve them. But then, on the
+other hand, it's very important to understand the clinical difficulties,
+understand what robotics are, how were they built, you know, reading about
+the business models and how the companies do things is very important,
+because ultimately nobody's going to be successful if they don't understand the
+market dynamics. It's not about what you can build. You cannot pick up your
+research project and make it a product, because there's a lot of things about,
+you know, what are the objectives of the strategics, what are the current
+publications the key doctors in this field are doing, what are people looking
+at, what are the reimbursement environments, where are you located as a
+company, all these count in the end. And I think everybody needs to look at
+these different dimensions and look at it. But ultimately, I think it's about
+being able to really, really, really have a solid foundation and a solid
+understanding of the problem you want to solve. We were lucky to have the
+chance to contribute in a field where we can spread throughout different areas
+and that most of the issues we solve with robotics are about accuracy,
+geometrical stuff, navigation, because this is very technical. But if you are
+looking to enter a kind of more therapeutic company, you need to
+specialize, you need to understand what you are doing. So the clinical and
+engineering foundations are important and you need to understand
+exactly what the market dynamics are. Otherwise, you have the risk to have a
+very good engineering solution for a non-existing problem. And this is
+definitely something that won't work. Okay, so because your background is quite
+engineering focused, tell me about some of the foundational skill sets that
+engineers should be looking to take, some classes in school, what skill sets
+should they be learning in order to try and get into the industry?
+Look, everything. I tell you, ultimately, I never imagined. So in our
+engineering school, we don't have a lot of background in economics or
+philosophy and something, but it's something that helps me out today. And
+I try to push the foundation separately while I work, try to have my own
+continuous education. I think everything is important if you are from the
+engineering side and you want to be an engineer in a company. Biophysics is
+very important. It's very important to understand things related to the
+electromechanical aspects of robots and motors. So anything that has to do with
+the basic things like, again, for robotics, drive chains, controllers and
+other things are important. Software plays a very big role currently in
+robotics because with artificial intelligence, augmented reality,
+machine learning things, statistics plays a big role. So I think we need to
+look at really the basic things you need as an engineer. We're talking about
+fundamentals, again, statistics. I think everybody should have a chance if they
+want to do self-development, to study a little bit of management and economics,
+to think about, you know, how things are sold, perception of value, things like
+that. And ultimately, I think everybody should study philosophy in some way, one
+way or another, because it helps you think. It helps you. It's not about who
+or what Aristotle or Plato said. It's about how you think, how you solve a
+problem, how you look to something in a different way with the tool sets you
+have. And if you look at the engineering, it's the same thing. Your premises are
+not logical statements, but are your tools that you have and things kind of
+fall into place. Same way we look at it and we say, small logic problem. You
+target more accurately if you can see what you are doing. You have robots that
+fit inside the gantry and gives you live imaging. How can you target
+accurately with that specific robot? Because you can see what you do with
+that robot. That's how we solve this problem. It's like we try not to bring a
+very academic way to solve it. This is most of the problems we face have been
+solved technically somehow. So the philosophical question is, how can I use
+my resources around me to build something good? It's a question we ask
+us every day.
+Brilliant. So one side of the coin is obviously the skill set side. That's
+only half of the battle. So what kind of behaviors do you look for when you're
+building your team out?
+We like people that challenge the status quo. Not that we like anarchy,
+because in anarchy you cannot work. But I've been in this company time
+enough to see that the culture also builds itself. And what we've seen is
+that whoever in the company grew in leadership were people that challenged
+the status quo. What if every day asking, what if I do this? What if I do
+that? What if we look at this in this way? I think with us, and I think with
+any innovation company, the pace is very, very fast. Sometimes you need to
+do and say sorry afterwards. And sometimes you need to prioritize. It's
+like, look, you need to keep the patient and the safety of the product as a
+first priority. And this is what should drive decisions. Even if it's
+uncomfortable, sometimes for a colleague or for even ourselves to do
+something, we also need to make such decisions. So I think it can only work
+with fast thinkers, people that are able to take risks, controlled risks. So
+it's not like you take a careless decision for the company, but you need
+to be able to decide fast, to decide sometimes with a very limited number of
+data points and limited information. And that's what we look for in terms of
+working. People that think fast, that think different, that are able to
+challenge the status quo and people that don't put a lot of ego in their work.
+Because ultimately, you will not always be right. And this is how it should be.
+We should work together, not for what we believe in, or what we think is the
+right solution. We should work for our beliefs, of course. But ultimately, it
+should be based on facts and based on what is the best solution for the
+business, for the patient, for our investors, for the community. This is
+what should be driven. So fast decision, being able really to think outside the
+box, this is what we look at. Okay, brilliant stuff. And to close off the
+podcast for today, I've got a question I like to ask at the end of every
+episode. In your eyes and your vision, paint me a picture, what do you see as
+the future of surgical robotics? I would see surgical... That's a tough
+question, because I don't know. I cannot really look into the crystal ball,
+but I see that there are some trends that are here to stay. Miniaturization
+is one of them, having a small system that is portable, flexibility and
+versatility. So surgical platforms will win the market, I believe, because they
+will benefit from the cross-pollination of fields and they will take the best
+out of everything and be used in a standardized way. Robotics are a
+system to execute tasks, so there is a finite amount of tasks you can do on a
+certain type of procedure. So robotics will allow the standardization. I will
+believe that they will even autonomously do some part of the procedures, but I
+don't believe they will replace physicians. So I think there's gonna be a
+task sharing. Anything that is basically geometrical, technical, etc., is gonna
+be controlled by robots. The rest will be controlled by the physician on the
+bedside. I believe the physician will never be remote from the patient, because
+it's where they belong, next to the patient, to treat them. I believe that
+things like augmented reality, machine learning, digital twinning will be very
+important. I think it's gonna be way easier to see, to have access to
+information in real time, based on information we are reading, because
+robots are sensors as well. Anything that you can use to control, you can also
+use to sense and measure. So I believe that robotics will be part of the
+whole ecosystem. They will be something that will allow you to execute some
+tasks, sometimes autonomously. In some ways, I believe they will be sensors that
+will inform you, and I think they will be trained and work to react to things
+that we'll measure, see, or have planned before. And therefore, I see them as a
+very high-skilled physician assistant that's gonna be in the room, to do
+exactly what the physician wants them to do, when standing next to it. So that's
+how I look at it in 10 years. If we talk in 20-30 years, I believe that some
+things won't require a physician there, maybe. And ultimately, in 50-100 years,
+you didn't ask, but I think robotics will cease to exist, because I believe we'll
+be so good at prevention, and robots will be different. Will be tiny things that
+go inside your body and fix it for you, or you will even do complete organ
+replacement. So as with anything in life, robotics exist, they will have their
+peak, but I also think they will eventually fade away, because something
+greater appeared, and which is good. It's what we always strive for as humanity.
+Fantastic. Well, what an answer to finish on. So thank you very much for being a guest,
+Pedro. It's been a pleasure.
+Been a pleasure. Thank you.
